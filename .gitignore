@@ -1,0 +1,3 @@
+build/*
+registry/generated/*
+*.tmp

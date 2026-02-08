@@ -1,0 +1,15 @@
+{
+  "terminal.integrated.profiles.windows": {
+    "TimeglassFoods PowerShell": {
+      "path": "C:\\Windows\\System32\\WindowsPowerShell\\v1.0\\powershell.exe",
+      "args": [
+        "-NoExit",
+        "-ExecutionPolicy",
+        "Bypass",
+        "-File",
+        "${workspaceFolder}\\.vscode\\powershell.profile.ps1"
+      ]
+    }
+  },
+  "terminal.integrated.defaultProfile.windows": "TimeglassFoods PowerShell"
+}
