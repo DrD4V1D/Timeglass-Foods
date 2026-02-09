@@ -1,0 +1,9 @@
+{
+  "assigned_buffs": {},
+  "direct_ingredients": [
+    "tag:forge:donut_hole",
+    "tag:forge:powdered_sugar"
+  ],
+  "enabled": true,
+  "id": "createfood:donut_hole_sugar"
+}

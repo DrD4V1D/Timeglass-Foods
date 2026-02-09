@@ -1,0 +1,15 @@
+{
+  "assigned_buffs": {},
+  "direct_ingredients": [
+    "item:croptopia:cinnamon",
+    "item:minecraft:egg",
+    "item:minecraft:sugar",
+    "tag:forge:fruits",
+    "tag:forge:lemons",
+    "tag:forge:nutmegs",
+    "tag:forge:pecans",
+    "tag:forge:salts"
+  ],
+  "enabled": true,
+  "id": "croptopia:fruit_cake"
+}

@@ -1,0 +1,10 @@
+{
+  "assigned_buffs": {},
+  "direct_ingredients": [
+    "item:croptopia:food_press",
+    "item:minecraft:glass_bottle",
+    "tag:forge:apples"
+  ],
+  "enabled": true,
+  "id": "croptopia:apple_juice"
+}

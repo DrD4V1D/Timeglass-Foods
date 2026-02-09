@@ -1,0 +1,9 @@
+{
+  "assigned_buffs": {},
+  "direct_ingredients": [
+    "item:croptopia:cabbage_seed",
+    "tag:forge:cabbage"
+  ],
+  "enabled": true,
+  "id": "croptopia:cabbage_seed"
+}

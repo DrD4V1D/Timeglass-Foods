@@ -1,0 +1,11 @@
+{
+  "assigned_buffs": {},
+  "direct_ingredients": [
+    "item:farmersdelight:red_mushroom_colony",
+    "tag:forge:crops/rice",
+    "tag:forge:crops/tomato",
+    "tag:forge:raw_fishes/perch"
+  ],
+  "enabled": true,
+  "id": "abnormals_delight:perch_with_mushrooms"
+}

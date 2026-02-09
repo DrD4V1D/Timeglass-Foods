@@ -1,0 +1,11 @@
+{
+  "assigned_buffs": {},
+  "direct_ingredients": [
+    "item:croptopia:cooking_pot",
+    "tag:forge:olive_oils",
+    "tag:forge:salts",
+    "tag:forge:sweetpotatos"
+  ],
+  "enabled": true,
+  "id": "croptopia:sweet_potato_fries"
+}

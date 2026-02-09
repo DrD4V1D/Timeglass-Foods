@@ -1,0 +1,11 @@
+{
+  "assigned_buffs": {},
+  "direct_ingredients": [
+    "item:garnished:ender_jelly",
+    "item:garnished:preliminary_nucleus",
+    "item:garnished:void_dust",
+    "item:minecraft:shulker_shell"
+  ],
+  "enabled": true,
+  "id": "garnished:shelled_dumpling"
+}

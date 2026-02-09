@@ -1,0 +1,10 @@
+{
+  "assigned_buffs": {},
+  "direct_ingredients": [
+    "item:minecraft:sugar",
+    "tag:forge:almonds",
+    "tag:forge:butters"
+  ],
+  "enabled": true,
+  "id": "croptopia:almond_brittle"
+}

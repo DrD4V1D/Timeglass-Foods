@@ -1,0 +1,9 @@
+{
+  "assigned_buffs": {},
+  "direct_ingredients": [
+    "item:croptopia:cucumber_seed",
+    "tag:forge:cucumbers"
+  ],
+  "enabled": true,
+  "id": "croptopia:cucumber_seed"
+}

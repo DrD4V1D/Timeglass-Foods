@@ -1,0 +1,8 @@
+{
+  "assigned_buffs": {},
+  "direct_ingredients": [
+    "tag:forge:bread_slice"
+  ],
+  "enabled": true,
+  "id": "createfood:toast_slice"
+}

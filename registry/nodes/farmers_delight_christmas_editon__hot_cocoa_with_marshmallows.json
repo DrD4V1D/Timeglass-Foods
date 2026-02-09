@@ -1,0 +1,9 @@
+{
+  "assigned_buffs": {},
+  "direct_ingredients": [
+    "item:farmers_delight_christmas_editon:marshmallow",
+    "item:farmersdelight:hot_cocoa"
+  ],
+  "enabled": true,
+  "id": "farmers_delight_christmas_editon:hot_cocoa_with_marshmallows"
+}

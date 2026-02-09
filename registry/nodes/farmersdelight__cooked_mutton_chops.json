@@ -1,0 +1,9 @@
+{
+  "assigned_buffs": {},
+  "direct_ingredients": [
+    "item:farmersdelight:mutton_chops",
+    "item:minecraft:cooked_mutton"
+  ],
+  "enabled": true,
+  "id": "farmersdelight:cooked_mutton_chops"
+}

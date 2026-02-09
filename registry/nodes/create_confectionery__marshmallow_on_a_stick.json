@@ -1,0 +1,9 @@
+{
+  "assigned_buffs": {},
+  "direct_ingredients": [
+    "item:create_confectionery:marshmallow",
+    "item:minecraft:stick"
+  ],
+  "enabled": true,
+  "id": "create_confectionery:marshmallow_on_a_stick"
+}

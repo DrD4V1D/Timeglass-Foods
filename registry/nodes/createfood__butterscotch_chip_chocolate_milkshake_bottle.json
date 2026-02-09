@@ -1,0 +1,9 @@
+{
+  "assigned_buffs": {},
+  "direct_ingredients": [
+    "tag:forge:butterscotch_chips",
+    "tag:forge:chocolate_milkshake"
+  ],
+  "enabled": true,
+  "id": "createfood:butterscotch_chip_chocolate_milkshake_bottle"
+}

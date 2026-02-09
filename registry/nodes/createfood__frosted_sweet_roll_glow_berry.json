@@ -1,0 +1,9 @@
+{
+  "assigned_buffs": {},
+  "direct_ingredients": [
+    "item:create:sweet_roll",
+    "item:minecraft:glow_berries"
+  ],
+  "enabled": true,
+  "id": "createfood:frosted_sweet_roll_glow_berry"
+}

@@ -1,0 +1,8 @@
+{
+  "assigned_buffs": {},
+  "direct_ingredients": [
+    "item:croptopia:coffee_seed"
+  ],
+  "enabled": true,
+  "id": "croptopia:coffee_beans"
+}

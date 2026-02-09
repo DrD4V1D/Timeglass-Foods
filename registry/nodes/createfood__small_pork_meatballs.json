@@ -1,0 +1,8 @@
+{
+  "assigned_buffs": {},
+  "direct_ingredients": [
+    "tag:forge:pork_meatball"
+  ],
+  "enabled": true,
+  "id": "createfood:small_pork_meatballs"
+}

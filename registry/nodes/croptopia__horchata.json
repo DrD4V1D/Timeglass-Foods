@@ -1,0 +1,13 @@
+{
+  "assigned_buffs": {},
+  "direct_ingredients": [
+    "item:croptopia:cinnamon",
+    "item:minecraft:sugar",
+    "tag:forge:almonds",
+    "tag:forge:limes",
+    "tag:forge:rice",
+    "tag:forge:water_bottles"
+  ],
+  "enabled": true,
+  "id": "croptopia:horchata"
+}

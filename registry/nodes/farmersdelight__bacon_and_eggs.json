@@ -1,0 +1,10 @@
+{
+  "assigned_buffs": {},
+  "direct_ingredients": [
+    "item:farmersdelight:cooked_bacon",
+    "item:minecraft:bowl",
+    "tag:forge:cooked_eggs"
+  ],
+  "enabled": true,
+  "id": "farmersdelight:bacon_and_eggs"
+}

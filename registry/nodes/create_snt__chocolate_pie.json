@@ -1,0 +1,8 @@
+{
+  "assigned_buffs": {},
+  "direct_ingredients": [
+    "item:create_snt:pie"
+  ],
+  "enabled": true,
+  "id": "create_snt:chocolate_pie"
+}

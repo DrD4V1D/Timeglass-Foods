@@ -1,0 +1,15 @@
+{
+  "assigned_buffs": {},
+  "direct_ingredients": [
+    "item:minecraft:ink_sac",
+    "tag:forge:cooked_fishes",
+    "tag:forge:crops/tomato",
+    "tag:forge:pasta",
+    "tag:forge:pasta_plate_fish",
+    "tag:forge:pasta_plate_squid_ink",
+    "tag:forge:raw_fishes",
+    "tag:forge:squid_ink_bucket"
+  ],
+  "enabled": true,
+  "id": "farmersdelight:squid_ink_pasta"
+}

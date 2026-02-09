@@ -1,0 +1,13 @@
+{
+  "assigned_buffs": {},
+  "direct_ingredients": [
+    "item:minecraft:water_bucket",
+    "item:minecraft:wheat",
+    "tag:forge:buckets/water",
+    "tag:forge:eggs",
+    "tag:forge:flour/wheat",
+    "tag:forge:wheat_flour"
+  ],
+  "enabled": true,
+  "id": "farmersdelight:wheat_dough"
+}

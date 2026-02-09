@@ -1,0 +1,23 @@
+{
+  "assigned_buffs": {},
+  "direct_ingredients": [
+    "item:biomesoplenty:blue_hydrangea",
+    "item:blue_skies:chillweed",
+    "item:blue_skies:frose",
+    "item:byg:winter_scilla",
+    "item:environmental:blue_delphinium",
+    "item:minecraft:blue_orchid",
+    "item:regions_unexplored:aster",
+    "item:regions_unexplored:blue_magnolia_flowers",
+    "item:regions_unexplored:felicia_daisy",
+    "item:regions_unexplored:glistering_bloom",
+    "item:regions_unexplored:light_blue_snowbelle",
+    "item:undergarden:miserabell",
+    "item:upgrade_aquatic:petal_coral",
+    "item:upgrade_aquatic:petal_coral_fan",
+    "tag:biomeswevegone:dye/makes_light_blue",
+    "tag:botania:petals/light_blue"
+  ],
+  "enabled": true,
+  "id": "minecraft:light_blue_dye"
+}

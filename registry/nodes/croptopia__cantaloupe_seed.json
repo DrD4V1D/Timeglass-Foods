@@ -1,0 +1,9 @@
+{
+  "assigned_buffs": {},
+  "direct_ingredients": [
+    "item:croptopia:cantaloupe_seed",
+    "tag:forge:cantaloupes"
+  ],
+  "enabled": true,
+  "id": "croptopia:cantaloupe_seed"
+}

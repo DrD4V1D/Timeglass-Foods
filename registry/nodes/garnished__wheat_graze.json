@@ -1,0 +1,9 @@
+{
+  "assigned_buffs": {},
+  "direct_ingredients": [
+    "item:garnished:mastic_paste",
+    "item:minecraft:wheat"
+  ],
+  "enabled": true,
+  "id": "garnished:wheat_graze"
+}

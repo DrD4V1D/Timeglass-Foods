@@ -1,0 +1,11 @@
+{
+  "assigned_buffs": {},
+  "direct_ingredients": [
+    "item:croptopia:frying_pan",
+    "tag:forge:kale",
+    "tag:forge:olive_oils",
+    "tag:forge:salts"
+  ],
+  "enabled": true,
+  "id": "croptopia:kale_chips"
+}

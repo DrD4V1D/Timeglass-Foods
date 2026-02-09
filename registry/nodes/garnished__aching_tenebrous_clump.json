@@ -1,0 +1,9 @@
+{
+  "assigned_buffs": {},
+  "direct_ingredients": [
+    "item:garnished:chestnut",
+    "item:garnished:raw_tenebrous_meat"
+  ],
+  "enabled": true,
+  "id": "garnished:aching_tenebrous_clump"
+}

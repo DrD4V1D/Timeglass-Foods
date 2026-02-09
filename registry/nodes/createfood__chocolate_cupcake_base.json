@@ -1,0 +1,8 @@
+{
+  "assigned_buffs": {},
+  "direct_ingredients": [
+    "tag:forge:raw_chocolate_cupcake_base"
+  ],
+  "enabled": true,
+  "id": "createfood:chocolate_cupcake_base"
+}

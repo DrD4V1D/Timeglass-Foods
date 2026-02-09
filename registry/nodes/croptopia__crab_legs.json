@@ -1,0 +1,13 @@
+{
+  "assigned_buffs": {},
+  "direct_ingredients": [
+    "item:croptopia:frying_pan",
+    "item:croptopia:pepper",
+    "tag:forge:butters",
+    "tag:forge:crabs",
+    "tag:forge:garlic",
+    "tag:forge:salts"
+  ],
+  "enabled": true,
+  "id": "croptopia:crab_legs"
+}

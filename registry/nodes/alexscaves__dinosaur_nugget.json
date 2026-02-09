@@ -1,0 +1,8 @@
+{
+  "assigned_buffs": {},
+  "direct_ingredients": [
+    "item:alexscaves:cooked_dinosaur_chop"
+  ],
+  "enabled": true,
+  "id": "alexscaves:dinosaur_nugget"
+}

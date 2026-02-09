@@ -1,0 +1,10 @@
+{
+  "assigned_buffs": {},
+  "direct_ingredients": [
+    "item:gourmet:cooked_drumstick",
+    "item:gourmet:dumpling",
+    "item:minecraft:carrot"
+  ],
+  "enabled": true,
+  "id": "gourmet:comforting_dumpling_meal"
+}

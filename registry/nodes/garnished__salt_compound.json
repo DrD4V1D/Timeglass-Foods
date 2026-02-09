@@ -1,0 +1,9 @@
+{
+  "assigned_buffs": {},
+  "direct_ingredients": [
+    "item:garnished:crushed_salt",
+    "item:garnished:salt_compound_block"
+  ],
+  "enabled": true,
+  "id": "garnished:salt_compound"
+}

@@ -1,0 +1,8 @@
+{
+  "assigned_buffs": {},
+  "direct_ingredients": [
+    "item:quark:chorus_fruit_block"
+  ],
+  "enabled": true,
+  "id": "minecraft:chorus_fruit"
+}

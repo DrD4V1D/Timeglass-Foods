@@ -1,0 +1,11 @@
+{
+  "assigned_buffs": {},
+  "direct_ingredients": [
+    "item:garnished:macadamia",
+    "item:garnished:murky_jelly",
+    "item:garnished:volatile_dust",
+    "item:minecraft:bowl"
+  ],
+  "enabled": true,
+  "id": "garnished:murky_macadamia_malice"
+}

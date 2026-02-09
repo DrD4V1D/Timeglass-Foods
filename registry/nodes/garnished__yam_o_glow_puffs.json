@@ -1,0 +1,10 @@
+{
+  "assigned_buffs": {},
+  "direct_ingredients": [
+    "item:minecraft:glow_berries",
+    "item:minecraft:hanging_roots",
+    "item:minecraft:potato"
+  ],
+  "enabled": true,
+  "id": "garnished:yam_o_glow_puffs"
+}

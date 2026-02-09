@@ -1,0 +1,8 @@
+{
+  "assigned_buffs": {},
+  "direct_ingredients": [
+    "tag:forge:raw_onion_calzone"
+  ],
+  "enabled": true,
+  "id": "createfood:onion_calzone"
+}

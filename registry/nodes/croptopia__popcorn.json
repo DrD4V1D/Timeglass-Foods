@@ -1,0 +1,9 @@
+{
+  "assigned_buffs": {},
+  "direct_ingredients": [
+    "item:croptopia:corn",
+    "tag:forge:corn"
+  ],
+  "enabled": true,
+  "id": "croptopia:popcorn"
+}

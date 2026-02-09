@@ -1,0 +1,8 @@
+{
+  "assigned_buffs": {},
+  "direct_ingredients": [
+    "item:gourmet:cooked_bacon"
+  ],
+  "enabled": true,
+  "id": "gourmet:caramelized_bacon"
+}

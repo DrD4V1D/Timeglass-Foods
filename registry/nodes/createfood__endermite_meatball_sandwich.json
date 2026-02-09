@@ -1,0 +1,9 @@
+{
+  "assigned_buffs": {},
+  "direct_ingredients": [
+    "item:minecraft:bread",
+    "tag:forge:small_endermite_meatballs"
+  ],
+  "enabled": true,
+  "id": "createfood:endermite_meatball_sandwich"
+}

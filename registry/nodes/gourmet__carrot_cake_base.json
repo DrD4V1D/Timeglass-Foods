@@ -1,0 +1,9 @@
+{
+  "assigned_buffs": {},
+  "direct_ingredients": [
+    "item:gourmet:carrot_slices",
+    "item:minecraft:sugar"
+  ],
+  "enabled": true,
+  "id": "gourmet:carrot_cake_base"
+}

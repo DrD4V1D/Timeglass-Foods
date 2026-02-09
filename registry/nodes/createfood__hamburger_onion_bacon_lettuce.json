@@ -1,0 +1,13 @@
+{
+  "assigned_buffs": {},
+  "direct_ingredients": [
+    "tag:forge:beef_bun_onion_bacon_lettuce",
+    "tag:forge:bun",
+    "tag:forge:cooked_beef",
+    "tag:forge:cooked_pork",
+    "tag:forge:onion",
+    "tag:forge:salad_ingredients"
+  ],
+  "enabled": true,
+  "id": "createfood:hamburger_onion_bacon_lettuce"
+}

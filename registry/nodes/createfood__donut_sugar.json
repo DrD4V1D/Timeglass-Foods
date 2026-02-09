@@ -1,0 +1,9 @@
+{
+  "assigned_buffs": {},
+  "direct_ingredients": [
+    "tag:forge:donut_base",
+    "tag:forge:powdered_sugar"
+  ],
+  "enabled": true,
+  "id": "createfood:donut_sugar"
+}

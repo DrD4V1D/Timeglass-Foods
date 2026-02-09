@@ -1,0 +1,11 @@
+{
+  "assigned_buffs": {},
+  "direct_ingredients": [
+    "tag:croptopia:meat_replacements",
+    "tag:forge:cheeses",
+    "tag:forge:tomatoes",
+    "tag:forge:tortillas"
+  ],
+  "enabled": true,
+  "id": "croptopia:enchilada"
+}

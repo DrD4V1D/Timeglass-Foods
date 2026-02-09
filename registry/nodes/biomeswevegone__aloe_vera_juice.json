@@ -1,0 +1,9 @@
+{
+  "assigned_buffs": {},
+  "direct_ingredients": [
+    "item:biomeswevegone:aloe_vera",
+    "item:minecraft:glass_bottle"
+  ],
+  "enabled": true,
+  "id": "biomeswevegone:aloe_vera_juice"
+}

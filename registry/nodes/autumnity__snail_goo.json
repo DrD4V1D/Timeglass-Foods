@@ -1,0 +1,8 @@
+{
+  "assigned_buffs": {},
+  "direct_ingredients": [
+    "item:autumnity:snail_goo_block"
+  ],
+  "enabled": true,
+  "id": "autumnity:snail_goo"
+}

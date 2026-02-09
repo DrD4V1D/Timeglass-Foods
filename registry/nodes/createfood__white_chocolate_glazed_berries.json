@@ -1,0 +1,9 @@
+{
+  "assigned_buffs": {},
+  "direct_ingredients": [
+    "item:minecraft:sweet_berries",
+    "tag:forge:white_chocolate_chips"
+  ],
+  "enabled": true,
+  "id": "createfood:white_chocolate_glazed_berries"
+}

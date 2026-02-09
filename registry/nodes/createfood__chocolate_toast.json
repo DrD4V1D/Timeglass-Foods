@@ -1,0 +1,9 @@
+{
+  "assigned_buffs": {},
+  "direct_ingredients": [
+    "tag:forge:chocolate_bottle",
+    "tag:forge:toast"
+  ],
+  "enabled": true,
+  "id": "createfood:chocolate_toast"
+}

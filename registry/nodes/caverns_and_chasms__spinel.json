@@ -1,0 +1,11 @@
+{
+  "assigned_buffs": {},
+  "direct_ingredients": [
+    "item:caverns_and_chasms:deepslate_spinel_ore",
+    "item:caverns_and_chasms:spinel_block",
+    "item:caverns_and_chasms:spinel_bricks",
+    "item:caverns_and_chasms:spinel_ore"
+  ],
+  "enabled": true,
+  "id": "caverns_and_chasms:spinel"
+}

@@ -1,0 +1,9 @@
+{
+  "assigned_buffs": {},
+  "direct_ingredients": [
+    "tag:forge:caramel_bucket",
+    "tag:forge:sugar"
+  ],
+  "enabled": true,
+  "id": "createfood:caramel"
+}

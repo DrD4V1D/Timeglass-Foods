@@ -1,0 +1,9 @@
+{
+  "assigned_buffs": {},
+  "direct_ingredients": [
+    "item:autumnity:syrup_bottle",
+    "item:farmersdelight:cooked_bacon"
+  ],
+  "enabled": true,
+  "id": "abnormals_delight:maple_glazed_bacon"
+}

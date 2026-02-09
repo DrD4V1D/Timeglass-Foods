@@ -1,0 +1,9 @@
+{
+  "assigned_buffs": {},
+  "direct_ingredients": [
+    "item:biomeswevegone:cooked_oddion_bulb",
+    "item:minecraft:bowl"
+  ],
+  "enabled": true,
+  "id": "biomeswevegone:allium_oddion_soup"
+}

@@ -1,0 +1,12 @@
+{
+  "assigned_buffs": {},
+  "direct_ingredients": [
+    "item:croptopia:cooking_pot",
+    "item:minecraft:egg",
+    "item:minecraft:sugar",
+    "tag:forge:mangos",
+    "tag:forge:milks"
+  ],
+  "enabled": true,
+  "id": "croptopia:mango_ice_cream"
+}

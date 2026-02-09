@@ -1,0 +1,10 @@
+{
+  "assigned_buffs": {},
+  "direct_ingredients": [
+    "tag:forge:pasta_plate",
+    "tag:forge:raw_pasta",
+    "tag:forge:small_pork_meatballs"
+  ],
+  "enabled": true,
+  "id": "createfood:pasta_plate_pork_meatballs"
+}

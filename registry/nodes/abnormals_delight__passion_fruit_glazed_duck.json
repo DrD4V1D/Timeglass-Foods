@@ -1,0 +1,12 @@
+{
+  "assigned_buffs": {},
+  "direct_ingredients": [
+    "item:minecraft:baked_potato",
+    "item:minecraft:bowl",
+    "tag:forge:cooked_duck",
+    "tag:forge:crops/onion",
+    "tag:forge:fruits/passion_fruit"
+  ],
+  "enabled": true,
+  "id": "abnormals_delight:passion_fruit_glazed_duck"
+}

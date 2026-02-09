@@ -1,0 +1,9 @@
+{
+  "assigned_buffs": {},
+  "direct_ingredients": [
+    "tag:forge:brown_sugar",
+    "tag:forge:butterscotch_bucket"
+  ],
+  "enabled": true,
+  "id": "createfood:butterscotch"
+}

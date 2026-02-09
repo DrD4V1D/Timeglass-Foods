@@ -1,0 +1,12 @@
+{
+  "assigned_buffs": {},
+  "direct_ingredients": [
+    "item:minecraft:slime_ball",
+    "item:minecraft:sugar",
+    "item:minecraft:wheat_seeds",
+    "item:minecraft:yellow_dye",
+    "tag:garnished:mastic_resin"
+  ],
+  "enabled": true,
+  "id": "garnished:mastic_resin_yellow"
+}

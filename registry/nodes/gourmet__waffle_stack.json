@@ -1,0 +1,8 @@
+{
+  "assigned_buffs": {},
+  "direct_ingredients": [
+    "item:gourmet:waffle"
+  ],
+  "enabled": true,
+  "id": "gourmet:waffle_stack"
+}

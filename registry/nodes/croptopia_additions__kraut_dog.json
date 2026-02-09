@@ -1,0 +1,10 @@
+{
+  "assigned_buffs": {},
+  "direct_ingredients": [
+    "item:croptopia_additions:bratwurst",
+    "item:croptopia_additions:sauerkraut",
+    "item:minecraft:bread"
+  ],
+  "enabled": true,
+  "id": "croptopia_additions:kraut_dog"
+}

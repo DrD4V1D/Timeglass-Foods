@@ -1,0 +1,10 @@
+{
+  "assigned_buffs": {},
+  "direct_ingredients": [
+    "item:minecraft:carrot",
+    "item:minecraft:potato",
+    "tag:forge:raw_beef"
+  ],
+  "enabled": true,
+  "id": "farmersdelight:beef_stew"
+}

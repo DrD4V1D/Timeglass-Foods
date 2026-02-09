@@ -1,0 +1,8 @@
+{
+  "assigned_buffs": {},
+  "direct_ingredients": [
+    "item:minecraft:bucket"
+  ],
+  "enabled": true,
+  "id": "minecraft:water_bucket"
+}

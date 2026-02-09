@@ -1,0 +1,10 @@
+{
+  "assigned_buffs": {},
+  "direct_ingredients": [
+    "item:garnished:nut_mix",
+    "tag:garnished:berries",
+    "tag:garnished:honeyed_nuts"
+  ],
+  "enabled": true,
+  "id": "garnished:honeyed_nut_mix"
+}

@@ -1,0 +1,8 @@
+{
+  "assigned_buffs": {},
+  "direct_ingredients": [
+    "item:create_central_kitchen:pumpkin_cake_slice"
+  ],
+  "enabled": true,
+  "id": "seasonals:pumpkin_cake"
+}

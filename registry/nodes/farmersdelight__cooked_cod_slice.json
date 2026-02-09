@@ -1,0 +1,9 @@
+{
+  "assigned_buffs": {},
+  "direct_ingredients": [
+    "item:farmersdelight:cod_slice",
+    "item:minecraft:cooked_cod"
+  ],
+  "enabled": true,
+  "id": "farmersdelight:cooked_cod_slice"
+}

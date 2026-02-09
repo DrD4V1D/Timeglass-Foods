@@ -1,0 +1,9 @@
+{
+  "assigned_buffs": {},
+  "direct_ingredients": [
+    "item:croptopia:calamari",
+    "item:croptopia:glowing_calamari"
+  ],
+  "enabled": true,
+  "id": "croptopia:cooked_calamari"
+}

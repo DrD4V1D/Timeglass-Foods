@@ -1,0 +1,8 @@
+{
+  "assigned_buffs": {},
+  "direct_ingredients": [
+    "tag:forge:ground_beef"
+  ],
+  "enabled": true,
+  "id": "gourmet:beef_patty"
+}

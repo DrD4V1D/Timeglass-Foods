@@ -1,0 +1,8 @@
+{
+  "assigned_buffs": {},
+  "direct_ingredients": [
+    "tag:forge:butter_dough"
+  ],
+  "enabled": true,
+  "id": "createfood:butter_dough_small"
+}

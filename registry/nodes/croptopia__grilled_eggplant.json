@@ -1,0 +1,13 @@
+{
+  "assigned_buffs": {},
+  "direct_ingredients": [
+    "item:croptopia:pepper",
+    "tag:forge:eggplants",
+    "tag:forge:garlic",
+    "tag:forge:olive_oils",
+    "tag:forge:paprika",
+    "tag:forge:salts"
+  ],
+  "enabled": true,
+  "id": "croptopia:grilled_eggplant"
+}

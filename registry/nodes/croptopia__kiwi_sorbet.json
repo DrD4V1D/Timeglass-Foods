@@ -1,0 +1,9 @@
+{
+  "assigned_buffs": {},
+  "direct_ingredients": [
+    "item:minecraft:honey_bottle",
+    "tag:forge:kiwis"
+  ],
+  "enabled": true,
+  "id": "croptopia:kiwi_sorbet"
+}

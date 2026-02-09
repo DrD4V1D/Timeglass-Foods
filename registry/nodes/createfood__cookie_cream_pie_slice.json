@@ -1,0 +1,8 @@
+{
+  "assigned_buffs": {},
+  "direct_ingredients": [
+    "tag:forge:cookie_cream_pie"
+  ],
+  "enabled": true,
+  "id": "createfood:cookie_cream_pie_slice"
+}

@@ -1,0 +1,14 @@
+{
+  "assigned_buffs": {},
+  "direct_ingredients": [
+    "item:minecraft:baked_potato",
+    "item:minecraft:brown_mushroom",
+    "item:minecraft:carrot",
+    "item:minecraft:rabbit",
+    "item:minecraft:red_mushroom",
+    "tag:forge:mushrooms",
+    "tag:forge:vegetables/carrot"
+  ],
+  "enabled": true,
+  "id": "minecraft:rabbit_stew"
+}

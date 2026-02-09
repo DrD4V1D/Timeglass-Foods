@@ -1,0 +1,12 @@
+{
+  "assigned_buffs": {},
+  "direct_ingredients": [
+    "item:alexsmobs:komodo_spit",
+    "item:create:dough",
+    "item:minecraft:magma_cream",
+    "tag:forge:dough",
+    "tag:forge:dyes/lime"
+  ],
+  "enabled": true,
+  "id": "minecraft:slime_ball"
+}

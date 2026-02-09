@@ -1,0 +1,8 @@
+{
+  "assigned_buffs": {},
+  "direct_ingredients": [
+    "item:croptopia:vanilla_seeds"
+  ],
+  "enabled": true,
+  "id": "croptopia:vanilla"
+}

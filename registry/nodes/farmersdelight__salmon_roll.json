@@ -1,0 +1,9 @@
+{
+  "assigned_buffs": {},
+  "direct_ingredients": [
+    "item:farmersdelight:cooked_rice",
+    "item:farmersdelight:salmon_slice"
+  ],
+  "enabled": true,
+  "id": "farmersdelight:salmon_roll"
+}

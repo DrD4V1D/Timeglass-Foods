@@ -1,0 +1,9 @@
+{
+  "assigned_buffs": {},
+  "direct_ingredients": [
+    "item:minecraft:stick",
+    "tag:forge:endermite_meatball"
+  ],
+  "enabled": true,
+  "id": "createfood:endermite_meatball_stick_1"
+}

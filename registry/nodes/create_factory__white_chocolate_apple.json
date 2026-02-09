@@ -1,0 +1,8 @@
+{
+  "assigned_buffs": {},
+  "direct_ingredients": [
+    "item:minecraft:apple"
+  ],
+  "enabled": true,
+  "id": "create_factory:white_chocolate_apple"
+}

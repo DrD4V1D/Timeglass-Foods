@@ -1,0 +1,9 @@
+{
+  "assigned_buffs": {},
+  "direct_ingredients": [
+    "tag:forge:baked_beans",
+    "tag:forge:toasts"
+  ],
+  "enabled": true,
+  "id": "croptopia_additions:beans_on_toast"
+}

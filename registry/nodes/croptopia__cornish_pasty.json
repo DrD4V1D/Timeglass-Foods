@@ -1,0 +1,14 @@
+{
+  "assigned_buffs": {},
+  "direct_ingredients": [
+    "item:croptopia:frying_pan",
+    "item:croptopia:pepper",
+    "item:minecraft:beef",
+    "item:minecraft:potato",
+    "tag:forge:flour",
+    "tag:forge:onions",
+    "tag:forge:rutabagas"
+  ],
+  "enabled": true,
+  "id": "croptopia:cornish_pasty"
+}

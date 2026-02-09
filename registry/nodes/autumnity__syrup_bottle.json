@@ -1,0 +1,8 @@
+{
+  "assigned_buffs": {},
+  "direct_ingredients": [
+    "item:autumnity:sap_bottle"
+  ],
+  "enabled": true,
+  "id": "autumnity:syrup_bottle"
+}

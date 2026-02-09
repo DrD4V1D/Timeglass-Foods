@@ -1,0 +1,14 @@
+{
+  "assigned_buffs": {},
+  "direct_ingredients": [
+    "item:croptopia:cinnamon",
+    "item:croptopia:food_press",
+    "item:croptopia:vanilla",
+    "item:croptopia_additions:carbonation_machine",
+    "item:minecraft:glass_bottle",
+    "item:minecraft:sugar",
+    "tag:forge:oranges"
+  ],
+  "enabled": true,
+  "id": "croptopia_additions:cola"
+}

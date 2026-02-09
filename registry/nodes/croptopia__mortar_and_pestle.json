@@ -1,0 +1,9 @@
+{
+  "assigned_buffs": {},
+  "direct_ingredients": [
+    "item:minecraft:bowl",
+    "item:minecraft:stick"
+  ],
+  "enabled": true,
+  "id": "croptopia:mortar_and_pestle"
+}

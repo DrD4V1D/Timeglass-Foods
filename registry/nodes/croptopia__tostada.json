@@ -1,0 +1,11 @@
+{
+  "assigned_buffs": {},
+  "direct_ingredients": [
+    "tag:forge:blackbeans",
+    "tag:forge:lettuce",
+    "tag:forge:tomatoes",
+    "tag:forge:tortillas"
+  ],
+  "enabled": true,
+  "id": "croptopia:tostada"
+}

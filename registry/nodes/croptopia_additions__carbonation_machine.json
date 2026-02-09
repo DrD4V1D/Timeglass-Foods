@@ -1,0 +1,10 @@
+{
+  "assigned_buffs": {},
+  "direct_ingredients": [
+    "item:minecraft:hopper",
+    "item:minecraft:iron_ingot",
+    "item:minecraft:redstone"
+  ],
+  "enabled": true,
+  "id": "croptopia_additions:carbonation_machine"
+}

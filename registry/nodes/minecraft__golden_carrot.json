@@ -1,0 +1,10 @@
+{
+  "assigned_buffs": {},
+  "direct_ingredients": [
+    "item:minecraft:carrot",
+    "item:quark:golden_carrot_crate",
+    "tag:forge:nuggets/gold"
+  ],
+  "enabled": true,
+  "id": "minecraft:golden_carrot"
+}

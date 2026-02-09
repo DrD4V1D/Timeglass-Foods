@@ -1,0 +1,8 @@
+{
+  "assigned_buffs": {},
+  "direct_ingredients": [
+    "item:undergarden:raw_gwibling"
+  ],
+  "enabled": true,
+  "id": "undergarden:cooked_gwibling"
+}

@@ -1,0 +1,9 @@
+{
+  "assigned_buffs": {},
+  "direct_ingredients": [
+    "item:minecraft:glass_bottle",
+    "tag:forge:chorus_fruit_cream_frosting_bucket"
+  ],
+  "enabled": true,
+  "id": "createfood:chorus_fruit_cream_frosting_bottle"
+}

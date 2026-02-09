@@ -1,0 +1,9 @@
+{
+  "assigned_buffs": {},
+  "direct_ingredients": [
+    "item:create_central_kitchen:chocolate_cake_slice",
+    "item:createaddition:cake_base_baked"
+  ],
+  "enabled": true,
+  "id": "createaddition:chocolate_cake"
+}

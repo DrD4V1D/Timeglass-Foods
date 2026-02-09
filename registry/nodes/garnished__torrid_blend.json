@@ -1,0 +1,9 @@
+{
+  "assigned_buffs": {},
+  "direct_ingredients": [
+    "item:garnished:brittle_dust",
+    "item:garnished:senile_dust"
+  ],
+  "enabled": true,
+  "id": "garnished:torrid_blend"
+}

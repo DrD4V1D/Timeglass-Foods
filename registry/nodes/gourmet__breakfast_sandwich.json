@@ -1,0 +1,8 @@
+{
+  "assigned_buffs": {},
+  "direct_ingredients": [
+    "item:gourmet:croissant"
+  ],
+  "enabled": true,
+  "id": "gourmet:breakfast_sandwich"
+}

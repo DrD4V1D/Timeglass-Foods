@@ -1,0 +1,11 @@
+{
+  "assigned_buffs": {},
+  "direct_ingredients": [
+    "item:minecraft:carrot",
+    "tag:forge:pasta",
+    "tag:forge:raw_duck",
+    "tag:forge:vegetables"
+  ],
+  "enabled": true,
+  "id": "abnormals_delight:duck_noodles"
+}

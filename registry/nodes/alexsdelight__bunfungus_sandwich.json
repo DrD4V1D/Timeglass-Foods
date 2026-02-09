@@ -1,0 +1,10 @@
+{
+  "assigned_buffs": {},
+  "direct_ingredients": [
+    "item:farmersdelight:red_mushroom_colony",
+    "tag:alexsdelight:cooked_bunfungus",
+    "tag:forge:bread"
+  ],
+  "enabled": true,
+  "id": "alexsdelight:bunfungus_sandwich"
+}

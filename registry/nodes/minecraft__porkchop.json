@@ -1,0 +1,8 @@
+{
+  "assigned_buffs": {},
+  "direct_ingredients": [
+    "item:farmersdelight:ham"
+  ],
+  "enabled": true,
+  "id": "minecraft:porkchop"
+}

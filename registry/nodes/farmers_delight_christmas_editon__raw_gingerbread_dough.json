@@ -1,0 +1,11 @@
+{
+  "assigned_buffs": {},
+  "direct_ingredients": [
+    "item:minecraft:egg",
+    "item:minecraft:honeycomb",
+    "item:minecraft:sugar",
+    "item:minecraft:wheat"
+  ],
+  "enabled": true,
+  "id": "farmers_delight_christmas_editon:raw_gingerbread_dough"
+}

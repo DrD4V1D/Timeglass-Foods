@@ -1,0 +1,11 @@
+{
+  "assigned_buffs": {},
+  "direct_ingredients": [
+    "item:croptopia:cooking_pot",
+    "item:croptopia:food_press",
+    "tag:forge:milks",
+    "tag:forge:salts"
+  ],
+  "enabled": true,
+  "id": "croptopia:butter"
+}

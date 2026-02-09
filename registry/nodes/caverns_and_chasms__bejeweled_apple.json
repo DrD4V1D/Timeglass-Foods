@@ -1,0 +1,9 @@
+{
+  "assigned_buffs": {},
+  "direct_ingredients": [
+    "item:caverns_and_chasms:spinel",
+    "item:minecraft:golden_apple"
+  ],
+  "enabled": true,
+  "id": "caverns_and_chasms:bejeweled_apple"
+}

@@ -1,0 +1,9 @@
+{
+  "assigned_buffs": {},
+  "direct_ingredients": [
+    "item:croptopia:garlic_seed",
+    "tag:forge:garlic"
+  ],
+  "enabled": true,
+  "id": "croptopia:garlic_seed"
+}

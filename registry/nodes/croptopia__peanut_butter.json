@@ -1,0 +1,9 @@
+{
+  "assigned_buffs": {},
+  "direct_ingredients": [
+    "item:croptopia:food_press",
+    "tag:forge:peanuts"
+  ],
+  "enabled": true,
+  "id": "croptopia:peanut_butter"
+}

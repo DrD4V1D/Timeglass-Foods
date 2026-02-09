@@ -1,0 +1,10 @@
+{
+  "assigned_buffs": {},
+  "direct_ingredients": [
+    "item:farmersdelight:raw_pasta",
+    "tag:forge:buckets/water",
+    "tag:forge:raw_pasta"
+  ],
+  "enabled": true,
+  "id": "createfood:pasta"
+}

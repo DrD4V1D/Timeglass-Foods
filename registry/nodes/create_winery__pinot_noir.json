@@ -1,0 +1,8 @@
+{
+  "assigned_buffs": {},
+  "direct_ingredients": [
+    "item:create_winery:red_grape_pomace"
+  ],
+  "enabled": true,
+  "id": "create_winery:pinot_noir"
+}

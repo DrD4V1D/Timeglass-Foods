@@ -1,0 +1,9 @@
+{
+  "assigned_buffs": {},
+  "direct_ingredients": [
+    "item:quark:charcoal_block",
+    "tag:forge:storage_blocks/charcoal"
+  ],
+  "enabled": true,
+  "id": "minecraft:charcoal"
+}

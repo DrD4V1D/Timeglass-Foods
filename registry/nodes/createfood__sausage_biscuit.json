@@ -1,0 +1,9 @@
+{
+  "assigned_buffs": {},
+  "direct_ingredients": [
+    "tag:forge:biscuit",
+    "tag:forge:sausage_patty"
+  ],
+  "enabled": true,
+  "id": "createfood:sausage_biscuit"
+}

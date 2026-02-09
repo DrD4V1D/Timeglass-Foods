@@ -1,0 +1,9 @@
+{
+  "assigned_buffs": {},
+  "direct_ingredients": [
+    "item:create_winery:apple_must",
+    "item:minecraft:sugar"
+  ],
+  "enabled": true,
+  "id": "create_winery:apple_juice"
+}

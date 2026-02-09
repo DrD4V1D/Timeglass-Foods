@@ -1,0 +1,13 @@
+{
+  "assigned_buffs": {},
+  "direct_ingredients": [
+    "item:environmental:cattail_fluff",
+    "item:minecraft:diamond_horse_armor",
+    "item:minecraft:golden_horse_armor",
+    "item:minecraft:iron_horse_armor",
+    "item:supplementaries:flax",
+    "tag:minecraft:wool"
+  ],
+  "enabled": true,
+  "id": "minecraft:string"
+}

@@ -1,0 +1,11 @@
+{
+  "assigned_buffs": {},
+  "direct_ingredients": [
+    "item:minecraft:beetroot",
+    "tag:forge:crops/onion",
+    "tag:forge:crops/tomato",
+    "tag:forge:vegetables"
+  ],
+  "enabled": true,
+  "id": "farmersdelight:ratatouille"
+}

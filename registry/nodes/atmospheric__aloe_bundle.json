@@ -1,0 +1,8 @@
+{
+  "assigned_buffs": {},
+  "direct_ingredients": [
+    "item:atmospheric:aloe_leaves"
+  ],
+  "enabled": true,
+  "id": "atmospheric:aloe_bundle"
+}

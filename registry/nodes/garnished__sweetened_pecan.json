@@ -1,0 +1,9 @@
+{
+  "assigned_buffs": {},
+  "direct_ingredients": [
+    "item:garnished:pecan",
+    "item:minecraft:sugar"
+  ],
+  "enabled": true,
+  "id": "garnished:sweetened_pecan"
+}

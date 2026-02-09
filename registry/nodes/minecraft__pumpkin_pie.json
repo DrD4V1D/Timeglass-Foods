@@ -1,0 +1,13 @@
+{
+  "assigned_buffs": {},
+  "direct_ingredients": [
+    "item:create_central_kitchen:pumpkin_pie_slice",
+    "item:farmersdelight:pie_crust",
+    "item:farmersdelight:pumpkin_slice",
+    "item:minecraft:sugar",
+    "tag:forge:eggs",
+    "tag:forge:pumpkins"
+  ],
+  "enabled": true,
+  "id": "minecraft:pumpkin_pie"
+}

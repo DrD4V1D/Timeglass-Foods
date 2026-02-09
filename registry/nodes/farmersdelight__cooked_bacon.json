@@ -1,0 +1,8 @@
+{
+  "assigned_buffs": {},
+  "direct_ingredients": [
+    "item:farmersdelight:bacon"
+  ],
+  "enabled": true,
+  "id": "farmersdelight:cooked_bacon"
+}

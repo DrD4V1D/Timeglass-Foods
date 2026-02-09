@@ -1,0 +1,9 @@
+{
+  "assigned_buffs": {},
+  "direct_ingredients": [
+    "tag:forge:cookie_crumbs",
+    "tag:forge:mini_cream_pie_chocolate_graham_cracker"
+  ],
+  "enabled": true,
+  "id": "createfood:mini_cookie_cream_pie"
+}

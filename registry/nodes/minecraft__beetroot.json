@@ -1,0 +1,9 @@
+{
+  "assigned_buffs": {},
+  "direct_ingredients": [
+    "item:farmersdelight:beetroot_crate",
+    "item:quark:beetroot_crate"
+  ],
+  "enabled": true,
+  "id": "minecraft:beetroot"
+}

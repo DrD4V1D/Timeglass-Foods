@@ -1,0 +1,13 @@
+{
+  "assigned_buffs": {},
+  "direct_ingredients": [
+    "item:croptopia:frying_pan",
+    "item:minecraft:egg",
+    "item:minecraft:sugar",
+    "tag:forge:apples",
+    "tag:forge:doughs",
+    "tag:forge:flour"
+  ],
+  "enabled": true,
+  "id": "croptopia:apple_pie"
+}

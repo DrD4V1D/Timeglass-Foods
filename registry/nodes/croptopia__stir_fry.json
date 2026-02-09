@@ -1,0 +1,13 @@
+{
+  "assigned_buffs": {},
+  "direct_ingredients": [
+    "item:minecraft:carrot",
+    "tag:forge:bellpeppers",
+    "tag:forge:broccoli",
+    "tag:forge:garlic",
+    "tag:forge:greenonions",
+    "tag:forge:olive_oils"
+  ],
+  "enabled": true,
+  "id": "croptopia:stir_fry"
+}

@@ -1,0 +1,11 @@
+{
+  "assigned_buffs": {},
+  "direct_ingredients": [
+    "item:croptopia:cooked_bacon",
+    "item:minecraft:bread",
+    "tag:forge:lettuce",
+    "tag:forge:tomatoes"
+  ],
+  "enabled": true,
+  "id": "croptopia:blt"
+}

@@ -1,0 +1,12 @@
+{
+  "assigned_buffs": {},
+  "direct_ingredients": [
+    "item:croptopia:salsa",
+    "tag:croptopia:meat_replacements",
+    "tag:forge:cheeses",
+    "tag:forge:lettuce",
+    "tag:forge:tortillas"
+  ],
+  "enabled": true,
+  "id": "croptopia:taco"
+}

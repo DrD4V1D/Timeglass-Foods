@@ -1,0 +1,11 @@
+{
+  "assigned_buffs": {},
+  "direct_ingredients": [
+    "item:minecraft:bowl",
+    "item:minecraft:milk_bucket",
+    "item:minecraft:snowball",
+    "item:minecraft:sugar"
+  ],
+  "enabled": true,
+  "id": "farmers_delight_christmas_editon:vannila_ice_cream"
+}

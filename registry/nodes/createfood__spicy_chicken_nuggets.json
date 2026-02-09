@@ -1,0 +1,10 @@
+{
+  "assigned_buffs": {},
+  "direct_ingredients": [
+    "tag:forge:chicken_nuggets",
+    "tag:forge:chili_pepper",
+    "tag:forge:paprika"
+  ],
+  "enabled": true,
+  "id": "createfood:spicy_chicken_nuggets"
+}

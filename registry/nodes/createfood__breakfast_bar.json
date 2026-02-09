@@ -1,0 +1,12 @@
+{
+  "assigned_buffs": {},
+  "direct_ingredients": [
+    "item:minecraft:dried_kelp",
+    "item:minecraft:water_bucket",
+    "tag:forge:cocoa_powder",
+    "tag:forge:egg_powder",
+    "tag:forge:milk_powder"
+  ],
+  "enabled": true,
+  "id": "createfood:breakfast_bar"
+}

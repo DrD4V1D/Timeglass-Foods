@@ -1,0 +1,12 @@
+{
+  "assigned_buffs": {},
+  "direct_ingredients": [
+    "tag:forge:chile_peppers",
+    "tag:forge:limes",
+    "tag:forge:salts",
+    "tag:forge:tomatillos",
+    "tag:forge:tomatoes"
+  ],
+  "enabled": true,
+  "id": "croptopia:salsa"
+}

@@ -1,0 +1,8 @@
+{
+  "assigned_buffs": {},
+  "direct_ingredients": [
+    "tag:forge:raw_cheese_calzone"
+  ],
+  "enabled": true,
+  "id": "createfood:cheese_calzone"
+}

@@ -1,0 +1,11 @@
+{
+  "assigned_buffs": {},
+  "direct_ingredients": [
+    "tag:forge:chocolates",
+    "tag:forge:nuts",
+    "tag:forge:raisins",
+    "tag:forge:salts"
+  ],
+  "enabled": true,
+  "id": "croptopia:trail_mix"
+}

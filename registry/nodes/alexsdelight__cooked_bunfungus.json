@@ -1,0 +1,8 @@
+{
+  "assigned_buffs": {},
+  "direct_ingredients": [
+    "item:alexsdelight:raw_bunfungus"
+  ],
+  "enabled": true,
+  "id": "alexsdelight:cooked_bunfungus"
+}

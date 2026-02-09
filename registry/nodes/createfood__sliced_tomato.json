@@ -1,0 +1,8 @@
+{
+  "assigned_buffs": {},
+  "direct_ingredients": [
+    "tag:forge:crops/tomato"
+  ],
+  "enabled": true,
+  "id": "createfood:sliced_tomato"
+}

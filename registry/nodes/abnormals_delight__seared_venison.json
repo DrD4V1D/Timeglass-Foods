@@ -1,0 +1,11 @@
+{
+  "assigned_buffs": {},
+  "direct_ingredients": [
+    "item:minecraft:bowl",
+    "item:minecraft:carrot",
+    "tag:forge:cooked_venison",
+    "tag:forge:fruits/cherry"
+  ],
+  "enabled": true,
+  "id": "abnormals_delight:seared_venison"
+}

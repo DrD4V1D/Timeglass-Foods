@@ -1,0 +1,14 @@
+{
+  "assigned_buffs": {},
+  "direct_ingredients": [
+    "item:minecraft:bread",
+    "item:minecraft:egg",
+    "tag:forge:butters",
+    "tag:forge:milks",
+    "tag:forge:strawberries",
+    "tag:forge:vanilla",
+    "tag:forge:wines"
+  ],
+  "enabled": true,
+  "id": "croptopia:trifle"
+}

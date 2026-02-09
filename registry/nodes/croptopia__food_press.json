@@ -1,0 +1,9 @@
+{
+  "assigned_buffs": {},
+  "direct_ingredients": [
+    "item:minecraft:hopper",
+    "item:minecraft:piston"
+  ],
+  "enabled": true,
+  "id": "croptopia:food_press"
+}

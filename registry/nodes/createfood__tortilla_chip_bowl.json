@@ -1,0 +1,9 @@
+{
+  "assigned_buffs": {},
+  "direct_ingredients": [
+    "tag:forge:bowl",
+    "tag:forge:tortilla_chips"
+  ],
+  "enabled": true,
+  "id": "createfood:tortilla_chip_bowl"
+}

@@ -1,0 +1,13 @@
+{
+  "assigned_buffs": {},
+  "direct_ingredients": [
+    "item:croptopia:chile_pepper",
+    "item:croptopia:frying_pan",
+    "item:croptopia:olive_oil",
+    "item:croptopia_additions:rice_noodle",
+    "item:minecraft:bowl",
+    "item:minecraft:chicken"
+  ],
+  "enabled": true,
+  "id": "croptopia_additions:pad_thai"
+}

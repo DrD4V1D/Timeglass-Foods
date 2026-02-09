@@ -1,0 +1,8 @@
+{
+  "assigned_buffs": {},
+  "direct_ingredients": [
+    "item:minecraft:dead_tube_coral_fan"
+  ],
+  "enabled": true,
+  "id": "minecraft:tube_coral_fan"
+}

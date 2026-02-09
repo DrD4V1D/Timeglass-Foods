@@ -1,0 +1,9 @@
+{
+  "assigned_buffs": {},
+  "direct_ingredients": [
+    "tag:forge:bowl",
+    "tag:forge:chocolate_ice_cream_bucket"
+  ],
+  "enabled": true,
+  "id": "createfood:chocolate_ice_cream_bowl"
+}

@@ -1,0 +1,9 @@
+{
+  "assigned_buffs": {},
+  "direct_ingredients": [
+    "item:croptopia:rhubarb_seed",
+    "tag:forge:rhubarb"
+  ],
+  "enabled": true,
+  "id": "croptopia:rhubarb_seed"
+}

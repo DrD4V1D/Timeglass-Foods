@@ -1,0 +1,13 @@
+{
+  "assigned_buffs": {},
+  "direct_ingredients": [
+    "item:croptopia:frying_pan",
+    "item:croptopia:pepper",
+    "tag:forge:garlic",
+    "tag:forge:olive_oils",
+    "tag:forge:radishes",
+    "tag:forge:salts"
+  ],
+  "enabled": true,
+  "id": "croptopia:roasted_radishes"
+}

@@ -1,0 +1,9 @@
+{
+  "assigned_buffs": {},
+  "direct_ingredients": [
+    "tag:forge:jams",
+    "tag:forge:toasts"
+  ],
+  "enabled": true,
+  "id": "croptopia:toast_with_jam"
+}

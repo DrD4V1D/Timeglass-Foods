@@ -1,0 +1,12 @@
+{
+  "assigned_buffs": {},
+  "direct_ingredients": [
+    "item:minecraft:apple",
+    "item:minecraft:bowl",
+    "tag:forge:bananas",
+    "tag:forge:grapes",
+    "tag:forge:strawberries"
+  ],
+  "enabled": true,
+  "id": "croptopia:fruit_salad"
+}

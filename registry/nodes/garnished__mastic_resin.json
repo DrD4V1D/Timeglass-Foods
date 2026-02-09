@@ -1,0 +1,10 @@
+{
+  "assigned_buffs": {},
+  "direct_ingredients": [
+    "item:minecraft:slime_ball",
+    "item:minecraft:sugar",
+    "item:minecraft:wheat_seeds"
+  ],
+  "enabled": true,
+  "id": "garnished:mastic_resin"
+}

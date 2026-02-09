@@ -1,0 +1,8 @@
+{
+  "assigned_buffs": {},
+  "direct_ingredients": [
+    "item:minecraft:melon"
+  ],
+  "enabled": true,
+  "id": "minecraft:melon_slice"
+}

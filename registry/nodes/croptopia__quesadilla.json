@@ -1,0 +1,12 @@
+{
+  "assigned_buffs": {},
+  "direct_ingredients": [
+    "item:croptopia:frying_pan",
+    "tag:croptopia:chicken_replacements",
+    "tag:forge:avocados",
+    "tag:forge:cheeses",
+    "tag:forge:tortillas"
+  ],
+  "enabled": true,
+  "id": "croptopia:quesadilla"
+}

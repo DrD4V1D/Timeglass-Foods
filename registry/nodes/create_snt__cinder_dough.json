@@ -1,0 +1,9 @@
+{
+  "assigned_buffs": {},
+  "direct_ingredients": [
+    "item:create:cinder_flour",
+    "item:create:dough"
+  ],
+  "enabled": true,
+  "id": "create_snt:cinder_dough"
+}

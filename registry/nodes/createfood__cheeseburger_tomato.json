@@ -1,0 +1,12 @@
+{
+  "assigned_buffs": {},
+  "direct_ingredients": [
+    "tag:forge:beef_bun_cheese_tomato",
+    "tag:forge:bun",
+    "tag:forge:cheeses",
+    "tag:forge:cooked_beef",
+    "tag:forge:tomato"
+  ],
+  "enabled": true,
+  "id": "createfood:cheeseburger_tomato"
+}

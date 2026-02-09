@@ -1,0 +1,13 @@
+{
+  "assigned_buffs": {},
+  "direct_ingredients": [
+    "tag:forge:beef_bun_onion",
+    "tag:forge:bun",
+    "tag:forge:cheese_and_beef_bun",
+    "tag:forge:cheeses",
+    "tag:forge:cooked_beef",
+    "tag:forge:onion"
+  ],
+  "enabled": true,
+  "id": "createfood:cheese_and_beef_bun_onion"
+}

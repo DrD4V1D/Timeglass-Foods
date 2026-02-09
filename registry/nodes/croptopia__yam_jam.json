@@ -1,0 +1,10 @@
+{
+  "assigned_buffs": {},
+  "direct_ingredients": [
+    "tag:forge:milks",
+    "tag:forge:vanilla",
+    "tag:forge:yams"
+  ],
+  "enabled": true,
+  "id": "croptopia:yam_jam"
+}

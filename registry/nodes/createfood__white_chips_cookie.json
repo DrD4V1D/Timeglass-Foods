@@ -1,0 +1,10 @@
+{
+  "assigned_buffs": {},
+  "direct_ingredients": [
+    "tag:forge:raw_white_chips_cookie",
+    "tag:forge:sweet_dough",
+    "tag:forge:white_chocolate_chips"
+  ],
+  "enabled": true,
+  "id": "createfood:white_chips_cookie"
+}

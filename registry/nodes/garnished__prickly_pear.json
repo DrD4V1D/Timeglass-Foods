@@ -1,0 +1,8 @@
+{
+  "assigned_buffs": {},
+  "direct_ingredients": [
+    "item:minecraft:cactus"
+  ],
+  "enabled": true,
+  "id": "garnished:prickly_pear"
+}

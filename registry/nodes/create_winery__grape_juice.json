@@ -1,0 +1,11 @@
+{
+  "assigned_buffs": {},
+  "direct_ingredients": [
+    "item:create_winery:red_grape_pomace",
+    "item:create_winery:white_grape_pomace",
+    "item:minecraft:sugar",
+    "tag:create_winery:grape_pomaces"
+  ],
+  "enabled": true,
+  "id": "create_winery:grape_juice"
+}

@@ -1,0 +1,8 @@
+{
+  "assigned_buffs": {},
+  "direct_ingredients": [
+    "tag:forge:pumpernickel_bread"
+  ],
+  "enabled": true,
+  "id": "createfood:pumpernickel_bread_slice"
+}

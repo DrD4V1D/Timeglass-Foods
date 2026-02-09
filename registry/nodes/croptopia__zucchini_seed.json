@@ -1,0 +1,9 @@
+{
+  "assigned_buffs": {},
+  "direct_ingredients": [
+    "item:croptopia:zucchini_seed",
+    "tag:forge:zucchini"
+  ],
+  "enabled": true,
+  "id": "croptopia:zucchini_seed"
+}

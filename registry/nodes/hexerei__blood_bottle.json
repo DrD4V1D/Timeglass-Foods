@@ -1,0 +1,9 @@
+{
+  "assigned_buffs": {},
+  "direct_ingredients": [
+    "fluid:hexerei:blood_fluid",
+    "item:minecraft:glass_bottle"
+  ],
+  "enabled": true,
+  "id": "hexerei:blood_bottle"
+}

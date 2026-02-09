@@ -1,0 +1,8 @@
+{
+  "assigned_buffs": {},
+  "direct_ingredients": [
+    "item:minecraft:egg"
+  ],
+  "enabled": true,
+  "id": "farmersdelight:fried_egg"
+}

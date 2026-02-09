@@ -1,0 +1,9 @@
+{
+  "assigned_buffs": {},
+  "direct_ingredients": [
+    "item:create:wheat_flour",
+    "tag:forge:cheese"
+  ],
+  "enabled": true,
+  "id": "create_bic_bit:raw_cheese_souffle"
+}

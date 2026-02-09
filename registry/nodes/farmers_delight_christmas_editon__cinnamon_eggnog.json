@@ -1,0 +1,9 @@
+{
+  "assigned_buffs": {},
+  "direct_ingredients": [
+    "item:farmers_delight_christmas_editon:cinnamon",
+    "item:farmers_delight_christmas_editon:eggnog"
+  ],
+  "enabled": true,
+  "id": "farmers_delight_christmas_editon:cinnamon_eggnog"
+}

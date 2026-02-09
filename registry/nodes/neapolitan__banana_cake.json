@@ -1,0 +1,14 @@
+{
+  "assigned_buffs": {},
+  "direct_ingredients": [
+    "item:abnormals_delight:banana_cake_slice",
+    "item:minecraft:sugar",
+    "tag:forge:dough/wheat",
+    "tag:forge:eggs",
+    "tag:forge:flour/wheat",
+    "tag:forge:fruits/banana",
+    "tag:forge:milk"
+  ],
+  "enabled": true,
+  "id": "neapolitan:banana_cake"
+}

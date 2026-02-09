@@ -1,0 +1,10 @@
+{
+  "assigned_buffs": {},
+  "direct_ingredients": [
+    "tag:forge:butterscotch_chips",
+    "tag:forge:raw_butterscotch_chips_cookie",
+    "tag:forge:sweet_dough"
+  ],
+  "enabled": true,
+  "id": "createfood:butterscotch_chips_cookie"
+}

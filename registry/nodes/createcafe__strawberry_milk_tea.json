@@ -1,0 +1,8 @@
+{
+  "assigned_buffs": {},
+  "direct_ingredients": [
+    "item:createcafe:boba_cup"
+  ],
+  "enabled": true,
+  "id": "createcafe:strawberry_milk_tea"
+}

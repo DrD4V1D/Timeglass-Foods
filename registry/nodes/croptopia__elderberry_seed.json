@@ -1,0 +1,9 @@
+{
+  "assigned_buffs": {},
+  "direct_ingredients": [
+    "item:croptopia:elderberry_seed",
+    "tag:forge:elderberries"
+  ],
+  "enabled": true,
+  "id": "croptopia:elderberry_seed"
+}

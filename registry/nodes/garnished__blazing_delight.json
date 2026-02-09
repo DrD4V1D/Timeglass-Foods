@@ -1,0 +1,13 @@
+{
+  "assigned_buffs": {},
+  "direct_ingredients": [
+    "item:garnished:crushed_shroomlight",
+    "item:garnished:enflamed_mandible",
+    "item:garnished:malodorous_mixture",
+    "item:garnished:torrid_blend",
+    "tag:forge:ender_dusts",
+    "tag:garnished:crimson_tusks"
+  ],
+  "enabled": true,
+  "id": "garnished:blazing_delight"
+}

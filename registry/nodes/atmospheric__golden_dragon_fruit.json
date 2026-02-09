@@ -1,0 +1,9 @@
+{
+  "assigned_buffs": {},
+  "direct_ingredients": [
+    "item:atmospheric:dragon_fruit",
+    "item:minecraft:gold_ingot"
+  ],
+  "enabled": true,
+  "id": "atmospheric:golden_dragon_fruit"
+}

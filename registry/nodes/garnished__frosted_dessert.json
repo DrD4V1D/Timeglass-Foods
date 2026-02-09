@@ -1,0 +1,12 @@
+{
+  "assigned_buffs": {},
+  "direct_ingredients": [
+    "item:garnished:cashew_sorbet_scoop",
+    "item:garnished:crushed_shroomlight",
+    "item:garnished:frost",
+    "item:garnished:solemn_dust",
+    "item:minecraft:bowl"
+  ],
+  "enabled": true,
+  "id": "garnished:frosted_dessert"
+}

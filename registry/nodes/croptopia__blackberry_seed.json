@@ -1,0 +1,9 @@
+{
+  "assigned_buffs": {},
+  "direct_ingredients": [
+    "item:croptopia:blackberry_seed",
+    "tag:forge:blackberries"
+  ],
+  "enabled": true,
+  "id": "croptopia:blackberry_seed"
+}

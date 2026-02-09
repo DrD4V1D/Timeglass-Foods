@@ -1,0 +1,16 @@
+{
+  "assigned_buffs": {},
+  "direct_ingredients": [
+    "item:biomesoplenty:wilted_lily",
+    "item:byg:compat/byg/white_sage",
+    "item:minecraft:charcoal",
+    "item:minecraft:coal",
+    "item:minecraft:ink_sac",
+    "item:regions_unexplored:gray_snowbelle",
+    "item:upgrade_aquatic:chrome_coral",
+    "item:upgrade_aquatic:chrome_coral_fan",
+    "tag:botania:petals/gray"
+  ],
+  "enabled": true,
+  "id": "minecraft:gray_dye"
+}

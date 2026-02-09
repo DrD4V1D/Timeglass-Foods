@@ -1,0 +1,8 @@
+{
+  "assigned_buffs": {},
+  "direct_ingredients": [
+    "tag:forge:green_gelatin_dessert_block"
+  ],
+  "enabled": true,
+  "id": "createfood:green_gelatin_dessert_slice"
+}

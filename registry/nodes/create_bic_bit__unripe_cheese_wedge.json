@@ -1,0 +1,9 @@
+{
+  "assigned_buffs": {},
+  "direct_ingredients": [
+    "item:create_bic_bit:unripe_cheese",
+    "item:create_bic_bit:waxed_unripe_cheese"
+  ],
+  "enabled": true,
+  "id": "create_bic_bit:unripe_cheese_wedge"
+}

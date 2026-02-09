@@ -1,0 +1,8 @@
+{
+  "assigned_buffs": {},
+  "direct_ingredients": [
+    "tag:forge:butterscotch_chip_waffle"
+  ],
+  "enabled": true,
+  "id": "createfood:butterscotch_chip_mini_waffle"
+}

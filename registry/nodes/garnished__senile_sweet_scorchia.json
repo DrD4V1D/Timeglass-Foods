@@ -1,0 +1,11 @@
+{
+  "assigned_buffs": {},
+  "direct_ingredients": [
+    "item:create:scorchia",
+    "item:garnished:garnish_powder",
+    "item:garnished:salt_compound",
+    "item:garnished:senile_spread"
+  ],
+  "enabled": true,
+  "id": "garnished:senile_sweet_scorchia"
+}

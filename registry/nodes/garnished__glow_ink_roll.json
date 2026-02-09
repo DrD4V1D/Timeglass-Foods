@@ -1,0 +1,10 @@
+{
+  "assigned_buffs": {},
+  "direct_ingredients": [
+    "item:farmersdelight:cooked_rice",
+    "item:minecraft:dried_kelp",
+    "item:minecraft:glow_ink_sac"
+  ],
+  "enabled": true,
+  "id": "garnished:glow_ink_roll"
+}

@@ -1,0 +1,10 @@
+{
+  "assigned_buffs": {},
+  "direct_ingredients": [
+    "item:croptopia:cooking_pot",
+    "item:minecraft:cocoa_beans",
+    "tag:forge:butters"
+  ],
+  "enabled": true,
+  "id": "croptopia:chocolate"
+}

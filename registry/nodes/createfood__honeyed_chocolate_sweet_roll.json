@@ -1,0 +1,9 @@
+{
+  "assigned_buffs": {},
+  "direct_ingredients": [
+    "item:minecraft:honey_bottle",
+    "tag:forge:chocolate_sweet_roll_base"
+  ],
+  "enabled": true,
+  "id": "createfood:honeyed_chocolate_sweet_roll"
+}

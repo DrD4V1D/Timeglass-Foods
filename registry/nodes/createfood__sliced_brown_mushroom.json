@@ -1,0 +1,8 @@
+{
+  "assigned_buffs": {},
+  "direct_ingredients": [
+    "item:minecraft:brown_mushroom"
+  ],
+  "enabled": true,
+  "id": "createfood:sliced_brown_mushroom"
+}

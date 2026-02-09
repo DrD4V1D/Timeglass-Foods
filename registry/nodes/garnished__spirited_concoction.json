@@ -1,0 +1,13 @@
+{
+  "assigned_buffs": {},
+  "direct_ingredients": [
+    "item:garnished:crushed_crimson_fungus",
+    "item:garnished:crushed_sepia_fungus",
+    "item:garnished:crushed_warped_fungus",
+    "item:garnished:senile_dust",
+    "item:garnished:soul_roots",
+    "item:minecraft:bowl"
+  ],
+  "enabled": true,
+  "id": "garnished:spirited_concoction"
+}

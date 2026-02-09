@@ -1,0 +1,11 @@
+{
+  "assigned_buffs": {},
+  "direct_ingredients": [
+    "item:garnished:almond_cheese",
+    "item:garnished:nut_nacho",
+    "item:minecraft:bowl",
+    "tag:forge:cheese"
+  ],
+  "enabled": true,
+  "id": "garnished:nut_nacho_bowl"
+}

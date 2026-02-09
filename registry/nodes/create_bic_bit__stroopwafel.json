@@ -1,0 +1,8 @@
+{
+  "assigned_buffs": {},
+  "direct_ingredients": [
+    "item:create_bic_bit:unbaked_stroopwafel"
+  ],
+  "enabled": true,
+  "id": "create_bic_bit:stroopwafel"
+}

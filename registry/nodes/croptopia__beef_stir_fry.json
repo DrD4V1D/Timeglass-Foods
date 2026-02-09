@@ -1,0 +1,13 @@
+{
+  "assigned_buffs": {},
+  "direct_ingredients": [
+    "item:minecraft:beef",
+    "item:minecraft:carrot",
+    "tag:forge:broccoli",
+    "tag:forge:garlic",
+    "tag:forge:olive_oils",
+    "tag:forge:soy_sauces"
+  ],
+  "enabled": true,
+  "id": "croptopia:beef_stir_fry"
+}

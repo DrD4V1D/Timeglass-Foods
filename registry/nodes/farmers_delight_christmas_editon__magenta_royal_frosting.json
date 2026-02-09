@@ -1,0 +1,10 @@
+{
+  "assigned_buffs": {},
+  "direct_ingredients": [
+    "item:minecraft:egg",
+    "item:minecraft:magenta_dye",
+    "item:minecraft:sugar"
+  ],
+  "enabled": true,
+  "id": "farmers_delight_christmas_editon:magenta_royal_frosting"
+}

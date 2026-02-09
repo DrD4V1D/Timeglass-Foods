@@ -1,0 +1,8 @@
+{
+  "assigned_buffs": {},
+  "direct_ingredients": [
+    "item:garnished:garnish_compound"
+  ],
+  "enabled": true,
+  "id": "garnished:garnish_powder"
+}

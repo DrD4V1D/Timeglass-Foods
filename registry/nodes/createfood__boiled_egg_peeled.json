@@ -1,0 +1,8 @@
+{
+  "assigned_buffs": {},
+  "direct_ingredients": [
+    "tag:forge:boiled_egg"
+  ],
+  "enabled": true,
+  "id": "createfood:boiled_egg_peeled"
+}

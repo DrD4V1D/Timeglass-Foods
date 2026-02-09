@@ -1,0 +1,9 @@
+{
+  "assigned_buffs": {},
+  "direct_ingredients": [
+    "item:minecraft:honey_bottle",
+    "tag:forge:muffin_base"
+  ],
+  "enabled": true,
+  "id": "createfood:honeyed_muffin"
+}

@@ -1,0 +1,8 @@
+{
+  "assigned_buffs": {},
+  "direct_ingredients": [
+    "tag:forge:shredded_potato"
+  ],
+  "enabled": true,
+  "id": "createfood:hash_browns"
+}

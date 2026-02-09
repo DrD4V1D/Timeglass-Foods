@@ -1,0 +1,14 @@
+{
+  "assigned_buffs": {},
+  "direct_ingredients": [
+    "item:minecraft:sugar",
+    "tag:forge:butters",
+    "tag:forge:cinnamon",
+    "tag:forge:flour",
+    "tag:forge:oats",
+    "tag:forge:rhubarb",
+    "tag:forge:salts"
+  ],
+  "enabled": true,
+  "id": "croptopia:rhubarb_crisp"
+}

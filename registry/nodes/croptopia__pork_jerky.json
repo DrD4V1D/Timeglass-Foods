@@ -1,0 +1,9 @@
+{
+  "assigned_buffs": {},
+  "direct_ingredients": [
+    "item:minecraft:porkchop",
+    "tag:forge:salts"
+  ],
+  "enabled": true,
+  "id": "croptopia:pork_jerky"
+}

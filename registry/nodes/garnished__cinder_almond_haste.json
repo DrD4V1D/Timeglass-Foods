@@ -1,0 +1,15 @@
+{
+  "assigned_buffs": {},
+  "direct_ingredients": [
+    "item:create:brass_nugget",
+    "item:create:zinc_nugget",
+    "item:garnished:cinder_almond",
+    "item:garnished:garnish_powder",
+    "item:garnished:salt_compound",
+    "item:minecraft:gold_nugget",
+    "item:minecraft:iron_nugget",
+    "item:minecraft:nether_wart"
+  ],
+  "enabled": true,
+  "id": "garnished:cinder_almond_haste"
+}

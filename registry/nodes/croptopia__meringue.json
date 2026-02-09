@@ -1,0 +1,11 @@
+{
+  "assigned_buffs": {},
+  "direct_ingredients": [
+    "item:minecraft:egg",
+    "item:minecraft:sugar",
+    "tag:forge:salts",
+    "tag:forge:vanilla"
+  ],
+  "enabled": true,
+  "id": "croptopia:meringue"
+}

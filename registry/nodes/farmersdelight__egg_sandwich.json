@@ -1,0 +1,9 @@
+{
+  "assigned_buffs": {},
+  "direct_ingredients": [
+    "tag:forge:bread",
+    "tag:forge:cooked_eggs"
+  ],
+  "enabled": true,
+  "id": "farmersdelight:egg_sandwich"
+}

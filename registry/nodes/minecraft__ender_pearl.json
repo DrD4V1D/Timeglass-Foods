@@ -1,0 +1,8 @@
+{
+  "assigned_buffs": {},
+  "direct_ingredients": [
+    "item:elementaryores:ore_ender_end"
+  ],
+  "enabled": true,
+  "id": "minecraft:ender_pearl"
+}

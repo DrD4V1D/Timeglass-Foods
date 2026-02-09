@@ -1,0 +1,9 @@
+{
+  "assigned_buffs": {},
+  "direct_ingredients": [
+    "item:minecraft:stick",
+    "tag:forge:apple_ice_cream_bowl"
+  ],
+  "enabled": true,
+  "id": "createfood:apple_ice_cream_stick"
+}

@@ -1,0 +1,9 @@
+{
+  "assigned_buffs": {},
+  "direct_ingredients": [
+    "tag:forge:bread_fried_egg",
+    "tag:forge:hash_browns"
+  ],
+  "enabled": true,
+  "id": "createfood:fried_egg_hash_brown_sandwich"
+}

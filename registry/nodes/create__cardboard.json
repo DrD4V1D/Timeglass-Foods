@@ -1,0 +1,12 @@
+{
+  "assigned_buffs": {},
+  "direct_ingredients": [
+    "item:create:bound_cardboard_block",
+    "item:create:cardboard_block",
+    "item:create:pulp",
+    "tag:createframed:dyed_bound_cardboard_blocks",
+    "tag:createframed:dyed_cardboard_blocks"
+  ],
+  "enabled": true,
+  "id": "create:cardboard"
+}

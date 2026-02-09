@@ -1,0 +1,11 @@
+{
+  "assigned_buffs": {},
+  "direct_ingredients": [
+    "item:croptopia:frying_pan",
+    "item:croptopia:pepper",
+    "item:minecraft:sunflower",
+    "tag:forge:salts"
+  ],
+  "enabled": true,
+  "id": "croptopia:roasted_sunflower_seeds"
+}

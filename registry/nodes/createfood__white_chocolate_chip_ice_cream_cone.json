@@ -1,0 +1,9 @@
+{
+  "assigned_buffs": {},
+  "direct_ingredients": [
+    "tag:forge:ice_cream_cone",
+    "tag:forge:white_chocolate_chips"
+  ],
+  "enabled": true,
+  "id": "createfood:white_chocolate_chip_ice_cream_cone"
+}

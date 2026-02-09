@@ -1,0 +1,9 @@
+{
+  "assigned_buffs": {},
+  "direct_ingredients": [
+    "item:alexsmobs:blobfish",
+    "item:minecraft:glass_bottle"
+  ],
+  "enabled": true,
+  "id": "alexsmobs:fish_oil"
+}

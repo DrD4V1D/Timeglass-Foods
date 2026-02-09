@@ -1,0 +1,9 @@
+{
+  "assigned_buffs": {},
+  "direct_ingredients": [
+    "item:garnished:cinder_pecan",
+    "item:minecraft:nether_wart"
+  ],
+  "enabled": true,
+  "id": "garnished:melted_cinder_pecan"
+}

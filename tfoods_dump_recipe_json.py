@@ -138,9 +138,13 @@ def main(argv: list[str] | None = None) -> int:
 
     # 3. Load edible masterlist
     edible_items = load_edible_items(args.edibles)
+    
+    # Compute edible outputs (foods that are recipe outputs)
+    outputs_set = set(direct_map.keys())
+    edible_outputs = outputs_set.intersection(edible_items)
 
     # 4. Sync registry nodes (preserve assigned buffs)
-    expected_nodes = compute_expected_nodes(direct_map)
+    expected_nodes = compute_expected_nodes(direct_map, edible_outputs)
     if args.dry_run:
         sync_stats = {"skipped": True, "reason": "dry_run", "expected_node_count": len(expected_nodes)}
         if args.verbose:
@@ -848,36 +852,40 @@ def save_node(path: Path, node: dict) -> None:
 # ------------------------------------------------------------------------------
 
 def compute_expected_nodes(
-    direct_map: Dict[str, List[str]]
+    direct_map: Dict[str, List[str]],
+    edible_outputs: Set[str],
 ) -> Set[str]:
     """
-    Compute the set of node IDs that should exist.
+    Compute the set of node IDs that should exist for the food graph.
 
-    Includes:
-    - all recipe outputs (item IDs)
-    - referenced item ingredients as nodes: "minecraft:wheat"
-    - referenced tag ingredients as nodes: "tag:forge:dough"
+    Root set:
+    - edible_outputs (edible items that are recipe outputs)
+
+    Closure (one hop from each root output):
+    - item:* ingredient tokens -> include item id node (e.g. "minecraft:wheat")
+    - tag:* ingredient tokens  -> include tag node (e.g. "tag:forge:dough")
 
     Notes:
-    - Tag nodes use the canonical token form "tag:<namespace>:<path>".
-    - We do not expand tags here. This is just node existence.
+    - We intentionally do NOT include every recipe output (prevents chairs, etc.)
+    - Intermediates (like create:dough) get included if they appear as ingredients.
+      If they are also recipe outputs, their direct_ingredients will be synced from direct_map.
     """
-    expected: Set[str] = set(direct_map.keys())
+    expected: Set[str] = set(edible_outputs)
 
-    for tokens in direct_map.values():
+    for out in edible_outputs:
+        tokens = direct_map.get(out, [])
         for tok in tokens:
             if not isinstance(tok, str):
                 continue
 
             if tok.startswith("item:"):
-                item_id = tok[len("item:") :].strip()
+                item_id = tok[len("item:"):].strip()
                 if item_id and ":" in item_id:
                     expected.add(item_id)
 
             elif tok.startswith("tag:"):
                 tag_id = tok.strip()
-                # tag nodes are stored as full token id: "tag:forge:dough"
-                if ":" in tag_id[len("tag:") :]:
+                if ":" in tag_id[len("tag:"):]:
                     expected.add(tag_id)
 
     return expected

@@ -1,0 +1,8 @@
+{
+  "assigned_buffs": {},
+  "direct_ingredients": [
+    "item:create_snt:filled_muffin_pan"
+  ],
+  "enabled": true,
+  "id": "create_snt:muffin"
+}

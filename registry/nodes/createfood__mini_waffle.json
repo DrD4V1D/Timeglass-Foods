@@ -1,0 +1,8 @@
+{
+  "assigned_buffs": {},
+  "direct_ingredients": [
+    "tag:forge:waffle"
+  ],
+  "enabled": true,
+  "id": "createfood:mini_waffle"
+}

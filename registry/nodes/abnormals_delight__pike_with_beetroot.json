@@ -1,0 +1,10 @@
+{
+  "assigned_buffs": {},
+  "direct_ingredients": [
+    "item:minecraft:beetroot",
+    "item:upgrade_aquatic:pickerelweed",
+    "tag:forge:raw_fishes/pike"
+  ],
+  "enabled": true,
+  "id": "abnormals_delight:pike_with_beetroot"
+}

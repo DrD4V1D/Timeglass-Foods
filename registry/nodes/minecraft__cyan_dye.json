@@ -1,0 +1,23 @@
+{
+  "assigned_buffs": {},
+  "direct_ingredients": [
+    "item:atmospheric:agave",
+    "item:biomesoplenty:glowflower",
+    "item:biomesoplenty:pink_daffodil",
+    "item:byg:blue_sage",
+    "item:byg:compat/byg/winter_cyclamen",
+    "item:byg:cyan_rose",
+    "item:byg:cyan_tulip",
+    "item:garnished:pansophical_daisy",
+    "item:garnished:pansophical_petal",
+    "item:regions_unexplored:cyan_snowbelle",
+    "item:upgrade_aquatic:acan_coral",
+    "item:upgrade_aquatic:acan_coral_fan",
+    "item:upgrade_aquatic:pickerelweed",
+    "tag:biomeswevegone:dye/makes_2_cyan",
+    "tag:biomeswevegone:dye/makes_cyan",
+    "tag:botania:petals/cyan"
+  ],
+  "enabled": true,
+  "id": "minecraft:cyan_dye"
+}

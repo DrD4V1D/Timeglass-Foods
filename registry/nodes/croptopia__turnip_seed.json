@@ -1,0 +1,9 @@
+{
+  "assigned_buffs": {},
+  "direct_ingredients": [
+    "item:croptopia:turnip_seed",
+    "tag:forge:turnips"
+  ],
+  "enabled": true,
+  "id": "croptopia:turnip_seed"
+}

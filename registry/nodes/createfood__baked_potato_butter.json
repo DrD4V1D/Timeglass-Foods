@@ -1,0 +1,9 @@
+{
+  "assigned_buffs": {},
+  "direct_ingredients": [
+    "item:minecraft:baked_potato",
+    "tag:forge:butter"
+  ],
+  "enabled": true,
+  "id": "createfood:baked_potato_butter"
+}

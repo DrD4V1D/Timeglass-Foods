@@ -1,0 +1,9 @@
+{
+  "assigned_buffs": {},
+  "direct_ingredients": [
+    "item:gourmet:dumpling_wrapper",
+    "item:minecraft:beef"
+  ],
+  "enabled": true,
+  "id": "gourmet:ground_beef"
+}

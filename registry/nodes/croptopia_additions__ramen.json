@@ -1,0 +1,12 @@
+{
+  "assigned_buffs": {},
+  "direct_ingredients": [
+    "item:croptopia:broccoli",
+    "item:croptopia:chile_pepper",
+    "item:croptopia:noodle",
+    "item:croptopia:paprika",
+    "item:minecraft:bowl"
+  ],
+  "enabled": true,
+  "id": "croptopia_additions:ramen"
+}

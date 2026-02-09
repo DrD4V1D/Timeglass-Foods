@@ -1,0 +1,11 @@
+{
+  "assigned_buffs": {},
+  "direct_ingredients": [
+    "tag:forge:biscuit",
+    "tag:forge:cheese_and_sausage_biscuit",
+    "tag:forge:cheeses",
+    "tag:forge:sausage_patty"
+  ],
+  "enabled": true,
+  "id": "createfood:cheese_and_sausage_biscuit_sandwich"
+}

@@ -1,0 +1,8 @@
+{
+  "assigned_buffs": {},
+  "direct_ingredients": [
+    "item:minecraft:bread"
+  ],
+  "enabled": true,
+  "id": "create_factory:honey_roll"
+}

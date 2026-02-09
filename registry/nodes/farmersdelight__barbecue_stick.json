@@ -1,0 +1,21 @@
+{
+  "assigned_buffs": {},
+  "direct_ingredients": [
+    "item:amfd:singular_cooked_moose_rib",
+    "item:farmersdelight:onion",
+    "item:farmersdelight:tomato",
+    "item:minecraft:cooked_chicken",
+    "item:minecraft:cooked_rabbit",
+    "item:minecraft:stick",
+    "tag:abnormals_delight:barbecue_stick_ingredients",
+    "tag:forge:cooked_beef",
+    "tag:forge:cooked_chicken",
+    "tag:forge:cooked_fishes",
+    "tag:forge:cooked_mutton",
+    "tag:forge:cooked_pork",
+    "tag:forge:crops/onion",
+    "tag:forge:crops/tomato"
+  ],
+  "enabled": true,
+  "id": "farmersdelight:barbecue_stick"
+}

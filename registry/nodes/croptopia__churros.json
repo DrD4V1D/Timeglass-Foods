@@ -1,0 +1,11 @@
+{
+  "assigned_buffs": {},
+  "direct_ingredients": [
+    "item:croptopia:cinnamon",
+    "item:minecraft:sugar",
+    "tag:forge:flour",
+    "tag:forge:milks"
+  ],
+  "enabled": true,
+  "id": "croptopia:churros"
+}

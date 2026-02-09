@@ -1,0 +1,9 @@
+{
+  "assigned_buffs": {},
+  "direct_ingredients": [
+    "item:croptopia:chile_pepper_seed",
+    "tag:forge:chile_peppers"
+  ],
+  "enabled": true,
+  "id": "croptopia:chile_pepper_seed"
+}

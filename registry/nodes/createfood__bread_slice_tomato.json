@@ -1,0 +1,9 @@
+{
+  "assigned_buffs": {},
+  "direct_ingredients": [
+    "tag:forge:bread_slice",
+    "tag:forge:tomato"
+  ],
+  "enabled": true,
+  "id": "createfood:bread_slice_tomato"
+}

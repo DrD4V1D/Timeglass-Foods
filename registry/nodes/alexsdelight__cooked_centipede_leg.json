@@ -1,0 +1,8 @@
+{
+  "assigned_buffs": {},
+  "direct_ingredients": [
+    "item:alexsmobs:centipede_leg"
+  ],
+  "enabled": true,
+  "id": "alexsdelight:cooked_centipede_leg"
+}

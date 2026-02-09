@@ -1,0 +1,11 @@
+{
+  "assigned_buffs": {},
+  "direct_ingredients": [
+    "item:minecraft:glass_bottle",
+    "item:minecraft:ice",
+    "tag:forge:fruits",
+    "tag:forge:milks"
+  ],
+  "enabled": true,
+  "id": "croptopia:fruit_smoothie"
+}

@@ -1,0 +1,8 @@
+{
+  "assigned_buffs": {},
+  "direct_ingredients": [
+    "item:create_bic_bit:sunflower_seeds"
+  ],
+  "enabled": true,
+  "id": "create_bic_bit:roasted_sunflower_seeds"
+}

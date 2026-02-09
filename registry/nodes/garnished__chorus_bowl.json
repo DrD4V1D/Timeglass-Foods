@@ -1,0 +1,13 @@
+{
+  "assigned_buffs": {},
+  "direct_ingredients": [
+    "item:garnished:chorus_tuft",
+    "item:garnished:dimmed_scale",
+    "item:garnished:hollowed_chorus_fruit",
+    "item:garnished:nut_flour",
+    "item:garnished:soul_roots",
+    "item:garnished:void_dust"
+  ],
+  "enabled": true,
+  "id": "garnished:chorus_bowl"
+}

@@ -1,0 +1,11 @@
+{
+  "assigned_buffs": {},
+  "direct_ingredients": [
+    "tag:forge:butter",
+    "tag:forge:coffee_toffee_bucket",
+    "tag:forge:espresso_powder",
+    "tag:forge:sugar"
+  ],
+  "enabled": true,
+  "id": "createfood:coffee_toffee"
+}

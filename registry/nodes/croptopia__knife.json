@@ -1,0 +1,9 @@
+{
+  "assigned_buffs": {},
+  "direct_ingredients": [
+    "item:minecraft:iron_ingot",
+    "item:minecraft:stick"
+  ],
+  "enabled": true,
+  "id": "croptopia:knife"
+}

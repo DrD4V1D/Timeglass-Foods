@@ -1,0 +1,13 @@
+{
+  "assigned_buffs": {},
+  "direct_ingredients": [
+    "item:croptopia:frying_pan",
+    "tag:forge:butters",
+    "tag:forge:flour",
+    "tag:forge:milks",
+    "tag:forge:olive_oils",
+    "tag:forge:water_bottles"
+  ],
+  "enabled": true,
+  "id": "croptopia:dauphine_potatoes"
+}

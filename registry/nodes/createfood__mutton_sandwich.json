@@ -1,0 +1,10 @@
+{
+  "assigned_buffs": {},
+  "direct_ingredients": [
+    "tag:forge:bread_slice",
+    "tag:forge:bread_slice_mutton",
+    "tag:forge:cooked_mutton"
+  ],
+  "enabled": true,
+  "id": "createfood:mutton_sandwich"
+}

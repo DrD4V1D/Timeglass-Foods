@@ -1,0 +1,13 @@
+{
+  "assigned_buffs": {},
+  "direct_ingredients": [
+    "item:biomeswevegone:green_apple",
+    "item:minecraft:apple",
+    "item:minecraft:enchanted_golden_apple",
+    "item:minecraft:gold_ingot",
+    "item:quark:golden_apple_crate",
+    "tag:forge:ingots/gold"
+  ],
+  "enabled": true,
+  "id": "minecraft:golden_apple"
+}

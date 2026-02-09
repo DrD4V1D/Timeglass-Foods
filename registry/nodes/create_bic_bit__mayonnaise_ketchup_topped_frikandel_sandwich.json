@@ -1,0 +1,9 @@
+{
+  "assigned_buffs": {},
+  "direct_ingredients": [
+    "item:create_bic_bit:ketchup_topped_frikandel_sandwich",
+    "item:create_bic_bit:mayonnaise_topped_frikandel_sandwich"
+  ],
+  "enabled": true,
+  "id": "create_bic_bit:mayonnaise_ketchup_topped_frikandel_sandwich"
+}

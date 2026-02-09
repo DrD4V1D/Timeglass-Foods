@@ -1,0 +1,8 @@
+{
+  "assigned_buffs": {},
+  "direct_ingredients": [
+    "item:alexsmobs:emu_egg"
+  ],
+  "enabled": true,
+  "id": "alexsmobs:boiled_emu_egg"
+}

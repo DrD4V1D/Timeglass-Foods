@@ -1,0 +1,9 @@
+{
+  "assigned_buffs": {},
+  "direct_ingredients": [
+    "item:minecraft:bowl",
+    "tag:forge:toast_slice"
+  ],
+  "enabled": true,
+  "id": "createfood:toast_plate"
+}

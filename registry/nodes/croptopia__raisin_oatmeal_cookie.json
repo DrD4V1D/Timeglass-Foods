@@ -1,0 +1,11 @@
+{
+  "assigned_buffs": {},
+  "direct_ingredients": [
+    "item:croptopia:oatmeal",
+    "item:minecraft:sugar",
+    "tag:forge:flour",
+    "tag:forge:raisins"
+  ],
+  "enabled": true,
+  "id": "croptopia:raisin_oatmeal_cookie"
+}

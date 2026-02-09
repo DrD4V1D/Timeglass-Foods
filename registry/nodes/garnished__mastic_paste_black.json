@@ -1,0 +1,10 @@
+{
+  "assigned_buffs": {},
+  "direct_ingredients": [
+    "item:garnished:mastic_resin_black",
+    "item:minecraft:black_dye",
+    "tag:garnished:mastic_paste"
+  ],
+  "enabled": true,
+  "id": "garnished:mastic_paste_black"
+}

@@ -1,0 +1,11 @@
+{
+  "assigned_buffs": {},
+  "direct_ingredients": [
+    "item:minecraft:bowl",
+    "tag:forge:kale",
+    "tag:forge:lettuce",
+    "tag:forge:spinach"
+  ],
+  "enabled": true,
+  "id": "croptopia:leafy_salad"
+}

@@ -1,0 +1,9 @@
+{
+  "assigned_buffs": {},
+  "direct_ingredients": [
+    "item:minecraft:sweet_berries",
+    "tag:forge:milk"
+  ],
+  "enabled": true,
+  "id": "farmers_delight_christmas_editon:cream_cheese_and_berry_log"
+}

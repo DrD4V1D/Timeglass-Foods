@@ -1,0 +1,10 @@
+{
+  "assigned_buffs": {},
+  "direct_ingredients": [
+    "item:alexsmobs:stink_bottle",
+    "item:alexsmobs:triops_eggs",
+    "item:minecraft:bowl"
+  ],
+  "enabled": true,
+  "id": "alexsmobs:mosquito_repellent_stew"
+}

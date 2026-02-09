@@ -1,0 +1,24 @@
+{
+  "assigned_buffs": {},
+  "direct_ingredients": [
+    "item:create:crimsite",
+    "item:create:crushed_raw_iron",
+    "item:create:limestone",
+    "item:create_compressed:crushed_iron_pile",
+    "item:create_new_age:thorium",
+    "item:createmetallurgy:graphite_nugget_mold",
+    "item:farmersdelight:iron_knife",
+    "item:minecraft:gravel",
+    "item:minecraft:iron_horse_armor",
+    "item:minecraft:saddle",
+    "item:minecraft:tuff",
+    "item:quark:trowel",
+    "tag:create:stone_types/crimsite",
+    "tag:create:stone_types/tuff",
+    "tag:garnished:stone_types/zultanite/red",
+    "tag:minecraft:hanging_signs",
+    "tag:simplyswords:iron_gear"
+  ],
+  "enabled": true,
+  "id": "minecraft:iron_nugget"
+}

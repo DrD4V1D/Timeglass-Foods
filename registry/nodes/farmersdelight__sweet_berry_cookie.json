@@ -1,0 +1,14 @@
+{
+  "assigned_buffs": {},
+  "direct_ingredients": [
+    "item:minecraft:sweet_berries",
+    "item:minecraft:wheat",
+    "tag:forge:flour/wheat",
+    "tag:forge:fruits/sweet_berries",
+    "tag:forge:grain/wheat",
+    "tag:forge:raw_sweet_berry_cookie",
+    "tag:forge:sweet_dough"
+  ],
+  "enabled": true,
+  "id": "farmersdelight:sweet_berry_cookie"
+}

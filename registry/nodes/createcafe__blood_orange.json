@@ -1,0 +1,9 @@
+{
+  "assigned_buffs": {},
+  "direct_ingredients": [
+    "item:minecraft:apple",
+    "tag:forge:fruits/orange"
+  ],
+  "enabled": true,
+  "id": "createcafe:blood_orange"
+}

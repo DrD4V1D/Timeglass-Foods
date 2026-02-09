@@ -1,0 +1,12 @@
+{
+  "assigned_buffs": {},
+  "direct_ingredients": [
+    "tag:forge:bread_crumbs",
+    "tag:forge:eggs",
+    "tag:forge:milk",
+    "tag:forge:milk_bottle",
+    "tag:forge:unbreaded_chicken_patty"
+  ],
+  "enabled": true,
+  "id": "createfood:chicken_patty"
+}

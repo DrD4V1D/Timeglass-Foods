@@ -1,0 +1,12 @@
+{
+  "assigned_buffs": {},
+  "direct_ingredients": [
+    "item:croptopia:cooking_pot",
+    "item:minecraft:beetroot",
+    "tag:forge:cheeses",
+    "tag:forge:lemons",
+    "tag:forge:lettuce"
+  ],
+  "enabled": true,
+  "id": "croptopia:beetroot_salad"
+}

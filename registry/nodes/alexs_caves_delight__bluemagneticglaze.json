@@ -1,0 +1,9 @@
+{
+  "assigned_buffs": {},
+  "direct_ingredients": [
+    "item:alexscaves:raw_azure_neodymium",
+    "item:minecraft:sugar"
+  ],
+  "enabled": true,
+  "id": "alexs_caves_delight:bluemagneticglaze"
+}

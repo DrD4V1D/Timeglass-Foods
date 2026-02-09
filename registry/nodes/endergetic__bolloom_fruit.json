@@ -1,0 +1,8 @@
+{
+  "assigned_buffs": {},
+  "direct_ingredients": [
+    "item:endergetic:bolloom_crate"
+  ],
+  "enabled": true,
+  "id": "endergetic:bolloom_fruit"
+}

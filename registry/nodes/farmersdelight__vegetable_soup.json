@@ -1,0 +1,11 @@
+{
+  "assigned_buffs": {},
+  "direct_ingredients": [
+    "item:minecraft:beetroot",
+    "item:minecraft:carrot",
+    "item:minecraft:potato",
+    "tag:forge:salad_ingredients"
+  ],
+  "enabled": true,
+  "id": "farmersdelight:vegetable_soup"
+}

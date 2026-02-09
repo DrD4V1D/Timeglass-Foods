@@ -1,0 +1,23 @@
+{
+  "assigned_buffs": {},
+  "direct_ingredients": [
+    "item:byg:black_rose",
+    "item:byg:osiria_rose",
+    "item:garnished:sorrowful_lichen",
+    "item:hexerei:belladonna_berries",
+    "item:minecraft:charcoal",
+    "item:minecraft:coal",
+    "item:minecraft:ink_sac",
+    "item:minecraft:wither_rose",
+    "item:regions_unexplored:black_snowbelle",
+    "item:regions_unexplored:dorcel",
+    "item:tconstruct:necrotic_bone",
+    "item:undergarden:ink_mushroom",
+    "item:upgrade_aquatic:branch_coral",
+    "item:upgrade_aquatic:branch_coral_fan",
+    "tag:biomeswevegone:dye/makes_black",
+    "tag:botania:petals/black"
+  ],
+  "enabled": true,
+  "id": "minecraft:black_dye"
+}

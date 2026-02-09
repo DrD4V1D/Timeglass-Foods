@@ -1,0 +1,9 @@
+{
+  "assigned_buffs": {},
+  "direct_ingredients": [
+    "item:croptopia:radish_seed",
+    "tag:forge:radishes"
+  ],
+  "enabled": true,
+  "id": "croptopia:radish_seed"
+}

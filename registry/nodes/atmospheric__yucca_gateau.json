@@ -1,0 +1,11 @@
+{
+  "assigned_buffs": {},
+  "direct_ingredients": [
+    "item:atmospheric:aloe_gel_bottle",
+    "item:atmospheric:roasted_yucca_fruit",
+    "item:atmospheric:yucca_flower",
+    "item:minecraft:wheat"
+  ],
+  "enabled": true,
+  "id": "atmospheric:yucca_gateau"
+}

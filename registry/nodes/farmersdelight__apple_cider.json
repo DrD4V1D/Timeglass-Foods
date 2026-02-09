@@ -1,0 +1,10 @@
+{
+  "assigned_buffs": {},
+  "direct_ingredients": [
+    "item:minecraft:apple",
+    "item:minecraft:glass_bottle",
+    "item:minecraft:sugar"
+  ],
+  "enabled": true,
+  "id": "farmersdelight:apple_cider"
+}

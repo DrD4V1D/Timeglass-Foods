@@ -1,0 +1,10 @@
+{
+  "assigned_buffs": {},
+  "direct_ingredients": [
+    "tag:forge:berry_ice_cream_bowl",
+    "tag:forge:berry_ice_cream_stick",
+    "tag:forge:chocolate_graham_cracker_neapolitan_scoop_2"
+  ],
+  "enabled": true,
+  "id": "createfood:chocolate_graham_cracker_neapolitan_scoop_3"
+}

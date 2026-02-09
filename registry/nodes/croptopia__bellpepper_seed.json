@@ -1,0 +1,9 @@
+{
+  "assigned_buffs": {},
+  "direct_ingredients": [
+    "item:croptopia:bellpepper_seed",
+    "tag:forge:bellpeppers"
+  ],
+  "enabled": true,
+  "id": "croptopia:bellpepper_seed"
+}

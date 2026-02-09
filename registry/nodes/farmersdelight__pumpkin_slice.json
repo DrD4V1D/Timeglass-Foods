@@ -1,0 +1,9 @@
+{
+  "assigned_buffs": {},
+  "direct_ingredients": [
+    "item:autumnity:large_pumpkin_slice",
+    "item:minecraft:pumpkin"
+  ],
+  "enabled": true,
+  "id": "farmersdelight:pumpkin_slice"
+}

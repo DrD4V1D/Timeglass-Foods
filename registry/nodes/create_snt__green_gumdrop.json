@@ -1,0 +1,9 @@
+{
+  "assigned_buffs": {},
+  "direct_ingredients": [
+    "item:minecraft:green_dye",
+    "tag:create_snt:gumdrops"
+  ],
+  "enabled": true,
+  "id": "create_snt:green_gumdrop"
+}

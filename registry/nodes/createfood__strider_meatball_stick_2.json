@@ -1,0 +1,10 @@
+{
+  "assigned_buffs": {},
+  "direct_ingredients": [
+    "item:createfood:strider_meatball_stick_1",
+    "item:minecraft:stick",
+    "tag:forge:strider_meatball"
+  ],
+  "enabled": true,
+  "id": "createfood:strider_meatball_stick_2"
+}

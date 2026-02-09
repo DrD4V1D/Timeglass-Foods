@@ -1,0 +1,13 @@
+{
+  "assigned_buffs": {},
+  "direct_ingredients": [
+    "item:croptopia:frying_pan",
+    "tag:forge:calamari",
+    "tag:forge:flour",
+    "tag:forge:lemons",
+    "tag:forge:olive_oils",
+    "tag:forge:sea_lettuce"
+  ],
+  "enabled": true,
+  "id": "croptopia:fried_calamari"
+}

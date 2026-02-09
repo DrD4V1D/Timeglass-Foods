@@ -1,0 +1,11 @@
+{
+  "assigned_buffs": {},
+  "direct_ingredients": [
+    "item:minecraft:bowl",
+    "item:minecraft:potato",
+    "tag:forge:leek",
+    "tag:forge:milks"
+  ],
+  "enabled": true,
+  "id": "croptopia:leek_soup"
+}

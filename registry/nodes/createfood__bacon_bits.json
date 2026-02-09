@@ -1,0 +1,8 @@
+{
+  "assigned_buffs": {},
+  "direct_ingredients": [
+    "tag:forge:cooked_bacon"
+  ],
+  "enabled": true,
+  "id": "createfood:bacon_bits"
+}

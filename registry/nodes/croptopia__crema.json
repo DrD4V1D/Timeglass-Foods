@@ -1,0 +1,10 @@
+{
+  "assigned_buffs": {},
+  "direct_ingredients": [
+    "tag:forge:limes",
+    "tag:forge:milks",
+    "tag:forge:salts"
+  ],
+  "enabled": true,
+  "id": "croptopia:crema"
+}

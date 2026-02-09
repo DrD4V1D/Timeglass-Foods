@@ -1,0 +1,13 @@
+{
+  "assigned_buffs": {},
+  "direct_ingredients": [
+    "item:minecraft:egg",
+    "item:minecraft:sugar",
+    "tag:forge:butters",
+    "tag:forge:coconuts",
+    "tag:forge:flour",
+    "tag:forge:lemons"
+  ],
+  "enabled": true,
+  "id": "croptopia:lemon_coconut_bar"
+}

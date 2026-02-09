@@ -1,0 +1,9 @@
+{
+  "assigned_buffs": {},
+  "direct_ingredients": [
+    "item:croptopia:peanut_seed",
+    "tag:forge:peanuts"
+  ],
+  "enabled": true,
+  "id": "croptopia:peanut_seed"
+}

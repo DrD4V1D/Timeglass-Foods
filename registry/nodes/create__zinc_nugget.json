@@ -1,0 +1,18 @@
+{
+  "assigned_buffs": {},
+  "direct_ingredients": [
+    "item:create:andesite_alloy",
+    "item:create:asurine",
+    "item:create:crushed_raw_zinc",
+    "item:create:limestone",
+    "item:create_compressed:crushed_zinc_pile",
+    "item:createmetallurgy:graphite_nugget_mold",
+    "item:minecraft:tuff",
+    "tag:create:stone_types/asurine",
+    "tag:create:stone_types/tuff",
+    "tag:forge:ingots/zinc",
+    "tag:garnished:stone_types/zultanite/blue"
+  ],
+  "enabled": true,
+  "id": "create:zinc_nugget"
+}

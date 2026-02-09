@@ -1,0 +1,9 @@
+{
+  "assigned_buffs": {},
+  "direct_ingredients": [
+    "item:croptopia:leek_seed",
+    "tag:forge:leek"
+  ],
+  "enabled": true,
+  "id": "croptopia:leek_seed"
+}

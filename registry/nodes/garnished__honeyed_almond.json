@@ -1,0 +1,8 @@
+{
+  "assigned_buffs": {},
+  "direct_ingredients": [
+    "item:garnished:almond"
+  ],
+  "enabled": true,
+  "id": "garnished:honeyed_almond"
+}

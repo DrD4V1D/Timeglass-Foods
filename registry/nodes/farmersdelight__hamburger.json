@@ -1,0 +1,17 @@
+{
+  "assigned_buffs": {},
+  "direct_ingredients": [
+    "item:farmersdelight:beef_patty",
+    "tag:forge:beef_bun_onion_lettuce_tomato",
+    "tag:forge:bread",
+    "tag:forge:bun",
+    "tag:forge:cooked_beef",
+    "tag:forge:crops/onion",
+    "tag:forge:crops/tomato",
+    "tag:forge:onion",
+    "tag:forge:salad_ingredients",
+    "tag:forge:tomato"
+  ],
+  "enabled": true,
+  "id": "farmersdelight:hamburger"
+}

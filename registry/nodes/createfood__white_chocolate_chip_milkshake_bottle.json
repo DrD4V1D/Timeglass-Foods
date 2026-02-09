@@ -1,0 +1,10 @@
+{
+  "assigned_buffs": {},
+  "direct_ingredients": [
+    "item:minecraft:glass_bottle",
+    "tag:forge:milkshake",
+    "tag:forge:white_chocolate_chips"
+  ],
+  "enabled": true,
+  "id": "createfood:white_chocolate_chip_milkshake_bottle"
+}

@@ -1,0 +1,11 @@
+{
+  "assigned_buffs": {},
+  "direct_ingredients": [
+    "item:croptopia:mortar_and_pestle",
+    "tag:forge:milks",
+    "tag:forge:potatoes",
+    "tag:forge:salts"
+  ],
+  "enabled": true,
+  "id": "croptopia:mashed_potatoes"
+}

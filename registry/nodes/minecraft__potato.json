@@ -1,0 +1,10 @@
+{
+  "assigned_buffs": {},
+  "direct_ingredients": [
+    "item:farmersdelight:potato_crate",
+    "item:farmersdelight:wild_potatoes",
+    "item:quark:potato_crate"
+  ],
+  "enabled": true,
+  "id": "minecraft:potato"
+}

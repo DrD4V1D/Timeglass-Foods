@@ -1,0 +1,10 @@
+{
+  "assigned_buffs": {},
+  "direct_ingredients": [
+    "item:garnished:cashew_sack",
+    "item:garnished:garnish_compound",
+    "item:garnished:ungarnished_cashew"
+  ],
+  "enabled": true,
+  "id": "garnished:cashew"
+}

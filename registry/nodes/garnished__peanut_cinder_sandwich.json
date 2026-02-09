@@ -1,0 +1,8 @@
+{
+  "assigned_buffs": {},
+  "direct_ingredients": [
+    "item:minecraft:bread"
+  ],
+  "enabled": true,
+  "id": "garnished:peanut_cinder_sandwich"
+}

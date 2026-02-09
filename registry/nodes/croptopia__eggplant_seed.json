@@ -1,0 +1,9 @@
+{
+  "assigned_buffs": {},
+  "direct_ingredients": [
+    "item:croptopia:eggplant_seed",
+    "tag:forge:eggplants"
+  ],
+  "enabled": true,
+  "id": "croptopia:eggplant_seed"
+}

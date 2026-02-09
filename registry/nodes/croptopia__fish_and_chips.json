@@ -1,0 +1,13 @@
+{
+  "assigned_buffs": {},
+  "direct_ingredients": [
+    "item:croptopia:frying_pan",
+    "item:croptopia:pepper",
+    "item:minecraft:potato",
+    "tag:forge:flour",
+    "tag:forge:salts",
+    "tag:minecraft:fishes"
+  ],
+  "enabled": true,
+  "id": "croptopia:fish_and_chips"
+}

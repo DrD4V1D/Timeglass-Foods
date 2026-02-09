@@ -1,0 +1,8 @@
+{
+  "assigned_buffs": {},
+  "direct_ingredients": [
+    "tag:forge:rabbit_meatball"
+  ],
+  "enabled": true,
+  "id": "createfood:small_rabbit_meatballs"
+}

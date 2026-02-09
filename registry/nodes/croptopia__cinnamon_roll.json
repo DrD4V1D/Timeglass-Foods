@@ -1,0 +1,16 @@
+{
+  "assigned_buffs": {},
+  "direct_ingredients": [
+    "item:croptopia:frying_pan",
+    "item:croptopia:whipping_cream",
+    "item:minecraft:egg",
+    "item:minecraft:sugar",
+    "tag:forge:butters",
+    "tag:forge:cinnamon",
+    "tag:forge:doughs",
+    "tag:forge:milks",
+    "tag:forge:salts"
+  ],
+  "enabled": true,
+  "id": "croptopia:cinnamon_roll"
+}

@@ -1,0 +1,12 @@
+{
+  "assigned_buffs": {},
+  "direct_ingredients": [
+    "item:garnished:ghast_tendril",
+    "item:garnished:torrid_blend",
+    "item:minecraft:bowl",
+    "item:minecraft:cooked_chicken",
+    "tag:forge:ender_dusts"
+  ],
+  "enabled": true,
+  "id": "garnished:ghandercken"
+}

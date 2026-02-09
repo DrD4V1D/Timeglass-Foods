@@ -1,0 +1,10 @@
+{
+  "assigned_buffs": {},
+  "direct_ingredients": [
+    "item:environmental:cherries",
+    "item:minecraft:wheat",
+    "tag:forge:flour/wheat"
+  ],
+  "enabled": true,
+  "id": "abnormals_delight:cherry_cookie"
+}

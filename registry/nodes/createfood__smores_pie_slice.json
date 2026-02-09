@@ -1,0 +1,8 @@
+{
+  "assigned_buffs": {},
+  "direct_ingredients": [
+    "tag:forge:smores_pie"
+  ],
+  "enabled": true,
+  "id": "createfood:smores_pie_slice"
+}

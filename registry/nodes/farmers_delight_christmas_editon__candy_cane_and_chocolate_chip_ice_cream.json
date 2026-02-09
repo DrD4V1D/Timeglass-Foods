@@ -1,0 +1,10 @@
+{
+  "assigned_buffs": {},
+  "direct_ingredients": [
+    "item:farmers_delight_christmas_editon:chocolate_coin",
+    "item:farmers_delight_christmas_editon:crushed_candy_cane",
+    "item:farmers_delight_christmas_editon:vannila_ice_cream"
+  ],
+  "enabled": true,
+  "id": "farmers_delight_christmas_editon:candy_cane_and_chocolate_chip_ice_cream"
+}

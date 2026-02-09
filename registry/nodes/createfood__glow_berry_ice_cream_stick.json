@@ -1,0 +1,9 @@
+{
+  "assigned_buffs": {},
+  "direct_ingredients": [
+    "item:minecraft:stick",
+    "tag:forge:glow_berry_ice_cream_bowl"
+  ],
+  "enabled": true,
+  "id": "createfood:glow_berry_ice_cream_stick"
+}

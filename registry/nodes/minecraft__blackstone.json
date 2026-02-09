@@ -1,0 +1,10 @@
+{
+  "assigned_buffs": {},
+  "direct_ingredients": [
+    "item:minecraft:gilded_blackstone",
+    "item:regions_unexplored:blackstone_cluster",
+    "tag:forge:cobblestone"
+  ],
+  "enabled": true,
+  "id": "minecraft:blackstone"
+}

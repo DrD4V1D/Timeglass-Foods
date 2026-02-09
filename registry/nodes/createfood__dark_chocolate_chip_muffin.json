@@ -1,0 +1,8 @@
+{
+  "assigned_buffs": {},
+  "direct_ingredients": [
+    "tag:forge:raw_dark_chocolate_chip_muffin"
+  ],
+  "enabled": true,
+  "id": "createfood:dark_chocolate_chip_muffin"
+}

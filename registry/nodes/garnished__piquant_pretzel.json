@@ -1,0 +1,12 @@
+{
+  "assigned_buffs": {},
+  "direct_ingredients": [
+    "item:garnished:garnish_powder",
+    "item:garnished:incandescent_petal",
+    "item:garnished:malodorous_mixture",
+    "item:garnished:salt_compound",
+    "item:garnished:torrid_blend"
+  ],
+  "enabled": true,
+  "id": "garnished:piquant_pretzel"
+}

@@ -1,0 +1,9 @@
+{
+  "assigned_buffs": {},
+  "direct_ingredients": [
+    "item:minecraft:glass_bottle",
+    "tag:forge:chocolate_bottle"
+  ],
+  "enabled": true,
+  "id": "createfood:hot_chocolate_bottle"
+}

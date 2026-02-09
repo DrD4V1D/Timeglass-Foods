@@ -1,0 +1,11 @@
+{
+  "assigned_buffs": {},
+  "direct_ingredients": [
+    "item:croptopia:food_press",
+    "item:minecraft:egg",
+    "item:minecraft:sugar",
+    "tag:forge:almonds"
+  ],
+  "enabled": true,
+  "id": "croptopia:macaron"
+}

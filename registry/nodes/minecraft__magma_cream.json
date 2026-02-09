@@ -1,0 +1,9 @@
+{
+  "assigned_buffs": {},
+  "direct_ingredients": [
+    "item:create_things_and_misc:crushed_magma",
+    "item:minecraft:slime_ball"
+  ],
+  "enabled": true,
+  "id": "minecraft:magma_cream"
+}

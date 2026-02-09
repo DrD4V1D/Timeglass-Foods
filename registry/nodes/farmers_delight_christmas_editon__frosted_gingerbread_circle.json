@@ -1,0 +1,11 @@
+{
+  "assigned_buffs": {},
+  "direct_ingredients": [
+    "item:farmers_delight_christmas_editon:baked_gingerbread_circle",
+    "item:farmers_delight_christmas_editon:green_royal_frosting",
+    "item:farmers_delight_christmas_editon:royal_frosting_red",
+    "item:farmers_delight_christmas_editon:yellow_royal_frosting"
+  ],
+  "enabled": true,
+  "id": "farmers_delight_christmas_editon:frosted_gingerbread_circle"
+}

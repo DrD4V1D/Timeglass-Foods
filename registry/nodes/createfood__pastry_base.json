@@ -1,0 +1,10 @@
+{
+  "assigned_buffs": {},
+  "direct_ingredients": [
+    "tag:forge:butter",
+    "tag:forge:raw_pastry_base",
+    "tag:forge:sweet_dough"
+  ],
+  "enabled": true,
+  "id": "createfood:pastry_base"
+}

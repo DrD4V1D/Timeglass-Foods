@@ -1,0 +1,8 @@
+{
+  "assigned_buffs": {},
+  "direct_ingredients": [
+    "item:quark:crab_leg"
+  ],
+  "enabled": true,
+  "id": "quark:cooked_crab_leg"
+}

@@ -1,0 +1,8 @@
+{
+  "assigned_buffs": {},
+  "direct_ingredients": [
+    "item:croptopia:anchovy"
+  ],
+  "enabled": true,
+  "id": "croptopia:cooked_anchovy"
+}

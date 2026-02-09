@@ -1,0 +1,8 @@
+{
+  "assigned_buffs": {},
+  "direct_ingredients": [
+    "tag:forge:raw_mushroom_calzone"
+  ],
+  "enabled": true,
+  "id": "createfood:mushroom_calzone"
+}

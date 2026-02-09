@@ -1,0 +1,9 @@
+{
+  "assigned_buffs": {},
+  "direct_ingredients": [
+    "item:create:dough",
+    "item:farmersdelight:wheat_dough"
+  ],
+  "enabled": true,
+  "id": "create_bic_bit:oliebollen"
+}

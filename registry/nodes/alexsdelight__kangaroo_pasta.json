@@ -1,0 +1,10 @@
+{
+  "assigned_buffs": {},
+  "direct_ingredients": [
+    "item:farmersdelight:raw_pasta",
+    "item:farmersdelight:tomato_sauce",
+    "tag:alexsdelight:cooked_kangaroo"
+  ],
+  "enabled": true,
+  "id": "alexsdelight:kangaroo_pasta"
+}

@@ -1,0 +1,12 @@
+{
+  "assigned_buffs": {},
+  "direct_ingredients": [
+    "item:hexerei:sage_seed",
+    "item:minecraft:beetroot_seeds",
+    "item:minecraft:melon_seeds",
+    "item:minecraft:pumpkin_seeds",
+    "item:minecraft:wheat_seeds"
+  ],
+  "enabled": true,
+  "id": "hexerei:seed_mixture"
+}

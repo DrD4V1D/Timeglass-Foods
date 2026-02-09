@@ -1,0 +1,11 @@
+{
+  "assigned_buffs": {},
+  "direct_ingredients": [
+    "item:farmersdelight:tomato_sauce",
+    "tag:forge:crops/onion",
+    "tag:forge:raw_fishes",
+    "tag:forge:vegetables/onion"
+  ],
+  "enabled": true,
+  "id": "farmersdelight:fish_stew"
+}

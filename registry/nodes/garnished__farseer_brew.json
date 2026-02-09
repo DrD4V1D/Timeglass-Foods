@@ -1,0 +1,12 @@
+{
+  "assigned_buffs": {},
+  "direct_ingredients": [
+    "item:garnished:aureate_shrub",
+    "item:garnished:preliminary_nucleus",
+    "item:garnished:vex_wing",
+    "item:minecraft:bowl",
+    "item:minecraft:dragon_breath"
+  ],
+  "enabled": true,
+  "id": "garnished:farseer_brew"
+}

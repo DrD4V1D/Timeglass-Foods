@@ -1,0 +1,9 @@
+{
+  "assigned_buffs": {},
+  "direct_ingredients": [
+    "item:croptopia:toast",
+    "tag:forge:avocados"
+  ],
+  "enabled": true,
+  "id": "croptopia:avocado_toast"
+}

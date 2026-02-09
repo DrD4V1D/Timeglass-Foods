@@ -1,0 +1,10 @@
+{
+  "assigned_buffs": {},
+  "direct_ingredients": [
+    "item:garnished:ender_jelly_block",
+    "item:garnished:salt_compound",
+    "tag:forge:ender_dusts"
+  ],
+  "enabled": true,
+  "id": "garnished:ender_jelly"
+}

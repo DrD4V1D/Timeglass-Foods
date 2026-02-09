@@ -1,0 +1,13 @@
+{
+  "assigned_buffs": {},
+  "direct_ingredients": [
+    "tag:forge:biscuit",
+    "tag:forge:cheeses",
+    "tag:forge:cooked_eggs",
+    "tag:forge:sausage_biscuit_cheese",
+    "tag:forge:sausage_biscuit_fried_egg",
+    "tag:forge:sausage_patty"
+  ],
+  "enabled": true,
+  "id": "createfood:sausage_biscuit_cheese_fried_egg"
+}

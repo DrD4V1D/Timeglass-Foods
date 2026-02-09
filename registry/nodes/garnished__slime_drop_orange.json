@@ -1,0 +1,9 @@
+{
+  "assigned_buffs": {},
+  "direct_ingredients": [
+    "item:garnished:mastic_paste_orange",
+    "item:garnished:slime_drop"
+  ],
+  "enabled": true,
+  "id": "garnished:slime_drop_orange"
+}

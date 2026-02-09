@@ -1,0 +1,9 @@
+{
+  "assigned_buffs": {},
+  "direct_ingredients": [
+    "item:minecraft:sugar",
+    "tag:forge:nuts"
+  ],
+  "enabled": true,
+  "id": "croptopia:candied_nuts"
+}

@@ -1,0 +1,8 @@
+{
+  "assigned_buffs": {},
+  "direct_ingredients": [
+    "item:peculiars:aloe_cake"
+  ],
+  "enabled": true,
+  "id": "create_central_kitchen:aloe_cake_slice"
+}

@@ -1,0 +1,14 @@
+{
+  "assigned_buffs": {},
+  "direct_ingredients": [
+    "item:create:dough",
+    "item:minecraft:cocoa_beans",
+    "item:minecraft:wheat",
+    "tag:forge:chocolate_chips",
+    "tag:forge:flour/wheat",
+    "tag:forge:raw_cookie",
+    "tag:forge:sweet_dough"
+  ],
+  "enabled": true,
+  "id": "minecraft:cookie"
+}

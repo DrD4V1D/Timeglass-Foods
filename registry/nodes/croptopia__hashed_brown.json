@@ -1,0 +1,11 @@
+{
+  "assigned_buffs": {},
+  "direct_ingredients": [
+    "item:croptopia:frying_pan",
+    "item:croptopia:knife",
+    "tag:forge:olive_oils",
+    "tag:forge:potatoes"
+  ],
+  "enabled": true,
+  "id": "croptopia:hashed_brown"
+}

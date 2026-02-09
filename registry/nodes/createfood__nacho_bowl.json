@@ -1,0 +1,9 @@
+{
+  "assigned_buffs": {},
+  "direct_ingredients": [
+    "tag:forge:cheeses",
+    "tag:forge:tortilla_chip_bowl"
+  ],
+  "enabled": true,
+  "id": "createfood:nacho_bowl"
+}

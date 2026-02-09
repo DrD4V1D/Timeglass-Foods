@@ -1,0 +1,8 @@
+{
+  "assigned_buffs": {},
+  "direct_ingredients": [
+    "item:create:wheat_flour"
+  ],
+  "enabled": true,
+  "id": "gourmet:dumpling_wrapper"
+}

@@ -1,0 +1,9 @@
+{
+  "assigned_buffs": {},
+  "direct_ingredients": [
+    "item:gourmet:buns",
+    "item:gourmet:fried_chicken"
+  ],
+  "enabled": true,
+  "id": "gourmet:chicken_sandwich"
+}

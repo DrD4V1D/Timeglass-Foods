@@ -1,0 +1,9 @@
+{
+  "assigned_buffs": {},
+  "direct_ingredients": [
+    "tag:forge:dark_chocolate_bottle",
+    "tag:forge:pastry_base"
+  ],
+  "enabled": true,
+  "id": "createfood:dark_chocolate_pastry"
+}

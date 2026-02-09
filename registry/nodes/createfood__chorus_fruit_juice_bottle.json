@@ -1,0 +1,11 @@
+{
+  "assigned_buffs": {},
+  "direct_ingredients": [
+    "item:minecraft:glass_bottle",
+    "tag:forge:chorus_fruit",
+    "tag:forge:chorus_fruit_juice_bucket",
+    "tag:forge:sugar"
+  ],
+  "enabled": true,
+  "id": "createfood:chorus_fruit_juice_bottle"
+}

@@ -1,0 +1,9 @@
+{
+  "assigned_buffs": {},
+  "direct_ingredients": [
+    "item:minecraft:glass_bottle",
+    "tag:forge:glow_berry_milkshake_bucket"
+  ],
+  "enabled": true,
+  "id": "createfood:glow_berry_milkshake_bottle"
+}

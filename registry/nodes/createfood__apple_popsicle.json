@@ -1,0 +1,10 @@
+{
+  "assigned_buffs": {},
+  "direct_ingredients": [
+    "item:minecraft:ice",
+    "item:minecraft:stick",
+    "tag:forge:apple"
+  ],
+  "enabled": true,
+  "id": "createfood:apple_popsicle"
+}

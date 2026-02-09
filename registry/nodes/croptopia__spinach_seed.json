@@ -1,0 +1,9 @@
+{
+  "assigned_buffs": {},
+  "direct_ingredients": [
+    "item:croptopia:spinach_seed",
+    "tag:forge:spinach"
+  ],
+  "enabled": true,
+  "id": "croptopia:spinach_seed"
+}

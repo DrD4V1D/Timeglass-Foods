@@ -1,0 +1,8 @@
+{
+  "assigned_buffs": {},
+  "direct_ingredients": [
+    "item:garnished:numbing_parchment_block"
+  ],
+  "enabled": true,
+  "id": "garnished:numbing_parchment"
+}

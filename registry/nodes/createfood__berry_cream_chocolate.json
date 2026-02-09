@@ -1,0 +1,9 @@
+{
+  "assigned_buffs": {},
+  "direct_ingredients": [
+    "tag:forge:berry_cream_frosting",
+    "tag:forge:hollow_chocolate"
+  ],
+  "enabled": true,
+  "id": "createfood:berry_cream_chocolate"
+}

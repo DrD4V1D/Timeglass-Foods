@@ -1,0 +1,8 @@
+{
+  "assigned_buffs": {},
+  "direct_ingredients": [
+    "item:minecraft:cookie"
+  ],
+  "enabled": true,
+  "id": "garnished:cashew_cookie"
+}

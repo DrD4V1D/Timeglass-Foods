@@ -1,0 +1,22 @@
+{
+  "assigned_buffs": {},
+  "direct_ingredients": [
+    "item:create_bic_bit:stamppot_bowl",
+    "item:createdieselgenerators:wood_chip",
+    "item:farmersdelight:tomato_sauce",
+    "item:neapolitan:adzuki_ice_cream",
+    "item:neapolitan:banana_ice_cream",
+    "item:neapolitan:chocolate_ice_cream",
+    "item:neapolitan:mint_ice_cream",
+    "item:neapolitan:strawberry_ice_cream",
+    "item:neapolitan:vanilla_ice_cream",
+    "tag:forge:apple_ice_cream_bowl",
+    "tag:forge:berry_ice_cream_bowl",
+    "tag:forge:chocolate_ice_cream_bowl",
+    "tag:forge:chorus_fruit_ice_cream_bowl",
+    "tag:forge:glow_berry_ice_cream_bowl",
+    "tag:forge:melon_ice_cream_bowl"
+  ],
+  "enabled": true,
+  "id": "minecraft:bowl"
+}

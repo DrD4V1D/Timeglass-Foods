@@ -1,0 +1,8 @@
+{
+  "assigned_buffs": {},
+  "direct_ingredients": [
+    "item:garnished:mastic_resin"
+  ],
+  "enabled": true,
+  "id": "garnished:mastic_paste"
+}

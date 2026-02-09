@@ -1,0 +1,8 @@
+{
+  "assigned_buffs": {},
+  "direct_ingredients": [
+    "item:create_factory:waffle"
+  ],
+  "enabled": true,
+  "id": "create_factory:dark_chocolate_waffle"
+}

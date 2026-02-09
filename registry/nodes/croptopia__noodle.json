@@ -1,0 +1,11 @@
+{
+  "assigned_buffs": {},
+  "direct_ingredients": [
+    "item:croptopia:cooking_pot",
+    "tag:forge:flour",
+    "tag:forge:salts",
+    "tag:forge:water_bottles"
+  ],
+  "enabled": true,
+  "id": "croptopia:noodle"
+}

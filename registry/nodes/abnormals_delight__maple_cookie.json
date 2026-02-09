@@ -1,0 +1,9 @@
+{
+  "assigned_buffs": {},
+  "direct_ingredients": [
+    "item:autumnity:syrup_bottle",
+    "item:minecraft:wheat"
+  ],
+  "enabled": true,
+  "id": "abnormals_delight:maple_cookie"
+}

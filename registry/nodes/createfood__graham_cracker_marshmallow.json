@@ -1,0 +1,9 @@
+{
+  "assigned_buffs": {},
+  "direct_ingredients": [
+    "tag:forge:graham_cracker",
+    "tag:forge:marshmallow"
+  ],
+  "enabled": true,
+  "id": "createfood:graham_cracker_marshmallow"
+}

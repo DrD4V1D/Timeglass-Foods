@@ -1,0 +1,9 @@
+{
+  "assigned_buffs": {},
+  "direct_ingredients": [
+    "item:garnished:cosmic_powder",
+    "item:garnished:garnish_powder"
+  ],
+  "enabled": true,
+  "id": "garnished:galactic_cane"
+}

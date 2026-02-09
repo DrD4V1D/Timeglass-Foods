@@ -1,0 +1,9 @@
+{
+  "assigned_buffs": {},
+  "direct_ingredients": [
+    "item:create_bic_bit:kroket",
+    "item:minecraft:bread"
+  ],
+  "enabled": true,
+  "id": "create_bic_bit:kroket_sandwich"
+}

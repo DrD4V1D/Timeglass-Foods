@@ -1,0 +1,8 @@
+{
+  "assigned_buffs": {},
+  "direct_ingredients": [
+    "item:environmental:venison"
+  ],
+  "enabled": true,
+  "id": "abnormals_delight:venison_shanks"
+}

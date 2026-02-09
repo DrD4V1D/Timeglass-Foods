@@ -1,0 +1,8 @@
+{
+  "assigned_buffs": {},
+  "direct_ingredients": [
+    "tag:forge:sausage_patty"
+  ],
+  "enabled": true,
+  "id": "createfood:breakfast_sausages"
+}

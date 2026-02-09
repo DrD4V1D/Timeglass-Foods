@@ -1,0 +1,8 @@
+{
+  "assigned_buffs": {},
+  "direct_ingredients": [
+    "item:gourmet:cheese_danish_dough"
+  ],
+  "enabled": true,
+  "id": "gourmet:cheese_danish"
+}

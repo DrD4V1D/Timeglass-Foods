@@ -1,0 +1,10 @@
+{
+  "assigned_buffs": {},
+  "direct_ingredients": [
+    "tag:forge:beef_bun",
+    "tag:forge:bun",
+    "tag:forge:cooked_beef"
+  ],
+  "enabled": true,
+  "id": "createfood:hamburger"
+}

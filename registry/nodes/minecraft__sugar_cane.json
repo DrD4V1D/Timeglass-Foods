@@ -1,0 +1,8 @@
+{
+  "assigned_buffs": {},
+  "direct_ingredients": [
+    "item:quark:sugar_cane_block"
+  ],
+  "enabled": true,
+  "id": "minecraft:sugar_cane"
+}

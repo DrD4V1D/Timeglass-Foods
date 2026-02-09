@@ -1,0 +1,8 @@
+{
+  "assigned_buffs": {},
+  "direct_ingredients": [
+    "item:minecraft:carrot"
+  ],
+  "enabled": true,
+  "id": "createfood:sliced_carrot"
+}

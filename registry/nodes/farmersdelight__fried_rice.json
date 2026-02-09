@@ -1,0 +1,11 @@
+{
+  "assigned_buffs": {},
+  "direct_ingredients": [
+    "item:minecraft:carrot",
+    "tag:forge:crops/onion",
+    "tag:forge:crops/rice",
+    "tag:forge:eggs"
+  ],
+  "enabled": true,
+  "id": "farmersdelight:fried_rice"
+}

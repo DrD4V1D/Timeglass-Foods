@@ -1,0 +1,11 @@
+{
+  "assigned_buffs": {},
+  "direct_ingredients": [
+    "item:croptopia:flour",
+    "item:croptopia_additions:frosting",
+    "item:minecraft:egg",
+    "item:minecraft:sugar"
+  ],
+  "enabled": true,
+  "id": "croptopia_additions:cupcake"
+}

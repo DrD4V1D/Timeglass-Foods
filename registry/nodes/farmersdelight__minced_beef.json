@@ -1,0 +1,8 @@
+{
+  "assigned_buffs": {},
+  "direct_ingredients": [
+    "item:minecraft:beef"
+  ],
+  "enabled": true,
+  "id": "farmersdelight:minced_beef"
+}

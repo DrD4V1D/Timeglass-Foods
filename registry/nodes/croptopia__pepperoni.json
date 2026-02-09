@@ -1,0 +1,11 @@
+{
+  "assigned_buffs": {},
+  "direct_ingredients": [
+    "item:minecraft:beef",
+    "item:minecraft:porkchop",
+    "tag:forge:chile_peppers",
+    "tag:forge:paprika"
+  ],
+  "enabled": true,
+  "id": "croptopia:pepperoni"
+}

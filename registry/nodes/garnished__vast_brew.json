@@ -1,0 +1,12 @@
+{
+  "assigned_buffs": {},
+  "direct_ingredients": [
+    "item:garnished:lustrous_pearl",
+    "item:garnished:vermilion_kelp",
+    "item:minecraft:bowl",
+    "item:minecraft:sea_pickle",
+    "tag:forge:coral_fans"
+  ],
+  "enabled": true,
+  "id": "garnished:vast_brew"
+}

@@ -1,0 +1,11 @@
+{
+  "assigned_buffs": {},
+  "direct_ingredients": [
+    "item:farmersdelight:pumpkin_slice",
+    "tag:forge:milk",
+    "tag:forge:raw_pork",
+    "tag:forge:salad_ingredients"
+  ],
+  "enabled": true,
+  "id": "farmersdelight:pumpkin_soup"
+}

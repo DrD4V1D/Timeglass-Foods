@@ -1,0 +1,10 @@
+{
+  "assigned_buffs": {},
+  "direct_ingredients": [
+    "item:autumnity:snail_goo",
+    "tag:forge:crops/onion",
+    "tag:forge:milk"
+  ],
+  "enabled": true,
+  "id": "abnormals_delight:escargot"
+}

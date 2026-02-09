@@ -1,0 +1,9 @@
+{
+  "assigned_buffs": {},
+  "direct_ingredients": [
+    "item:minecraft:beef",
+    "tag:forge:salts"
+  ],
+  "enabled": true,
+  "id": "croptopia:beef_jerky"
+}

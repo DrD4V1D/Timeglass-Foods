@@ -1,0 +1,10 @@
+{
+  "assigned_buffs": {},
+  "direct_ingredients": [
+    "item:croptopia:potato_chips",
+    "item:minecraft:bowl",
+    "tag:croptopia:sauces"
+  ],
+  "enabled": true,
+  "id": "croptopia:saucy_chips"
+}

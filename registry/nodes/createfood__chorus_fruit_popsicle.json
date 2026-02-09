@@ -1,0 +1,10 @@
+{
+  "assigned_buffs": {},
+  "direct_ingredients": [
+    "item:minecraft:ice",
+    "item:minecraft:stick",
+    "tag:forge:chorus_fruit"
+  ],
+  "enabled": true,
+  "id": "createfood:chorus_fruit_popsicle"
+}

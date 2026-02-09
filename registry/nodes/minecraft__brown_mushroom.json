@@ -1,0 +1,9 @@
+{
+  "assigned_buffs": {},
+  "direct_ingredients": [
+    "item:farmersdelight:brown_mushroom_colony",
+    "item:gourmet:dumpling_wrapper"
+  ],
+  "enabled": true,
+  "id": "minecraft:brown_mushroom"
+}

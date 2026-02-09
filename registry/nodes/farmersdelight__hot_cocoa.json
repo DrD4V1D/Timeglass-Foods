@@ -1,0 +1,11 @@
+{
+  "assigned_buffs": {},
+  "direct_ingredients": [
+    "item:minecraft:cocoa_beans",
+    "item:minecraft:glass_bottle",
+    "item:minecraft:sugar",
+    "tag:forge:milk"
+  ],
+  "enabled": true,
+  "id": "farmersdelight:hot_cocoa"
+}

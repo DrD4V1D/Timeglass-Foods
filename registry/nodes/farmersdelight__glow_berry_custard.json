@@ -1,0 +1,11 @@
+{
+  "assigned_buffs": {},
+  "direct_ingredients": [
+    "item:minecraft:glow_berries",
+    "item:minecraft:sugar",
+    "tag:forge:eggs",
+    "tag:forge:milk"
+  ],
+  "enabled": true,
+  "id": "farmersdelight:glow_berry_custard"
+}

@@ -1,0 +1,9 @@
+{
+  "assigned_buffs": {},
+  "direct_ingredients": [
+    "item:garnished:hazelnut",
+    "item:minecraft:sugar"
+  ],
+  "enabled": true,
+  "id": "garnished:sweetened_hazelnut"
+}

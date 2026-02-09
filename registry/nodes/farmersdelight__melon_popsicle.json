@@ -1,0 +1,12 @@
+{
+  "assigned_buffs": {},
+  "direct_ingredients": [
+    "item:minecraft:ice",
+    "item:minecraft:melon_slice",
+    "item:minecraft:stick",
+    "item:neapolitan:ice_cubes",
+    "tag:forge:melon"
+  ],
+  "enabled": true,
+  "id": "farmersdelight:melon_popsicle"
+}

@@ -1,0 +1,12 @@
+{
+  "assigned_buffs": {},
+  "direct_ingredients": [
+    "item:minecraft:carrot",
+    "item:minecraft:cooked_chicken",
+    "tag:forge:cabbage",
+    "tag:forge:cashews",
+    "tag:forge:soy_sauces"
+  ],
+  "enabled": true,
+  "id": "croptopia:cashew_chicken"
+}

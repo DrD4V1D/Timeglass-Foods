@@ -1,0 +1,8 @@
+{
+  "assigned_buffs": {},
+  "direct_ingredients": [
+    "item:peculiars:passion_fruit_cake"
+  ],
+  "enabled": true,
+  "id": "create_central_kitchen:passion_fruit_cake_slice"
+}

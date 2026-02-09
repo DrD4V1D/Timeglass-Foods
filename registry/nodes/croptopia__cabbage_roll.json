@@ -1,0 +1,13 @@
+{
+  "assigned_buffs": {},
+  "direct_ingredients": [
+    "item:croptopia:frying_pan",
+    "tag:croptopia:beef_replacements",
+    "tag:forge:cabbage",
+    "tag:forge:onions",
+    "tag:forge:rice",
+    "tag:forge:salts"
+  ],
+  "enabled": true,
+  "id": "croptopia:cabbage_roll"
+}

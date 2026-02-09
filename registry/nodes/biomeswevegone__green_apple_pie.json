@@ -1,0 +1,10 @@
+{
+  "assigned_buffs": {},
+  "direct_ingredients": [
+    "item:biomeswevegone:green_apple",
+    "item:minecraft:egg",
+    "item:minecraft:sugar"
+  ],
+  "enabled": true,
+  "id": "biomeswevegone:green_apple_pie"
+}

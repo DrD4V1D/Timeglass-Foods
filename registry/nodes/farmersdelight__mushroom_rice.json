@@ -1,0 +1,12 @@
+{
+  "assigned_buffs": {},
+  "direct_ingredients": [
+    "item:minecraft:brown_mushroom",
+    "item:minecraft:carrot",
+    "item:minecraft:potato",
+    "item:minecraft:red_mushroom",
+    "tag:forge:crops/rice"
+  ],
+  "enabled": true,
+  "id": "farmersdelight:mushroom_rice"
+}

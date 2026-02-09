@@ -1,0 +1,9 @@
+{
+  "assigned_buffs": {},
+  "direct_ingredients": [
+    "item:garnished:apple_cider",
+    "tag:minecraft:flowers"
+  ],
+  "enabled": true,
+  "id": "garnished:cryptic_apple_cider"
+}

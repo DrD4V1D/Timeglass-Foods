@@ -1,0 +1,10 @@
+{
+  "assigned_buffs": {},
+  "direct_ingredients": [
+    "item:alexscaves:pure_darkness",
+    "item:farmersdelight:pie_crust",
+    "tag:forge:milk"
+  ],
+  "enabled": true,
+  "id": "alexs_caves_delight:pieceofcakefromthedark"
+}

@@ -1,0 +1,9 @@
+{
+  "assigned_buffs": {},
+  "direct_ingredients": [
+    "item:create_bic_bit:fries",
+    "item:minecraft:paper"
+  ],
+  "enabled": true,
+  "id": "create_bic_bit:wrapped_fries"
+}

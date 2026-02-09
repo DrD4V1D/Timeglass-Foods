@@ -1,0 +1,10 @@
+{
+  "assigned_buffs": {},
+  "direct_ingredients": [
+    "item:minecraft:blue_dye",
+    "item:minecraft:egg",
+    "item:minecraft:sugar"
+  ],
+  "enabled": true,
+  "id": "farmers_delight_christmas_editon:royal_frosting_blue"
+}

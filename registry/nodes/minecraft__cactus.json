@@ -1,0 +1,8 @@
+{
+  "assigned_buffs": {},
+  "direct_ingredients": [
+    "item:quark:cactus_block"
+  ],
+  "enabled": true,
+  "id": "minecraft:cactus"
+}

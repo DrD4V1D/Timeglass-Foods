@@ -1,0 +1,9 @@
+{
+  "assigned_buffs": {},
+  "direct_ingredients": [
+    "item:croptopia:yam_seed",
+    "tag:forge:yams"
+  ],
+  "enabled": true,
+  "id": "croptopia:yam_seed"
+}

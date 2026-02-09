@@ -1,0 +1,8 @@
+{
+  "assigned_buffs": {},
+  "direct_ingredients": [
+    "item:peculiars:yucca_cake"
+  ],
+  "enabled": true,
+  "id": "create_central_kitchen:yucca_cake_slice"
+}

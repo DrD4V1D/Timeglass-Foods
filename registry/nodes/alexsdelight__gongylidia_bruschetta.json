@@ -1,0 +1,12 @@
+{
+  "assigned_buffs": {},
+  "direct_ingredients": [
+    "item:alexsmobs:fish_oil",
+    "item:alexsmobs:gongylidia",
+    "tag:forge:bread",
+    "tag:forge:crops/tomato",
+    "tag:forge:salad_ingredients"
+  ],
+  "enabled": true,
+  "id": "alexsdelight:gongylidia_bruschetta"
+}

@@ -1,0 +1,9 @@
+{
+  "assigned_buffs": {},
+  "direct_ingredients": [
+    "item:minecraft:nether_wart_block",
+    "item:quark:nether_wart_sack"
+  ],
+  "enabled": true,
+  "id": "minecraft:nether_wart"
+}

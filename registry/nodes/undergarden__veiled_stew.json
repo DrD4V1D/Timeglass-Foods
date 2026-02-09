@@ -1,0 +1,9 @@
+{
+  "assigned_buffs": {},
+  "direct_ingredients": [
+    "item:minecraft:bowl",
+    "item:undergarden:veil_mushroom"
+  ],
+  "enabled": true,
+  "id": "undergarden:veiled_stew"
+}

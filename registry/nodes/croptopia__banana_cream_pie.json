@@ -1,0 +1,13 @@
+{
+  "assigned_buffs": {},
+  "direct_ingredients": [
+    "item:croptopia:frying_pan",
+    "item:minecraft:egg",
+    "item:minecraft:sugar",
+    "tag:forge:bananas",
+    "tag:forge:milks",
+    "tag:forge:vanilla"
+  ],
+  "enabled": true,
+  "id": "croptopia:banana_cream_pie"
+}

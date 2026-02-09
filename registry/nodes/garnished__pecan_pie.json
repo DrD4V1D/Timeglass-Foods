@@ -1,0 +1,12 @@
+{
+  "assigned_buffs": {},
+  "direct_ingredients": [
+    "item:garnished:pecan",
+    "item:garnished:pecan_pie_slice",
+    "item:minecraft:egg",
+    "item:minecraft:sugar",
+    "tag:forge:dough"
+  ],
+  "enabled": true,
+  "id": "garnished:pecan_pie"
+}

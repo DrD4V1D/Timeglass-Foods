@@ -1,0 +1,8 @@
+{
+  "assigned_buffs": {},
+  "direct_ingredients": [
+    "tag:forge:sausage_biscuit_sandwich"
+  ],
+  "enabled": true,
+  "id": "createfood:hot_sausage_biscuit_sandwich"
+}

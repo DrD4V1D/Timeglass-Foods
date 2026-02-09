@@ -1,0 +1,12 @@
+{
+  "assigned_buffs": {},
+  "direct_ingredients": [
+    "item:croptopia:frying_pan",
+    "tag:forge:anchovies",
+    "tag:forge:cheeses",
+    "tag:forge:doughs",
+    "tag:forge:tomatoes"
+  ],
+  "enabled": true,
+  "id": "croptopia:anchovy_pizza"
+}

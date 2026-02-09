@@ -1,0 +1,11 @@
+{
+  "assigned_buffs": {},
+  "direct_ingredients": [
+    "item:minecraft:bowl",
+    "tag:forge:cooked_eggs",
+    "tag:forge:toast_plate",
+    "tag:forge:toast_slice"
+  ],
+  "enabled": true,
+  "id": "createfood:toast_fried_egg_plate"
+}

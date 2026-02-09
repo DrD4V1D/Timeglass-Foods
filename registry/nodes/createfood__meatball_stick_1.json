@@ -1,0 +1,9 @@
+{
+  "assigned_buffs": {},
+  "direct_ingredients": [
+    "item:minecraft:stick",
+    "tag:forge:meatball"
+  ],
+  "enabled": true,
+  "id": "createfood:meatball_stick_1"
+}

@@ -1,0 +1,12 @@
+{
+  "assigned_buffs": {},
+  "direct_ingredients": [
+    "item:croptopia:bacon",
+    "item:minecraft:potato",
+    "tag:forge:flour",
+    "tag:forge:greenonions",
+    "tag:forge:water_bottles"
+  ],
+  "enabled": true,
+  "id": "croptopia:potato_soup"
+}

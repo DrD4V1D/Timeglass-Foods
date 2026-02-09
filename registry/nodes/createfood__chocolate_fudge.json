@@ -1,0 +1,10 @@
+{
+  "assigned_buffs": {},
+  "direct_ingredients": [
+    "tag:forge:butter",
+    "tag:forge:chocolate_chips",
+    "tag:forge:condensed_milk"
+  ],
+  "enabled": true,
+  "id": "createfood:chocolate_fudge"
+}

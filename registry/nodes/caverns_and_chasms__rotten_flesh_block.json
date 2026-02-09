@@ -1,0 +1,8 @@
+{
+  "assigned_buffs": {},
+  "direct_ingredients": [
+    "item:minecraft:rotten_flesh"
+  ],
+  "enabled": true,
+  "id": "caverns_and_chasms:rotten_flesh_block"
+}

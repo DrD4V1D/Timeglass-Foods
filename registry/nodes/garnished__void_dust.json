@@ -1,0 +1,10 @@
+{
+  "assigned_buffs": {},
+  "direct_ingredients": [
+    "item:create:powdered_obsidian",
+    "item:garnished:volatile_dust",
+    "tag:garnished:stone_types/abyssal_stone"
+  ],
+  "enabled": true,
+  "id": "garnished:void_dust"
+}

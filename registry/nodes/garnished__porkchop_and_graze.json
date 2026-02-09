@@ -1,0 +1,9 @@
+{
+  "assigned_buffs": {},
+  "direct_ingredients": [
+    "item:garnished:wheat_graze",
+    "item:minecraft:cooked_porkchop"
+  ],
+  "enabled": true,
+  "id": "garnished:porkchop_and_graze"
+}

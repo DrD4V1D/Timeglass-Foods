@@ -1,0 +1,9 @@
+{
+  "assigned_buffs": {},
+  "direct_ingredients": [
+    "item:farmersdelight:cod_slice",
+    "item:farmersdelight:cooked_rice"
+  ],
+  "enabled": true,
+  "id": "farmersdelight:cod_roll"
+}

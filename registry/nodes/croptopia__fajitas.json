@@ -1,0 +1,13 @@
+{
+  "assigned_buffs": {},
+  "direct_ingredients": [
+    "item:croptopia:frying_pan",
+    "tag:croptopia:meat_replacements",
+    "tag:forge:bellpeppers",
+    "tag:forge:cheeses",
+    "tag:forge:onions",
+    "tag:forge:tomatoes"
+  ],
+  "enabled": true,
+  "id": "croptopia:fajitas"
+}

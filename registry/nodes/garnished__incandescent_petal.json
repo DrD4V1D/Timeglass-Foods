@@ -1,0 +1,8 @@
+{
+  "assigned_buffs": {},
+  "direct_ingredients": [
+    "item:garnished:incandescent_lily"
+  ],
+  "enabled": true,
+  "id": "garnished:incandescent_petal"
+}

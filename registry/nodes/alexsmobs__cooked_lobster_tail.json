@@ -1,0 +1,8 @@
+{
+  "assigned_buffs": {},
+  "direct_ingredients": [
+    "item:alexsmobs:lobster_tail"
+  ],
+  "enabled": true,
+  "id": "alexsmobs:cooked_lobster_tail"
+}

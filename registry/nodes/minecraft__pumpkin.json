@@ -1,0 +1,8 @@
+{
+  "assigned_buffs": {},
+  "direct_ingredients": [
+    "item:farmersdelight:pumpkin_slice"
+  ],
+  "enabled": true,
+  "id": "minecraft:pumpkin"
+}

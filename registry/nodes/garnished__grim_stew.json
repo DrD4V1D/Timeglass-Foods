@@ -1,0 +1,15 @@
+{
+  "assigned_buffs": {},
+  "direct_ingredients": [
+    "item:garnished:crushed_crimson_fungus",
+    "item:garnished:crushed_shroomlight",
+    "item:garnished:crushed_warped_fungus",
+    "item:minecraft:bowl",
+    "item:minecraft:ghast_tear",
+    "item:minecraft:glow_berries",
+    "item:minecraft:glow_ink_sac",
+    "item:minecraft:glowstone_dust"
+  ],
+  "enabled": true,
+  "id": "garnished:grim_stew"
+}

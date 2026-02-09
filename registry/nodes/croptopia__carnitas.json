@@ -1,0 +1,12 @@
+{
+  "assigned_buffs": {},
+  "direct_ingredients": [
+    "item:croptopia:frying_pan",
+    "item:minecraft:porkchop",
+    "tag:forge:cabbage",
+    "tag:forge:onions",
+    "tag:forge:tortillas"
+  ],
+  "enabled": true,
+  "id": "croptopia:carnitas"
+}

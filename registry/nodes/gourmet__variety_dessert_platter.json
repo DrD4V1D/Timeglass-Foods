@@ -1,0 +1,11 @@
+{
+  "assigned_buffs": {},
+  "direct_ingredients": [
+    "item:create:sweet_roll",
+    "item:gourmet:carrot_cake",
+    "item:gourmet:neapolitan_ice_cream_cone",
+    "item:gourmet:sweet_berry_danish"
+  ],
+  "enabled": true,
+  "id": "gourmet:variety_dessert_platter"
+}

@@ -1,0 +1,15 @@
+{
+  "assigned_buffs": {},
+  "direct_ingredients": [
+    "item:croptopia:cinnamon",
+    "item:minecraft:egg",
+    "item:minecraft:pumpkin",
+    "item:minecraft:sugar",
+    "tag:forge:butters",
+    "tag:forge:flour",
+    "tag:forge:salts",
+    "tag:forge:vanilla"
+  ],
+  "enabled": true,
+  "id": "croptopia:pumpkin_bars"
+}

@@ -1,0 +1,9 @@
+{
+  "assigned_buffs": {},
+  "direct_ingredients": [
+    "item:croptopia:soybean_seed",
+    "tag:forge:soybeans"
+  ],
+  "enabled": true,
+  "id": "croptopia:soybean_seed"
+}

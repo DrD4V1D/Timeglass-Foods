@@ -1,0 +1,12 @@
+{
+  "assigned_buffs": {},
+  "direct_ingredients": [
+    "item:minecraft:glow_berries",
+    "item:minecraft:glow_lichen",
+    "item:minecraft:hanging_roots",
+    "tag:forge:bones",
+    "tag:forge:mushrooms"
+  ],
+  "enabled": true,
+  "id": "farmersdelight:bone_broth"
+}

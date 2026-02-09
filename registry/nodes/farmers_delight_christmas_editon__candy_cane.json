@@ -1,0 +1,10 @@
+{
+  "assigned_buffs": {},
+  "direct_ingredients": [
+    "item:minecraft:red_dye",
+    "item:minecraft:sugar",
+    "item:minecraft:white_dye"
+  ],
+  "enabled": true,
+  "id": "farmers_delight_christmas_editon:candy_cane"
+}

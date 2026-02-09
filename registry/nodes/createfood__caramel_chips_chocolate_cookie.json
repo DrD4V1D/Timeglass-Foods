@@ -1,0 +1,10 @@
+{
+  "assigned_buffs": {},
+  "direct_ingredients": [
+    "tag:forge:caramel_chips",
+    "tag:forge:chocolate_sweet_dough",
+    "tag:forge:raw_caramel_chips_chocolate_cookie"
+  ],
+  "enabled": true,
+  "id": "createfood:caramel_chips_chocolate_cookie"
+}

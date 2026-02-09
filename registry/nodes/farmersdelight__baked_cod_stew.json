@@ -1,0 +1,11 @@
+{
+  "assigned_buffs": {},
+  "direct_ingredients": [
+    "item:minecraft:potato",
+    "tag:forge:crops/tomato",
+    "tag:forge:eggs",
+    "tag:forge:raw_fishes/cod"
+  ],
+  "enabled": true,
+  "id": "farmersdelight:baked_cod_stew"
+}

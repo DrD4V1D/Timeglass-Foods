@@ -1,0 +1,9 @@
+{
+  "assigned_buffs": {},
+  "direct_ingredients": [
+    "item:biomeswevegone:cooked_white_puffball_cap",
+    "item:minecraft:bowl"
+  ],
+  "enabled": true,
+  "id": "biomeswevegone:white_puffball_stew"
+}

@@ -1,0 +1,10 @@
+{
+  "assigned_buffs": {},
+  "direct_ingredients": [
+    "item:alexsmobs:lobster_tail",
+    "item:farmersdelight:raw_pasta",
+    "item:farmersdelight:tomato_sauce"
+  ],
+  "enabled": true,
+  "id": "alexsdelight:lobster_pasta"
+}

@@ -1,0 +1,8 @@
+{
+  "assigned_buffs": {},
+  "direct_ingredients": [
+    "item:createcafe:iced_coffee_cup_ice"
+  ],
+  "enabled": true,
+  "id": "createcafe:iced_coffee"
+}

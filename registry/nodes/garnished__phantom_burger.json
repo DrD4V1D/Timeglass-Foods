@@ -1,0 +1,11 @@
+{
+  "assigned_buffs": {},
+  "direct_ingredients": [
+    "item:garnished:phantom_beef_patty",
+    "item:garnished:senile_dust",
+    "item:garnished:soul_roots",
+    "item:minecraft:bread"
+  ],
+  "enabled": true,
+  "id": "garnished:phantom_burger"
+}

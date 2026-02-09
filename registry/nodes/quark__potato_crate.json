@@ -1,0 +1,8 @@
+{
+  "assigned_buffs": {},
+  "direct_ingredients": [
+    "item:minecraft:potato"
+  ],
+  "enabled": true,
+  "id": "quark:potato_crate"
+}

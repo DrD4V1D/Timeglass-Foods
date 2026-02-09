@@ -1,0 +1,10 @@
+{
+  "assigned_buffs": {},
+  "direct_ingredients": [
+    "item:minecraft:honey_bottle",
+    "item:minecraft:sugar",
+    "item:minecraft:wheat_seeds"
+  ],
+  "enabled": true,
+  "id": "create_wrapped:barley_sugar"
+}

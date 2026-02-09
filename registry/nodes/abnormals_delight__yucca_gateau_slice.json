@@ -1,0 +1,8 @@
+{
+  "assigned_buffs": {},
+  "direct_ingredients": [
+    "item:atmospheric:yucca_gateau"
+  ],
+  "enabled": true,
+  "id": "abnormals_delight:yucca_gateau_slice"
+}

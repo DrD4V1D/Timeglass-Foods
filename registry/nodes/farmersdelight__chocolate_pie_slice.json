@@ -1,0 +1,8 @@
+{
+  "assigned_buffs": {},
+  "direct_ingredients": [
+    "item:farmersdelight:chocolate_pie"
+  ],
+  "enabled": true,
+  "id": "farmersdelight:chocolate_pie_slice"
+}

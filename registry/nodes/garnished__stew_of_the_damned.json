@@ -1,0 +1,12 @@
+{
+  "assigned_buffs": {},
+  "direct_ingredients": [
+    "item:garnished:antique_swathe",
+    "item:garnished:shattered_amber_remnant",
+    "item:minecraft:bone",
+    "item:minecraft:bowl",
+    "item:minecraft:rotten_flesh"
+  ],
+  "enabled": true,
+  "id": "garnished:stew_of_the_damned"
+}

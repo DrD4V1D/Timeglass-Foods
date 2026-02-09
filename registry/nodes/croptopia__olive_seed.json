@@ -1,0 +1,9 @@
+{
+  "assigned_buffs": {},
+  "direct_ingredients": [
+    "item:croptopia:olive_seed",
+    "tag:forge:olives"
+  ],
+  "enabled": true,
+  "id": "croptopia:olive_seed"
+}

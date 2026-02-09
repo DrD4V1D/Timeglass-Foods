@@ -1,0 +1,9 @@
+{
+  "assigned_buffs": {},
+  "direct_ingredients": [
+    "tag:forge:artichokes",
+    "tag:forge:cheeses"
+  ],
+  "enabled": true,
+  "id": "croptopia:artichoke_dip"
+}

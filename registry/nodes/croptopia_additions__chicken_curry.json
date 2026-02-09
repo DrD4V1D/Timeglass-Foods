@@ -1,0 +1,12 @@
+{
+  "assigned_buffs": {},
+  "direct_ingredients": [
+    "item:croptopia:frying_pan",
+    "item:croptopia:olive_oil",
+    "item:croptopia_additions:curry_powder",
+    "item:minecraft:bowl",
+    "item:minecraft:chicken"
+  ],
+  "enabled": true,
+  "id": "croptopia_additions:chicken_curry"
+}

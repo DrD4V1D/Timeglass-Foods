@@ -1,0 +1,9 @@
+{
+  "assigned_buffs": {},
+  "direct_ingredients": [
+    "item:minecraft:milk_bucket",
+    "tag:forge:cacao_butter"
+  ],
+  "enabled": true,
+  "id": "createfood:bar_of_white_chocolate"
+}

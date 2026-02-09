@@ -1,0 +1,9 @@
+{
+  "assigned_buffs": {},
+  "direct_ingredients": [
+    "item:create_compressed:sturdy_sheet_block",
+    "tag:forge:dusts/obsidian"
+  ],
+  "enabled": true,
+  "id": "create:sturdy_sheet"
+}

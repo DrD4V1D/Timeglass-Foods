@@ -1,0 +1,8 @@
+{
+  "assigned_buffs": {},
+  "direct_ingredients": [
+    "item:farmersdelight:cabbage"
+  ],
+  "enabled": true,
+  "id": "farmersdelight:cabbage_leaf"
+}

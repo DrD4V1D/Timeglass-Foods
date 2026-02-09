@@ -1,0 +1,10 @@
+{
+  "assigned_buffs": {},
+  "direct_ingredients": [
+    "item:croptopia:mustard",
+    "item:croptopia_additions:weiner",
+    "item:minecraft:bread"
+  ],
+  "enabled": true,
+  "id": "croptopia_additions:hot_dog"
+}

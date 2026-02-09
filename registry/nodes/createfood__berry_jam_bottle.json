@@ -1,0 +1,11 @@
+{
+  "assigned_buffs": {},
+  "direct_ingredients": [
+    "item:minecraft:glass_bottle",
+    "item:minecraft:sweet_berries",
+    "tag:forge:berry_jam_bucket",
+    "tag:forge:sugar"
+  ],
+  "enabled": true,
+  "id": "createfood:berry_jam_bottle"
+}

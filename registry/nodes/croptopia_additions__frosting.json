@@ -1,0 +1,10 @@
+{
+  "assigned_buffs": {},
+  "direct_ingredients": [
+    "item:minecraft:sugar",
+    "tag:forge:butters",
+    "tag:forge:milks"
+  ],
+  "enabled": true,
+  "id": "croptopia_additions:frosting"
+}

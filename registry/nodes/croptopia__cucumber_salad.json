@@ -1,0 +1,11 @@
+{
+  "assigned_buffs": {},
+  "direct_ingredients": [
+    "item:minecraft:bowl",
+    "tag:forge:cucumbers",
+    "tag:forge:lettuce",
+    "tag:forge:spinach"
+  ],
+  "enabled": true,
+  "id": "croptopia:cucumber_salad"
+}

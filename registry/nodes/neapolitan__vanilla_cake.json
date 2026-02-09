@@ -1,0 +1,14 @@
+{
+  "assigned_buffs": {},
+  "direct_ingredients": [
+    "item:abnormals_delight:vanilla_cake_slice",
+    "item:minecraft:sugar",
+    "item:neapolitan:dried_vanilla_pods",
+    "tag:forge:dough/wheat",
+    "tag:forge:eggs",
+    "tag:forge:flour/wheat",
+    "tag:forge:milk"
+  ],
+  "enabled": true,
+  "id": "neapolitan:vanilla_cake"
+}

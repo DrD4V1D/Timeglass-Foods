@@ -1,0 +1,11 @@
+{
+  "assigned_buffs": {},
+  "direct_ingredients": [
+    "item:caverns_and_chasms:amethyst_block",
+    "item:minecraft:amethyst_block",
+    "item:minecraft:amethyst_cluster",
+    "tag:create:stone_types/galosphere/amethyst"
+  ],
+  "enabled": true,
+  "id": "minecraft:amethyst_shard"
+}

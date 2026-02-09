@@ -1,0 +1,9 @@
+{
+  "assigned_buffs": {},
+  "direct_ingredients": [
+    "tag:forge:bar_of_white_chocolate",
+    "tag:forge:white_chocolate_chips"
+  ],
+  "enabled": true,
+  "id": "createfood:hollow_white_chocolate"
+}

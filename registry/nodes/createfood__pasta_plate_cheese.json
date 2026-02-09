@@ -1,0 +1,9 @@
+{
+  "assigned_buffs": {},
+  "direct_ingredients": [
+    "tag:forge:cheeses",
+    "tag:forge:pasta_plate"
+  ],
+  "enabled": true,
+  "id": "createfood:pasta_plate_cheese"
+}

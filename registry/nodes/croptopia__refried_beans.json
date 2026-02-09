@@ -1,0 +1,11 @@
+{
+  "assigned_buffs": {},
+  "direct_ingredients": [
+    "item:croptopia:frying_pan",
+    "tag:forge:blackbeans",
+    "tag:forge:cheeses",
+    "tag:forge:chile_peppers"
+  ],
+  "enabled": true,
+  "id": "croptopia:refried_beans"
+}

@@ -1,0 +1,8 @@
+{
+  "assigned_buffs": {},
+  "direct_ingredients": [
+    "item:createcafe:cassava_root"
+  ],
+  "enabled": true,
+  "id": "createcafe:tapioca_flour"
+}

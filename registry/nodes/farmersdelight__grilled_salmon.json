@@ -1,0 +1,12 @@
+{
+  "assigned_buffs": {},
+  "direct_ingredients": [
+    "item:minecraft:bowl",
+    "item:minecraft:sweet_berries",
+    "tag:forge:cooked_fishes/salmon",
+    "tag:forge:crops/cabbage",
+    "tag:forge:crops/onion"
+  ],
+  "enabled": true,
+  "id": "farmersdelight:grilled_salmon"
+}

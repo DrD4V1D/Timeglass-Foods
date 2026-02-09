@@ -1,0 +1,14 @@
+{
+  "assigned_buffs": {},
+  "direct_ingredients": [
+    "item:minecraft:egg",
+    "item:minecraft:honey_bottle",
+    "item:minecraft:sugar",
+    "item:minecraft:water_bucket",
+    "item:minecraft:wheat",
+    "tag:c:doughs",
+    "tag:c:foods/dough"
+  ],
+  "enabled": true,
+  "id": "create_wrapped:gingerbread"
+}

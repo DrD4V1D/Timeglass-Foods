@@ -1,0 +1,10 @@
+{
+  "assigned_buffs": {},
+  "direct_ingredients": [
+    "item:minecraft:bread",
+    "item:minecraft:cooked_porkchop",
+    "tag:forge:cheeses"
+  ],
+  "enabled": true,
+  "id": "croptopia:ham_sandwich"
+}

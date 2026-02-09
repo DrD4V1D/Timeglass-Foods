@@ -1,0 +1,9 @@
+{
+  "assigned_buffs": {},
+  "direct_ingredients": [
+    "item:minecraft:bowl",
+    "tag:forge:hash_browns"
+  ],
+  "enabled": true,
+  "id": "createfood:hash_brown_plate"
+}

@@ -1,0 +1,13 @@
+{
+  "assigned_buffs": {},
+  "direct_ingredients": [
+    "item:croptopia:frying_pan",
+    "item:minecraft:egg",
+    "tag:forge:flour",
+    "tag:forge:milks",
+    "tag:forge:onions",
+    "tag:forge:spinach"
+  ],
+  "enabled": true,
+  "id": "croptopia:quiche"
+}

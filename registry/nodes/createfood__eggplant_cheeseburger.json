@@ -1,0 +1,11 @@
+{
+  "assigned_buffs": {},
+  "direct_ingredients": [
+    "tag:forge:bun",
+    "tag:forge:cheese_and_eggplant_bun",
+    "tag:forge:cheeses",
+    "tag:forge:cooked_eggplant"
+  ],
+  "enabled": true,
+  "id": "createfood:eggplant_cheeseburger"
+}

@@ -1,0 +1,8 @@
+{
+  "assigned_buffs": {},
+  "direct_ingredients": [
+    "item:alexsmobs:raw_catfish"
+  ],
+  "enabled": true,
+  "id": "alexsmobs:cooked_catfish"
+}

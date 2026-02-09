@@ -1,0 +1,9 @@
+{
+  "assigned_buffs": {},
+  "direct_ingredients": [
+    "item:farmers_delight_christmas_editon:royal_frosting_blue",
+    "item:farmers_delight_christmas_editon:sugar_cookie"
+  ],
+  "enabled": true,
+  "id": "farmers_delight_christmas_editon:blue_sugar_cookie"
+}

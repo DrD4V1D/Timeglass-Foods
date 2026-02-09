@@ -1,0 +1,10 @@
+{
+  "assigned_buffs": {},
+  "direct_ingredients": [
+    "item:create:experience_nugget",
+    "item:incubation:chicken_egg_crate",
+    "item:minecraft:calcite"
+  ],
+  "enabled": true,
+  "id": "minecraft:egg"
+}

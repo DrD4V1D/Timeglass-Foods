@@ -1,0 +1,8 @@
+{
+  "assigned_buffs": {},
+  "direct_ingredients": [
+    "item:biomeswevegone:oddion_bulb"
+  ],
+  "enabled": true,
+  "id": "biomeswevegone:cooked_oddion_bulb"
+}

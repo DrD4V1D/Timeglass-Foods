@@ -1,0 +1,8 @@
+{
+  "assigned_buffs": {},
+  "direct_ingredients": [
+    "item:minecraft:bubble_coral_fan"
+  ],
+  "enabled": true,
+  "id": "garnished:coral_wrapping"
+}

@@ -1,0 +1,9 @@
+{
+  "assigned_buffs": {},
+  "direct_ingredients": [
+    "tag:forge:chocolate_pastry_base",
+    "tag:forge:cream_frosting"
+  ],
+  "enabled": true,
+  "id": "createfood:cream_chocolate_pastry"
+}

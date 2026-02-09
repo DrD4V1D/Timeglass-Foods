@@ -1,0 +1,14 @@
+{
+  "assigned_buffs": {},
+  "direct_ingredients": [
+    "item:abnormals_delight:strawberry_cake_slice",
+    "item:minecraft:sugar",
+    "tag:forge:dough/wheat",
+    "tag:forge:eggs",
+    "tag:forge:flour/wheat",
+    "tag:forge:fruits/strawberry",
+    "tag:forge:milk"
+  ],
+  "enabled": true,
+  "id": "neapolitan:strawberry_cake"
+}

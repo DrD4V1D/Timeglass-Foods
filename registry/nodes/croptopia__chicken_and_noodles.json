@@ -1,0 +1,12 @@
+{
+  "assigned_buffs": {},
+  "direct_ingredients": [
+    "item:croptopia:cooking_pot",
+    "tag:croptopia:chicken_replacements",
+    "tag:forge:chile_peppers",
+    "tag:forge:noodles",
+    "tag:forge:olive_oils"
+  ],
+  "enabled": true,
+  "id": "croptopia:chicken_and_noodles"
+}

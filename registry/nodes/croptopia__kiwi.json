@@ -1,0 +1,8 @@
+{
+  "assigned_buffs": {},
+  "direct_ingredients": [
+    "item:croptopia:kiwi_seed"
+  ],
+  "enabled": true,
+  "id": "croptopia:kiwi"
+}

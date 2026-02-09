@@ -1,0 +1,9 @@
+{
+  "assigned_buffs": {},
+  "direct_ingredients": [
+    "tag:forge:bread_slice",
+    "tag:forge:glow_berry_jam_bottle"
+  ],
+  "enabled": true,
+  "id": "createfood:bread_slice_glow_berry_jam"
+}

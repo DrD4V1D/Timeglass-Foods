@@ -1,0 +1,9 @@
+{
+  "assigned_buffs": {},
+  "direct_ingredients": [
+    "item:garnished:cashew",
+    "item:minecraft:sugar"
+  ],
+  "enabled": true,
+  "id": "garnished:sweetened_cashew"
+}

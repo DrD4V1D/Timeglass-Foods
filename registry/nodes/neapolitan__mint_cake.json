@@ -1,0 +1,14 @@
+{
+  "assigned_buffs": {},
+  "direct_ingredients": [
+    "item:abnormals_delight:mint_cake_slice",
+    "item:minecraft:sugar",
+    "item:neapolitan:mint_leaves",
+    "tag:forge:dough/wheat",
+    "tag:forge:eggs",
+    "tag:forge:flour/wheat",
+    "tag:forge:milk"
+  ],
+  "enabled": true,
+  "id": "neapolitan:mint_cake"
+}

@@ -1,0 +1,11 @@
+{
+  "assigned_buffs": {},
+  "direct_ingredients": [
+    "item:croptopia:coffee_seed",
+    "item:croptopia:food_press",
+    "item:minecraft:glass_bottle",
+    "tag:forge:coffee_beans"
+  ],
+  "enabled": true,
+  "id": "croptopia:coffee"
+}

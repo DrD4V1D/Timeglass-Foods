@@ -1,0 +1,10 @@
+{
+  "assigned_buffs": {},
+  "direct_ingredients": [
+    "item:garnished:almond_sack",
+    "item:garnished:garnish_compound",
+    "item:garnished:ungarnished_almond"
+  ],
+  "enabled": true,
+  "id": "garnished:almond"
+}

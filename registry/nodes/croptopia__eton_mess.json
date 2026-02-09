@@ -1,0 +1,11 @@
+{
+  "assigned_buffs": {},
+  "direct_ingredients": [
+    "item:croptopia:whipping_cream",
+    "item:minecraft:egg",
+    "item:minecraft:sugar",
+    "tag:forge:strawberries"
+  ],
+  "enabled": true,
+  "id": "croptopia:eton_mess"
+}

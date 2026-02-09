@@ -1,0 +1,11 @@
+{
+  "assigned_buffs": {},
+  "direct_ingredients": [
+    "item:croptopia:cooking_pot",
+    "item:minecraft:chicken",
+    "tag:forge:chile_peppers",
+    "tag:forge:doughs"
+  ],
+  "enabled": true,
+  "id": "croptopia:chicken_and_dumplings"
+}

@@ -1,0 +1,10 @@
+{
+  "assigned_buffs": {},
+  "direct_ingredients": [
+    "item:minecraft:cyan_dye",
+    "item:minecraft:egg",
+    "item:minecraft:sugar"
+  ],
+  "enabled": true,
+  "id": "farmers_delight_christmas_editon:cyan_royal_frosting"
+}

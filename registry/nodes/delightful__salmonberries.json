@@ -1,0 +1,9 @@
+{
+  "assigned_buffs": {},
+  "direct_ingredients": [
+    "item:delightful:salmonberry_pips",
+    "item:delightful:wild_salmonberries"
+  ],
+  "enabled": true,
+  "id": "delightful:salmonberries"
+}

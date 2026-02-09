@@ -1,0 +1,9 @@
+{
+  "assigned_buffs": {},
+  "direct_ingredients": [
+    "tag:forge:ground_rabbit",
+    "tag:forge:raw_rabbit_meatball"
+  ],
+  "enabled": true,
+  "id": "createfood:rabbit_meatball"
+}

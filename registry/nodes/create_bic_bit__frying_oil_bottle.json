@@ -1,0 +1,8 @@
+{
+  "assigned_buffs": {},
+  "direct_ingredients": [
+    "item:minecraft:glass_bottle"
+  ],
+  "enabled": true,
+  "id": "create_bic_bit:frying_oil_bottle"
+}

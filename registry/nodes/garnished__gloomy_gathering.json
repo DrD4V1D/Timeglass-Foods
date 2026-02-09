@@ -1,0 +1,11 @@
+{
+  "assigned_buffs": {},
+  "direct_ingredients": [
+    "item:garnished:cooked_tenebrous_meat",
+    "item:garnished:crushed_shroomlight",
+    "item:minecraft:amethyst_shard",
+    "item:minecraft:bowl"
+  ],
+  "enabled": true,
+  "id": "garnished:gloomy_gathering"
+}

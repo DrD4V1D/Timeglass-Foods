@@ -1,0 +1,9 @@
+{
+  "assigned_buffs": {},
+  "direct_ingredients": [
+    "item:minecraft:bamboo",
+    "tag:minecraft:fishes"
+  ],
+  "enabled": true,
+  "id": "minecraft:pufferfish"
+}

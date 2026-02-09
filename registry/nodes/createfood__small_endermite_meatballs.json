@@ -1,0 +1,8 @@
+{
+  "assigned_buffs": {},
+  "direct_ingredients": [
+    "tag:forge:endermite_meatball"
+  ],
+  "enabled": true,
+  "id": "createfood:small_endermite_meatballs"
+}

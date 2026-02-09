@@ -1,0 +1,8 @@
+{
+  "assigned_buffs": {},
+  "direct_ingredients": [
+    "item:minecraft:beetroot"
+  ],
+  "enabled": true,
+  "id": "minecraft:beetroot_soup"
+}

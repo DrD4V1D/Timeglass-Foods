@@ -1,0 +1,9 @@
+{
+  "assigned_buffs": {},
+  "direct_ingredients": [
+    "item:atmospheric:passion_fruit",
+    "item:minecraft:gold_nugget"
+  ],
+  "enabled": true,
+  "id": "atmospheric:shimmering_passion_fruit"
+}

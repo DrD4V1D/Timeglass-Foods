@@ -1,0 +1,12 @@
+{
+  "assigned_buffs": {},
+  "direct_ingredients": [
+    "item:croptopia:pepper",
+    "tag:forge:butters",
+    "tag:forge:gingers",
+    "tag:forge:greenbeans",
+    "tag:forge:salts"
+  ],
+  "enabled": true,
+  "id": "croptopia:buttered_green_beans"
+}

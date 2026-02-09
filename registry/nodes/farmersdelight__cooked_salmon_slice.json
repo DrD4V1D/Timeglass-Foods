@@ -1,0 +1,9 @@
+{
+  "assigned_buffs": {},
+  "direct_ingredients": [
+    "item:farmersdelight:salmon_slice",
+    "item:minecraft:cooked_salmon"
+  ],
+  "enabled": true,
+  "id": "farmersdelight:cooked_salmon_slice"
+}

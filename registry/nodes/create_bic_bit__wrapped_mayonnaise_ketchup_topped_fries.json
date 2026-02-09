@@ -1,0 +1,9 @@
+{
+  "assigned_buffs": {},
+  "direct_ingredients": [
+    "item:create_bic_bit:wrapped_ketchup_topped_fries",
+    "item:create_bic_bit:wrapped_mayonnaise_topped_fries"
+  ],
+  "enabled": true,
+  "id": "create_bic_bit:wrapped_mayonnaise_ketchup_topped_fries"
+}

@@ -1,0 +1,9 @@
+{
+  "assigned_buffs": {},
+  "direct_ingredients": [
+    "item:croptopia:squash_seed",
+    "tag:forge:squashes"
+  ],
+  "enabled": true,
+  "id": "croptopia:squash_seed"
+}

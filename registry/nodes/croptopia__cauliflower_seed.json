@@ -1,0 +1,9 @@
+{
+  "assigned_buffs": {},
+  "direct_ingredients": [
+    "item:croptopia:cauliflower_seed",
+    "tag:forge:cauliflower"
+  ],
+  "enabled": true,
+  "id": "croptopia:cauliflower_seed"
+}

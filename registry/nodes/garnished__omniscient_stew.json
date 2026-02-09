@@ -1,0 +1,11 @@
+{
+  "assigned_buffs": {},
+  "direct_ingredients": [
+    "item:garnished:fiendish_spore",
+    "item:garnished:pansophical_petal",
+    "item:garnished:senile_bone",
+    "item:minecraft:bowl"
+  ],
+  "enabled": true,
+  "id": "garnished:omniscient_stew"
+}

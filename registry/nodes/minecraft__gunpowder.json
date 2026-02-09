@@ -1,0 +1,14 @@
+{
+  "assigned_buffs": {},
+  "direct_ingredients": [
+    "item:create:cinder_flour",
+    "item:create:crushed_raw_zinc",
+    "item:create_compressed:crushed_zinc_pile",
+    "item:createbigcannons:gunpowder_pinch",
+    "item:createmetallurgy:dirty_zinc_dust",
+    "item:quark:gunpowder_sack",
+    "tag:garnished:stone_types/zultanite/blue"
+  ],
+  "enabled": true,
+  "id": "minecraft:gunpowder"
+}

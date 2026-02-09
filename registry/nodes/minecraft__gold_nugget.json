@@ -1,0 +1,28 @@
+{
+  "assigned_buffs": {},
+  "direct_ingredients": [
+    "item:byg:blue_nether_gold_ore",
+    "item:byg:brimstone_nether_gold_ore",
+    "item:create:crushed_raw_gold",
+    "item:create:golden_sheet",
+    "item:create:ochrum",
+    "item:create_compressed:crushed_gold_pile",
+    "item:createmetallurgy:dirty_wolframite_dust",
+    "item:createmetallurgy:graphite_nugget_mold",
+    "item:farmers_delight_christmas_editon:coin_wrapper",
+    "item:farmersdelight:golden_knife",
+    "item:minecraft:gilded_blackstone",
+    "item:minecraft:golden_horse_armor",
+    "item:minecraft:nether_gold_ore",
+    "item:minecraft:red_sand",
+    "item:minecraft:soul_sand",
+    "item:minecraft:tuff",
+    "tag:create:stone_types/ochrum",
+    "tag:create:stone_types/tuff",
+    "tag:forge:plates/gold",
+    "tag:garnished:stone_types/zultanite/yellow",
+    "tag:simplyswords:gold_gear"
+  ],
+  "enabled": true,
+  "id": "minecraft:gold_nugget"
+}

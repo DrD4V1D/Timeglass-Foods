@@ -1,0 +1,9 @@
+{
+  "assigned_buffs": {},
+  "direct_ingredients": [
+    "tag:forge:dark_chocolate_bottle",
+    "tag:forge:marshmallow_stick"
+  ],
+  "enabled": true,
+  "id": "createfood:dark_chocolate_covered_marshmallow_stick"
+}

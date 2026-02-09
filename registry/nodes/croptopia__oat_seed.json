@@ -1,0 +1,9 @@
+{
+  "assigned_buffs": {},
+  "direct_ingredients": [
+    "item:croptopia:oat_seed",
+    "tag:forge:oat"
+  ],
+  "enabled": true,
+  "id": "croptopia:oat_seed"
+}

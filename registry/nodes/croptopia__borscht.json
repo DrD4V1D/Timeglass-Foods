@@ -1,0 +1,16 @@
+{
+  "assigned_buffs": {},
+  "direct_ingredients": [
+    "item:croptopia:cooking_pot",
+    "item:minecraft:beetroot",
+    "item:minecraft:carrot",
+    "item:minecraft:potato",
+    "tag:forge:cabbage",
+    "tag:forge:garlic",
+    "tag:forge:onions",
+    "tag:forge:tomatoes",
+    "tag:forge:water_bottles"
+  ],
+  "enabled": true,
+  "id": "croptopia:borscht"
+}

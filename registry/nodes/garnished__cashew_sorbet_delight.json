@@ -1,0 +1,10 @@
+{
+  "assigned_buffs": {},
+  "direct_ingredients": [
+    "item:garnished:cashew_sorbet_scoop",
+    "item:garnished:chestnut",
+    "item:minecraft:bowl"
+  ],
+  "enabled": true,
+  "id": "garnished:cashew_sorbet_delight"
+}

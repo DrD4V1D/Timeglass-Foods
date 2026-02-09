@@ -1,0 +1,9 @@
+{
+  "assigned_buffs": {},
+  "direct_ingredients": [
+    "tag:forge:pita_dough",
+    "tag:forge:pita_dough_ingredients"
+  ],
+  "enabled": true,
+  "id": "createfood:pita_bread"
+}

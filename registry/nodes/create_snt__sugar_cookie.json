@@ -1,0 +1,9 @@
+{
+  "assigned_buffs": {},
+  "direct_ingredients": [
+    "item:minecraft:sugar",
+    "item:minecraft:wheat"
+  ],
+  "enabled": true,
+  "id": "create_snt:sugar_cookie"
+}

@@ -1,0 +1,9 @@
+{
+  "assigned_buffs": {},
+  "direct_ingredients": [
+    "tag:forge:apple_cream_frosting",
+    "tag:forge:chocolate_donut_base"
+  ],
+  "enabled": true,
+  "id": "createfood:apple_cream_glazed_chocolate_donut"
+}

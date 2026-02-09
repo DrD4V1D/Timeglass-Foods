@@ -1,0 +1,10 @@
+{
+  "assigned_buffs": {},
+  "direct_ingredients": [
+    "item:gourmet:ice_cube",
+    "item:minecraft:sugar",
+    "item:minecraft:sweet_berries"
+  ],
+  "enabled": true,
+  "id": "gourmet:sweet_berry_ice_cream_scoop"
+}

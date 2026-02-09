@@ -1,0 +1,9 @@
+{
+  "assigned_buffs": {},
+  "direct_ingredients": [
+    "tag:forge:caramel",
+    "tag:forge:pastry_bar_base"
+  ],
+  "enabled": true,
+  "id": "createfood:caramel_pastry_bar"
+}

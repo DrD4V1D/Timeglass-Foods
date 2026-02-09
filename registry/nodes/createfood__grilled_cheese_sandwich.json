@@ -1,0 +1,10 @@
+{
+  "assigned_buffs": {},
+  "direct_ingredients": [
+    "tag:forge:bread_slice",
+    "tag:forge:cheese_sandwich",
+    "tag:forge:cheeses"
+  ],
+  "enabled": true,
+  "id": "createfood:grilled_cheese_sandwich"
+}

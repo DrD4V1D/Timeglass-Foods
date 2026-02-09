@@ -1,0 +1,9 @@
+{
+  "assigned_buffs": {},
+  "direct_ingredients": [
+    "tag:forge:cooked_rabbit_cuts",
+    "tag:forge:salt"
+  ],
+  "enabled": true,
+  "id": "createfood:rabbit_jerky"
+}

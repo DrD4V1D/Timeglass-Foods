@@ -1,0 +1,10 @@
+{
+  "assigned_buffs": {},
+  "direct_ingredients": [
+    "item:minecraft:egg",
+    "item:minecraft:sugar",
+    "item:minecraft:yellow_dye"
+  ],
+  "enabled": true,
+  "id": "farmers_delight_christmas_editon:yellow_royal_frosting"
+}

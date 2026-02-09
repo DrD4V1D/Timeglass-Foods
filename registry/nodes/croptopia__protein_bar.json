@@ -1,0 +1,12 @@
+{
+  "assigned_buffs": {},
+  "direct_ingredients": [
+    "item:minecraft:sugar",
+    "tag:forge:caramel",
+    "tag:forge:chocolates",
+    "tag:forge:nuts",
+    "tag:forge:salts"
+  ],
+  "enabled": true,
+  "id": "croptopia:protein_bar"
+}

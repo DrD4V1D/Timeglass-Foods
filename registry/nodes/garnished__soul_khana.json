@@ -1,0 +1,10 @@
+{
+  "assigned_buffs": {},
+  "direct_ingredients": [
+    "item:garnished:crushed_sepia_fungus",
+    "item:garnished:soul_roots",
+    "item:minecraft:bowl"
+  ],
+  "enabled": true,
+  "id": "garnished:soul_khana"
+}

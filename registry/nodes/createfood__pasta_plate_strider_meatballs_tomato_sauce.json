@@ -1,0 +1,13 @@
+{
+  "assigned_buffs": {},
+  "direct_ingredients": [
+    "item:farmersdelight:tomato_sauce",
+    "tag:forge:cooked_pasta",
+    "tag:forge:pasta_plate_strider_meatballs",
+    "tag:forge:pasta_plate_tomato_sauce",
+    "tag:forge:raw_pasta",
+    "tag:forge:small_strider_meatballs"
+  ],
+  "enabled": true,
+  "id": "createfood:pasta_plate_strider_meatballs_tomato_sauce"
+}

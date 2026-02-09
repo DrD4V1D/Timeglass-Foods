@@ -1,0 +1,14 @@
+{
+  "assigned_buffs": {},
+  "direct_ingredients": [
+    "item:abnormals_delight:adzuki_cake_slice",
+    "item:minecraft:sugar",
+    "item:neapolitan:roasted_adzuki_beans",
+    "tag:forge:dough/wheat",
+    "tag:forge:eggs",
+    "tag:forge:flour/wheat",
+    "tag:forge:milk"
+  ],
+  "enabled": true,
+  "id": "neapolitan:adzuki_cake"
+}

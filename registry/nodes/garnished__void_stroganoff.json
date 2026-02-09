@@ -1,0 +1,12 @@
+{
+  "assigned_buffs": {},
+  "direct_ingredients": [
+    "item:garnished:cooked_polar_bear_meat",
+    "item:garnished:garnish_powder",
+    "item:garnished:numbing_parchment",
+    "item:garnished:void_dust",
+    "item:minecraft:bowl"
+  ],
+  "enabled": true,
+  "id": "garnished:void_stroganoff"
+}

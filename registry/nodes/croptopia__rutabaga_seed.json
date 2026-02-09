@@ -1,0 +1,9 @@
+{
+  "assigned_buffs": {},
+  "direct_ingredients": [
+    "item:croptopia:rutabaga_seed",
+    "tag:forge:rutabagas"
+  ],
+  "enabled": true,
+  "id": "croptopia:rutabaga_seed"
+}

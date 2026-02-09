@@ -1,0 +1,9 @@
+{
+  "assigned_buffs": {},
+  "direct_ingredients": [
+    "item:garnished:frost",
+    "item:minecraft:apple"
+  ],
+  "enabled": true,
+  "id": "garnished:chilled_apple"
+}

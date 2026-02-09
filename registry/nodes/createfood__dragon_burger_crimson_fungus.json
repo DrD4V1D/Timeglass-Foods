@@ -1,0 +1,11 @@
+{
+  "assigned_buffs": {},
+  "direct_ingredients": [
+    "item:minecraft:crimson_fungus",
+    "tag:forge:bun",
+    "tag:forge:dragon_bun_crimson_fungus",
+    "tag:forge:dragon_patty"
+  ],
+  "enabled": true,
+  "id": "createfood:dragon_burger_crimson_fungus"
+}

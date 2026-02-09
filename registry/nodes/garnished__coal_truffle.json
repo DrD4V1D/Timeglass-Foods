@@ -1,0 +1,9 @@
+{
+  "assigned_buffs": {},
+  "direct_ingredients": [
+    "item:minecraft:charcoal",
+    "item:minecraft:coal"
+  ],
+  "enabled": true,
+  "id": "garnished:coal_truffle"
+}

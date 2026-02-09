@@ -1,0 +1,8 @@
+{
+  "assigned_buffs": {},
+  "direct_ingredients": [
+    "item:farmersdelight:kelp_roll"
+  ],
+  "enabled": true,
+  "id": "farmersdelight:kelp_roll_slice"
+}

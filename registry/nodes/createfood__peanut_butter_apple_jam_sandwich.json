@@ -1,0 +1,13 @@
+{
+  "assigned_buffs": {},
+  "direct_ingredients": [
+    "tag:forge:apple_jam_bottle",
+    "tag:forge:bread_slice",
+    "tag:forge:bread_slice_apple_jam",
+    "tag:forge:bread_slice_peanut_butter",
+    "tag:forge:peanut_butter",
+    "tag:forge:peanut_butter_sandwich"
+  ],
+  "enabled": true,
+  "id": "createfood:peanut_butter_apple_jam_sandwich"
+}

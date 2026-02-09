@@ -1,0 +1,9 @@
+{
+  "assigned_buffs": {},
+  "direct_ingredients": [
+    "item:croptopia:blackbean_seed",
+    "tag:forge:blackbeans"
+  ],
+  "enabled": true,
+  "id": "croptopia:blackbean_seed"
+}

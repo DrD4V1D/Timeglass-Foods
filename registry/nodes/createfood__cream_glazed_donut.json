@@ -1,0 +1,9 @@
+{
+  "assigned_buffs": {},
+  "direct_ingredients": [
+    "tag:forge:cream_frosting",
+    "tag:forge:donut_base"
+  ],
+  "enabled": true,
+  "id": "createfood:cream_glazed_donut"
+}

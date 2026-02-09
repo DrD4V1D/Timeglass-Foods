@@ -1,0 +1,8 @@
+{
+  "assigned_buffs": {},
+  "direct_ingredients": [
+    "tag:forge:cheesecake"
+  ],
+  "enabled": true,
+  "id": "createfood:cheesecake_slice"
+}

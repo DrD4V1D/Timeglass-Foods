@@ -1,0 +1,10 @@
+{
+  "assigned_buffs": {},
+  "direct_ingredients": [
+    "item:minecraft:bowl",
+    "tag:forge:cooked_pasta",
+    "tag:forge:raw_pasta"
+  ],
+  "enabled": true,
+  "id": "createfood:pasta_plate"
+}

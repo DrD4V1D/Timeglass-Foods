@@ -1,0 +1,10 @@
+{
+  "assigned_buffs": {},
+  "direct_ingredients": [
+    "item:farmersdelight:pumpkin_slice",
+    "tag:forge:pumpkins",
+    "tag:forge:pumpkins/pumpkin_blocks"
+  ],
+  "enabled": true,
+  "id": "minecraft:pumpkin_seeds"
+}

@@ -1,0 +1,11 @@
+{
+  "assigned_buffs": {},
+  "direct_ingredients": [
+    "item:minecraft:dried_kelp",
+    "tag:forge:onions",
+    "tag:forge:rice",
+    "tag:forge:tuna"
+  ],
+  "enabled": true,
+  "id": "croptopia:tuna_roll"
+}

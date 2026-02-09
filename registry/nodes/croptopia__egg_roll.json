@@ -1,0 +1,11 @@
+{
+  "assigned_buffs": {},
+  "direct_ingredients": [
+    "item:minecraft:egg",
+    "tag:croptopia:meat_replacements",
+    "tag:forge:doughs",
+    "tag:forge:lettuce"
+  ],
+  "enabled": true,
+  "id": "croptopia:egg_roll"
+}

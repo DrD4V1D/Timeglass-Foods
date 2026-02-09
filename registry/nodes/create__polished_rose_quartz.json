@@ -1,0 +1,10 @@
+{
+  "assigned_buffs": {},
+  "direct_ingredients": [
+    "item:create:andesite_alloy",
+    "item:create:rose_quartz",
+    "item:create_compressed:rose_quartz_polished_block"
+  ],
+  "enabled": true,
+  "id": "create:polished_rose_quartz"
+}

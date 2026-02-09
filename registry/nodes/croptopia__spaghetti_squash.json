@@ -1,0 +1,11 @@
+{
+  "assigned_buffs": {},
+  "direct_ingredients": [
+    "item:croptopia:frying_pan",
+    "tag:forge:chile_peppers",
+    "tag:forge:olive_oils",
+    "tag:forge:squashes"
+  ],
+  "enabled": true,
+  "id": "croptopia:spaghetti_squash"
+}

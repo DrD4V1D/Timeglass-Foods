@@ -1,0 +1,16 @@
+{
+  "assigned_buffs": {},
+  "direct_ingredients": [
+    "item:croptopia:frying_pan",
+    "tag:forge:basil",
+    "tag:forge:bellpeppers",
+    "tag:forge:eggplants",
+    "tag:forge:olive_oils",
+    "tag:forge:onions",
+    "tag:forge:squashes",
+    "tag:forge:tomatoes",
+    "tag:forge:zucchini"
+  ],
+  "enabled": true,
+  "id": "croptopia:ratatouille"
+}

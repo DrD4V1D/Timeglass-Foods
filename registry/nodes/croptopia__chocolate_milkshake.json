@@ -1,0 +1,11 @@
+{
+  "assigned_buffs": {},
+  "direct_ingredients": [
+    "item:croptopia:vanilla_ice_cream",
+    "item:minecraft:glass_bottle",
+    "tag:forge:chocolates",
+    "tag:forge:milks"
+  ],
+  "enabled": true,
+  "id": "croptopia:chocolate_milkshake"
+}

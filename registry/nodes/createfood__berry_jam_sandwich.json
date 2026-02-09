@@ -1,0 +1,10 @@
+{
+  "assigned_buffs": {},
+  "direct_ingredients": [
+    "tag:forge:berry_jam_bottle",
+    "tag:forge:bread_slice",
+    "tag:forge:bread_slice_berry_jam"
+  ],
+  "enabled": true,
+  "id": "createfood:berry_jam_sandwich"
+}

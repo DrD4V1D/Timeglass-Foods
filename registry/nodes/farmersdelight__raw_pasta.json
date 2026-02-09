@@ -1,0 +1,8 @@
+{
+  "assigned_buffs": {},
+  "direct_ingredients": [
+    "tag:forge:dough"
+  ],
+  "enabled": true,
+  "id": "farmersdelight:raw_pasta"
+}

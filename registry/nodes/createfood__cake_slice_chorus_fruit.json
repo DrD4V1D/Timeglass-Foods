@@ -1,0 +1,8 @@
+{
+  "assigned_buffs": {},
+  "direct_ingredients": [
+    "tag:forge:cake_chorus_fruit"
+  ],
+  "enabled": true,
+  "id": "createfood:cake_slice_chorus_fruit"
+}

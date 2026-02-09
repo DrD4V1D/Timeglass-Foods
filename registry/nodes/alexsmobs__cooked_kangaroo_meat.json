@@ -1,0 +1,8 @@
+{
+  "assigned_buffs": {},
+  "direct_ingredients": [
+    "item:alexsmobs:kangaroo_meat"
+  ],
+  "enabled": true,
+  "id": "alexsmobs:cooked_kangaroo_meat"
+}

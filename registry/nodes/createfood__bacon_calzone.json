@@ -1,0 +1,8 @@
+{
+  "assigned_buffs": {},
+  "direct_ingredients": [
+    "tag:forge:raw_bacon_calzone"
+  ],
+  "enabled": true,
+  "id": "createfood:bacon_calzone"
+}

@@ -1,0 +1,9 @@
+{
+  "assigned_buffs": {},
+  "direct_ingredients": [
+    "item:minecraft:stick",
+    "tag:forge:chorus_fruit_ice_cream_bowl"
+  ],
+  "enabled": true,
+  "id": "createfood:chorus_fruit_ice_cream_stick"
+}

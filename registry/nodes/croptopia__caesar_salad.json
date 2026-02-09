@@ -1,0 +1,12 @@
+{
+  "assigned_buffs": {},
+  "direct_ingredients": [
+    "item:minecraft:bowl",
+    "tag:forge:garlic",
+    "tag:forge:lettuce",
+    "tag:forge:olives",
+    "tag:forge:toasts"
+  ],
+  "enabled": true,
+  "id": "croptopia:caesar_salad"
+}

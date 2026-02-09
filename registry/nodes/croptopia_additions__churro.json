@@ -1,0 +1,11 @@
+{
+  "assigned_buffs": {},
+  "direct_ingredients": [
+    "item:croptopia:flour",
+    "item:croptopia:olive_oil",
+    "item:minecraft:sugar",
+    "tag:c:cinnamon"
+  ],
+  "enabled": true,
+  "id": "croptopia_additions:churro"
+}

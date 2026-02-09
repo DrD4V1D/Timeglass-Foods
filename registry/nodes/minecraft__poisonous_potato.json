@@ -1,0 +1,9 @@
+{
+  "assigned_buffs": {},
+  "direct_ingredients": [
+    "item:minecraft:poisonous_potato",
+    "item:minecraft:potato"
+  ],
+  "enabled": true,
+  "id": "minecraft:poisonous_potato"
+}

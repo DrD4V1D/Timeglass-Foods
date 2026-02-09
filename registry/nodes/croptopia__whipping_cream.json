@@ -1,0 +1,10 @@
+{
+  "assigned_buffs": {},
+  "direct_ingredients": [
+    "item:minecraft:sugar",
+    "tag:forge:milks",
+    "tag:forge:vanilla"
+  ],
+  "enabled": true,
+  "id": "croptopia:whipping_cream"
+}

@@ -1,0 +1,9 @@
+{
+  "assigned_buffs": {},
+  "direct_ingredients": [
+    "tag:forge:butters",
+    "tag:forge:toasts"
+  ],
+  "enabled": true,
+  "id": "croptopia:buttered_toast"
+}

@@ -1,0 +1,8 @@
+{
+  "assigned_buffs": {},
+  "direct_ingredients": [
+    "item:minecraft:sweet_berries"
+  ],
+  "enabled": true,
+  "id": "create_confectionery:black_chocolate_glazed_berries"
+}

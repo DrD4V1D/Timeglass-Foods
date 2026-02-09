@@ -1,0 +1,11 @@
+{
+  "assigned_buffs": {},
+  "direct_ingredients": [
+    "item:minecraft:bamboo",
+    "item:minecraft:kelp",
+    "tag:forge:raw_venison",
+    "tag:forge:vegetables"
+  ],
+  "enabled": true,
+  "id": "abnormals_delight:venison_with_bamboo_shoots"
+}

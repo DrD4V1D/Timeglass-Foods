@@ -1,0 +1,8 @@
+{
+  "assigned_buffs": {},
+  "direct_ingredients": [
+    "item:farmersdelight:onion"
+  ],
+  "enabled": true,
+  "id": "farmersdelight:onion_crate"
+}

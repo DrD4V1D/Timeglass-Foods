@@ -1,0 +1,17 @@
+{
+  "assigned_buffs": {},
+  "direct_ingredients": [
+    "item:minecraft:brown_mushroom",
+    "tag:forge:crops/cabbage",
+    "tag:forge:crops/onion",
+    "tag:forge:dough",
+    "tag:forge:dumpling_wrappers",
+    "tag:forge:mushrooms",
+    "tag:forge:onion",
+    "tag:forge:raw_beef",
+    "tag:forge:raw_chicken",
+    "tag:forge:raw_pork"
+  ],
+  "enabled": true,
+  "id": "farmersdelight:dumplings"
+}

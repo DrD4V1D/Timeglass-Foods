@@ -1,0 +1,8 @@
+{
+  "assigned_buffs": {},
+  "direct_ingredients": [
+    "item:create_bic_bit:raw_fries"
+  ],
+  "enabled": true,
+  "id": "create_bic_bit:fries"
+}

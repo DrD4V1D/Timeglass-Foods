@@ -1,0 +1,11 @@
+{
+  "assigned_buffs": {},
+  "direct_ingredients": [
+    "item:minecraft:bowl",
+    "tag:forge:beetroot",
+    "tag:forge:carrot",
+    "tag:forge:salad_ingredients"
+  ],
+  "enabled": true,
+  "id": "createfood:mixed_salad_beetroot_carrot"
+}

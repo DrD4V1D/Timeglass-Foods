@@ -1,0 +1,17 @@
+{
+  "assigned_buffs": {},
+  "direct_ingredients": [
+    "item:minecraft:cocoa_beans",
+    "item:regions_unexplored:brown_snowbelle",
+    "item:regions_unexplored:cattail",
+    "item:regions_unexplored:dead_steppe_shrub",
+    "item:regions_unexplored:dorcel",
+    "item:regions_unexplored:small_desert_shrub",
+    "item:regions_unexplored:wilting_trillium",
+    "item:upgrade_aquatic:rock_coral",
+    "item:upgrade_aquatic:rock_coral_fan",
+    "tag:botania:petals/brown"
+  ],
+  "enabled": true,
+  "id": "minecraft:brown_dye"
+}

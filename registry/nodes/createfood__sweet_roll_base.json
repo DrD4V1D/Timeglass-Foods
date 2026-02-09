@@ -1,0 +1,8 @@
+{
+  "assigned_buffs": {},
+  "direct_ingredients": [
+    "tag:forge:raw_sweet_roll_base"
+  ],
+  "enabled": true,
+  "id": "createfood:sweet_roll_base"
+}

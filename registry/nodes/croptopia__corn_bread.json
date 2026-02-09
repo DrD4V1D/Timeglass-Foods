@@ -1,0 +1,8 @@
+{
+  "assigned_buffs": {},
+  "direct_ingredients": [
+    "tag:forge:corn"
+  ],
+  "enabled": true,
+  "id": "croptopia:corn_bread"
+}

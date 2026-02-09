@@ -1,0 +1,9 @@
+{
+  "assigned_buffs": {},
+  "direct_ingredients": [
+    "item:minecraft:sweet_berries",
+    "tag:forge:caramel"
+  ],
+  "enabled": true,
+  "id": "createfood:caramel_glazed_berries"
+}

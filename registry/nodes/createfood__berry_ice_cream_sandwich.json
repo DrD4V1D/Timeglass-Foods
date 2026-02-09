@@ -1,0 +1,9 @@
+{
+  "assigned_buffs": {},
+  "direct_ingredients": [
+    "tag:forge:chocolate_graham_cracker",
+    "tag:forge:chocolate_graham_cracker_berry_ice_cream"
+  ],
+  "enabled": true,
+  "id": "createfood:berry_ice_cream_sandwich"
+}

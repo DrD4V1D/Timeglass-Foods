@@ -1,0 +1,13 @@
+{
+  "assigned_buffs": {},
+  "direct_ingredients": [
+    "item:atmospheric:aloe_leaves",
+    "item:atmospheric:barrel_cactus",
+    "item:atmospheric:roasted_yucca_fruit",
+    "item:atmospheric:yellow_blossoms",
+    "item:minecraft:bowl",
+    "tag:forge:cooked_rabbit"
+  ],
+  "enabled": true,
+  "id": "abnormals_delight:dune_platter"
+}

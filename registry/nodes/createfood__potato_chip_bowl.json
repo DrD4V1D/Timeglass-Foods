@@ -1,0 +1,9 @@
+{
+  "assigned_buffs": {},
+  "direct_ingredients": [
+    "tag:forge:bowl",
+    "tag:forge:potato_chips"
+  ],
+  "enabled": true,
+  "id": "createfood:potato_chip_bowl"
+}

@@ -1,0 +1,11 @@
+{
+  "assigned_buffs": {},
+  "direct_ingredients": [
+    "tag:forge:breakfast_sausages",
+    "tag:forge:cheeses",
+    "tag:forge:macaroni_bowl_cheese",
+    "tag:forge:macaroni_bowl_sausage"
+  ],
+  "enabled": true,
+  "id": "createfood:macaroni_bowl_cheese_sausage"
+}

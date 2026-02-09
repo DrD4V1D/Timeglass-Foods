@@ -1,0 +1,14 @@
+{
+  "assigned_buffs": {},
+  "direct_ingredients": [
+    "item:croptopia:eggplant",
+    "item:croptopia:frying_pan",
+    "item:croptopia:garlic",
+    "item:croptopia:olive_oil",
+    "item:croptopia:salt",
+    "item:croptopia_additions:curry_powder",
+    "item:minecraft:bowl"
+  ],
+  "enabled": true,
+  "id": "croptopia_additions:eggplant_curry"
+}

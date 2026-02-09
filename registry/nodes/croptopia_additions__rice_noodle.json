@@ -1,0 +1,10 @@
+{
+  "assigned_buffs": {},
+  "direct_ingredients": [
+    "item:croptopia:cooking_pot",
+    "item:croptopia:water_bottle",
+    "item:croptopia_additions:rice_flour"
+  ],
+  "enabled": true,
+  "id": "croptopia_additions:rice_noodle"
+}

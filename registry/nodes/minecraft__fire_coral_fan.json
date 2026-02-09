@@ -1,0 +1,8 @@
+{
+  "assigned_buffs": {},
+  "direct_ingredients": [
+    "item:minecraft:dead_fire_coral_fan"
+  ],
+  "enabled": true,
+  "id": "minecraft:fire_coral_fan"
+}

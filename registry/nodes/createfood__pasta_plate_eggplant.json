@@ -1,0 +1,10 @@
+{
+  "assigned_buffs": {},
+  "direct_ingredients": [
+    "tag:forge:cooked_eggplant",
+    "tag:forge:pasta_plate",
+    "tag:forge:raw_pasta"
+  ],
+  "enabled": true,
+  "id": "createfood:pasta_plate_eggplant"
+}

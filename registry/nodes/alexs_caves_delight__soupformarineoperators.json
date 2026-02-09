@@ -1,0 +1,12 @@
+{
+  "assigned_buffs": {},
+  "direct_ingredients": [
+    "item:alexs_caves_delight:pieceofcookedlanternfish",
+    "item:alexscaves:bioluminesscence",
+    "item:alexscaves:mussel",
+    "item:alexscaves:tripodfish",
+    "item:minecraft:bowl"
+  ],
+  "enabled": true,
+  "id": "alexs_caves_delight:soupformarineoperators"
+}

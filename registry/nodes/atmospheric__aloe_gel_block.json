@@ -1,0 +1,8 @@
+{
+  "assigned_buffs": {},
+  "direct_ingredients": [
+    "item:atmospheric:aloe_gel_bottle"
+  ],
+  "enabled": true,
+  "id": "atmospheric:aloe_gel_block"
+}

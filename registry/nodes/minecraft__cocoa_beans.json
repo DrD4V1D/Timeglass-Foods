@@ -1,0 +1,8 @@
+{
+  "assigned_buffs": {},
+  "direct_ingredients": [
+    "item:quark:cocoa_beans_sack"
+  ],
+  "enabled": true,
+  "id": "minecraft:cocoa_beans"
+}

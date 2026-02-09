@@ -1,0 +1,10 @@
+{
+  "assigned_buffs": {},
+  "direct_ingredients": [
+    "item:minecraft:bowl",
+    "item:minecraft:porkchop",
+    "tag:forge:blackbeans"
+  ],
+  "enabled": true,
+  "id": "croptopia:pork_and_beans"
+}

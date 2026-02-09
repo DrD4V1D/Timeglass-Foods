@@ -1,0 +1,8 @@
+{
+  "assigned_buffs": {},
+  "direct_ingredients": [
+    "item:upgrade_aquatic:mulberry_jam_bottle"
+  ],
+  "enabled": true,
+  "id": "upgrade_aquatic:mulberry_jam_block"
+}

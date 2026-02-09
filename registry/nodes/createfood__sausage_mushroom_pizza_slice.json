@@ -1,0 +1,8 @@
+{
+  "assigned_buffs": {},
+  "direct_ingredients": [
+    "tag:forge:sausage_mushroom_pizza"
+  ],
+  "enabled": true,
+  "id": "createfood:sausage_mushroom_pizza_slice"
+}

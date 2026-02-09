@@ -1,0 +1,10 @@
+{
+  "assigned_buffs": {},
+  "direct_ingredients": [
+    "item:createfood:chocolate_sweet_roll_base",
+    "tag:forge:caramel",
+    "tag:forge:chocolate_sweet_roll_base"
+  ],
+  "enabled": true,
+  "id": "createfood:caramel_glazed_chocolate_sweet_roll"
+}

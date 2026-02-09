@@ -1,0 +1,11 @@
+{
+  "assigned_buffs": {},
+  "direct_ingredients": [
+    "item:minecraft:water_bucket",
+    "tag:forge:buckets/water",
+    "tag:forge:magma_gelatin",
+    "tag:forge:sugar"
+  ],
+  "enabled": true,
+  "id": "createfood:magma_cream_marshmallow"
+}

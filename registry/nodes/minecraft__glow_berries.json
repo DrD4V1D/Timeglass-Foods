@@ -1,0 +1,9 @@
+{
+  "assigned_buffs": {},
+  "direct_ingredients": [
+    "item:minecraft:sweet_berries",
+    "item:quark:glowberry_sack"
+  ],
+  "enabled": true,
+  "id": "minecraft:glow_berries"
+}

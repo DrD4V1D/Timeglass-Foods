@@ -1,0 +1,10 @@
+{
+  "assigned_buffs": {},
+  "direct_ingredients": [
+    "item:minecraft:glow_berries",
+    "item:minecraft:sweet_berries",
+    "tag:forge:glow_berry_cream_frosted_mini_waffle"
+  ],
+  "enabled": true,
+  "id": "createfood:glow_berry_cream_frosted_mini_waffle_glow_berry"
+}

@@ -1,0 +1,14 @@
+{
+  "assigned_buffs": {},
+  "direct_ingredients": [
+    "tag:forge:bread",
+    "tag:forge:cooked_mutton",
+    "tag:forge:crops/onion",
+    "tag:forge:gyro_meat_slice",
+    "tag:forge:onion",
+    "tag:forge:pita_bread",
+    "tag:forge:salad_ingredients"
+  ],
+  "enabled": true,
+  "id": "farmersdelight:mutton_wrap"
+}

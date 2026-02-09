@@ -1,0 +1,11 @@
+{
+  "assigned_buffs": {},
+  "direct_ingredients": [
+    "item:minecraft:blue_ice",
+    "item:minecraft:snow_block",
+    "item:minecraft:snowball",
+    "item:regions_unexplored:icicle"
+  ],
+  "enabled": true,
+  "id": "minecraft:ice"
+}

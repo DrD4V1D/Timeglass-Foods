@@ -1,0 +1,9 @@
+{
+  "assigned_buffs": {},
+  "direct_ingredients": [
+    "item:create_bic_bit:aged_cheese",
+    "item:create_bic_bit:waxed_aged_cheese"
+  ],
+  "enabled": true,
+  "id": "create_bic_bit:aged_cheese_wedge"
+}

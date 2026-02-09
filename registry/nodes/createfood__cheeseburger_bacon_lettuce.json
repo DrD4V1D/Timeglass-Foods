@@ -1,0 +1,13 @@
+{
+  "assigned_buffs": {},
+  "direct_ingredients": [
+    "tag:forge:bun",
+    "tag:forge:cheese_and_beef_bun_bacon_lettuce",
+    "tag:forge:cheeses",
+    "tag:forge:cooked_beef",
+    "tag:forge:cooked_pork",
+    "tag:forge:salad_ingredients"
+  ],
+  "enabled": true,
+  "id": "createfood:cheeseburger_bacon_lettuce"
+}

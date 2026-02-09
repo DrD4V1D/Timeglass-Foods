@@ -1,0 +1,9 @@
+{
+  "assigned_buffs": {},
+  "direct_ingredients": [
+    "item:create_bic_bit:unripe_cheese",
+    "item:minecraft:honeycomb_block"
+  ],
+  "enabled": true,
+  "id": "create_bic_bit:waxed_unripe_cheese"
+}

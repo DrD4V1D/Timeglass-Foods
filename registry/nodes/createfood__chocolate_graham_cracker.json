@@ -1,0 +1,11 @@
+{
+  "assigned_buffs": {},
+  "direct_ingredients": [
+    "item:minecraft:honey_bottle",
+    "tag:forge:butter",
+    "tag:forge:chocolate_sweet_dough",
+    "tag:forge:milk_bottle"
+  ],
+  "enabled": true,
+  "id": "createfood:chocolate_graham_cracker"
+}

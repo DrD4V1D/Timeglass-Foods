@@ -1,0 +1,9 @@
+{
+  "assigned_buffs": {},
+  "direct_ingredients": [
+    "item:croptopia:cabbage",
+    "item:croptopia:salt"
+  ],
+  "enabled": true,
+  "id": "croptopia_additions:sauerkraut"
+}

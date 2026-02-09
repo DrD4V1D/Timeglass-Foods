@@ -1,0 +1,11 @@
+{
+  "assigned_buffs": {},
+  "direct_ingredients": [
+    "item:croptopia:greenbean",
+    "item:croptopia:onion",
+    "item:minecraft:bowl",
+    "item:minecraft:brown_mushroom"
+  ],
+  "enabled": true,
+  "id": "croptopia_additions:green_bean_casserole"
+}

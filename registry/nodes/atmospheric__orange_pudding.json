@@ -1,0 +1,12 @@
+{
+  "assigned_buffs": {},
+  "direct_ingredients": [
+    "item:minecraft:cocoa_beans",
+    "item:minecraft:sweet_berries",
+    "tag:forge:eggs",
+    "tag:forge:fruits/orange",
+    "tag:forge:milk"
+  ],
+  "enabled": true,
+  "id": "atmospheric:orange_pudding"
+}

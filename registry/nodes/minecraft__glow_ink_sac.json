@@ -1,0 +1,8 @@
+{
+  "assigned_buffs": {},
+  "direct_ingredients": [
+    "item:minecraft:ink_sac"
+  ],
+  "enabled": true,
+  "id": "minecraft:glow_ink_sac"
+}

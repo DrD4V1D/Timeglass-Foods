@@ -1,0 +1,13 @@
+{
+  "assigned_buffs": {},
+  "direct_ingredients": [
+    "item:croptopia:frying_pan",
+    "item:minecraft:bread",
+    "tag:croptopia:pork_replacements",
+    "tag:forge:butters",
+    "tag:forge:cheeses",
+    "tag:forge:flour"
+  ],
+  "enabled": true,
+  "id": "croptopia:croque_monsieur"
+}

@@ -1,0 +1,9 @@
+{
+  "assigned_buffs": {},
+  "direct_ingredients": [
+    "item:farmersdelight:cabbage_seeds",
+    "item:farmersdelight:wild_cabbages"
+  ],
+  "enabled": true,
+  "id": "farmersdelight:cabbage_seeds"
+}

@@ -1,0 +1,11 @@
+{
+  "assigned_buffs": {},
+  "direct_ingredients": [
+    "item:minecraft:porkchop",
+    "item:minecraft:water_bucket",
+    "item:supplementaries:soap_block",
+    "tag:forge:ash"
+  ],
+  "enabled": true,
+  "id": "supplementaries:soap"
+}

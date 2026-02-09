@@ -1,0 +1,13 @@
+{
+  "assigned_buffs": {},
+  "direct_ingredients": [
+    "tag:forge:beef_bun_bacon",
+    "tag:forge:beef_bun_peanut_butter",
+    "tag:forge:bun",
+    "tag:forge:cooked_beef",
+    "tag:forge:cooked_pork",
+    "tag:forge:peanut_butter"
+  ],
+  "enabled": true,
+  "id": "createfood:beef_bun_peanut_butter_bacon"
+}

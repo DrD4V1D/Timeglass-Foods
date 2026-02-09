@@ -1,0 +1,9 @@
+{
+  "assigned_buffs": {},
+  "direct_ingredients": [
+    "item:croptopia:cranberry_seed",
+    "tag:forge:cranberries"
+  ],
+  "enabled": true,
+  "id": "croptopia:cranberry_seed"
+}

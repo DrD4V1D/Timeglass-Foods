@@ -1,0 +1,13 @@
+{
+  "assigned_buffs": {},
+  "direct_ingredients": [
+    "item:croptopia:whipping_cream",
+    "item:minecraft:egg",
+    "item:minecraft:sugar",
+    "tag:forge:dates",
+    "tag:forge:figs",
+    "tag:forge:water_bottles"
+  ],
+  "enabled": true,
+  "id": "croptopia:figgy_pudding"
+}

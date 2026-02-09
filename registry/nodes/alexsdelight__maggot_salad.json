@@ -1,0 +1,14 @@
+{
+  "assigned_buffs": {},
+  "direct_ingredients": [
+    "item:alexsmobs:maggot",
+    "item:farmersdelight:mixed_salad",
+    "item:minecraft:beetroot",
+    "item:minecraft:bowl",
+    "tag:forge:crops/onion",
+    "tag:forge:crops/tomato",
+    "tag:forge:salad_ingredients/cabbage"
+  ],
+  "enabled": true,
+  "id": "alexsdelight:maggot_salad"
+}

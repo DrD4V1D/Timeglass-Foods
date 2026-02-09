@@ -1,0 +1,9 @@
+{
+  "assigned_buffs": {},
+  "direct_ingredients": [
+    "item:croptopia:basil_seed",
+    "tag:forge:basil"
+  ],
+  "enabled": true,
+  "id": "croptopia:basil_seed"
+}

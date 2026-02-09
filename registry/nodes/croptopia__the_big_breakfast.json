@@ -1,0 +1,14 @@
+{
+  "assigned_buffs": {},
+  "direct_ingredients": [
+    "item:croptopia:bacon",
+    "item:croptopia:baked_beans",
+    "item:croptopia:frying_pan",
+    "item:croptopia:hashed_brown",
+    "item:croptopia:toast",
+    "item:minecraft:egg",
+    "tag:forge:sausages"
+  ],
+  "enabled": true,
+  "id": "croptopia:the_big_breakfast"
+}

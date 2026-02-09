@@ -1,0 +1,13 @@
+{
+  "assigned_buffs": {},
+  "direct_ingredients": [
+    "item:farmersdelight:pie_crust",
+    "item:farmersdelight:sweet_berry_cheesecake_slice",
+    "item:minecraft:sweet_berries",
+    "tag:forge:milk",
+    "tag:forge:raw_berry_cheesecake",
+    "tag:forge:raw_berry_pie"
+  ],
+  "enabled": true,
+  "id": "farmersdelight:sweet_berry_cheesecake"
+}

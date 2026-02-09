@@ -1,0 +1,9 @@
+{
+  "assigned_buffs": {},
+  "direct_ingredients": [
+    "item:ad_astra:cheese_block",
+    "item:ad_astra:moon_cheese_ore"
+  ],
+  "enabled": true,
+  "id": "ad_astra:cheese"
+}

@@ -1,0 +1,8 @@
+{
+  "assigned_buffs": {},
+  "direct_ingredients": [
+    "item:create_bic_bit:sweet_dough"
+  ],
+  "enabled": true,
+  "id": "create_bic_bit:speculaas"
+}

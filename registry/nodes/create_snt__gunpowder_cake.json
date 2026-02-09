@@ -1,0 +1,9 @@
+{
+  "assigned_buffs": {},
+  "direct_ingredients": [
+    "item:minecraft:gunpowder",
+    "item:minecraft:wheat"
+  ],
+  "enabled": true,
+  "id": "create_snt:gunpowder_cake"
+}

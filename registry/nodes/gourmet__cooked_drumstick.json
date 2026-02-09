@@ -1,0 +1,8 @@
+{
+  "assigned_buffs": {},
+  "direct_ingredients": [
+    "item:gourmet:raw_drumstick"
+  ],
+  "enabled": true,
+  "id": "gourmet:cooked_drumstick"
+}

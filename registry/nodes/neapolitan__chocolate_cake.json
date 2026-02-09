@@ -1,0 +1,15 @@
+{
+  "assigned_buffs": {},
+  "direct_ingredients": [
+    "item:abnormals_delight:chocolate_cake_slice",
+    "item:minecraft:sugar",
+    "item:minecraft:wheat",
+    "tag:forge:bars/chocolate",
+    "tag:forge:dough/wheat",
+    "tag:forge:eggs",
+    "tag:forge:flour/wheat",
+    "tag:forge:milk"
+  ],
+  "enabled": true,
+  "id": "neapolitan:chocolate_cake"
+}

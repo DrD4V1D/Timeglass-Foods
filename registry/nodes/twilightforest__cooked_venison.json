@@ -1,0 +1,8 @@
+{
+  "assigned_buffs": {},
+  "direct_ingredients": [
+    "item:twilightforest:raw_venison"
+  ],
+  "enabled": true,
+  "id": "twilightforest:cooked_venison"
+}

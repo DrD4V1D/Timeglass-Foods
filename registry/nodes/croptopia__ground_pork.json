@@ -1,0 +1,9 @@
+{
+  "assigned_buffs": {},
+  "direct_ingredients": [
+    "item:croptopia:food_press",
+    "tag:croptopia:pork_replacements"
+  ],
+  "enabled": true,
+  "id": "croptopia:ground_pork"
+}

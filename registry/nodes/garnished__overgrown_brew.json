@@ -1,0 +1,11 @@
+{
+  "assigned_buffs": {},
+  "direct_ingredients": [
+    "item:garnished:bamboo_clod",
+    "item:minecraft:bowl",
+    "item:minecraft:sugar_cane",
+    "item:minecraft:sweet_berries"
+  ],
+  "enabled": true,
+  "id": "garnished:overgrown_brew"
+}

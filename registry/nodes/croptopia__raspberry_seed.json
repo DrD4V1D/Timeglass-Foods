@@ -1,0 +1,9 @@
+{
+  "assigned_buffs": {},
+  "direct_ingredients": [
+    "item:croptopia:raspberry_seed",
+    "tag:forge:raspberries"
+  ],
+  "enabled": true,
+  "id": "croptopia:raspberry_seed"
+}

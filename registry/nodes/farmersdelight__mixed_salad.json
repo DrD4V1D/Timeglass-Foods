@@ -1,0 +1,11 @@
+{
+  "assigned_buffs": {},
+  "direct_ingredients": [
+    "item:minecraft:beetroot",
+    "item:minecraft:bowl",
+    "tag:forge:crops/tomato",
+    "tag:forge:salad_ingredients"
+  ],
+  "enabled": true,
+  "id": "farmersdelight:mixed_salad"
+}

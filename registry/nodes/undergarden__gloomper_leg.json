@@ -1,0 +1,8 @@
+{
+  "assigned_buffs": {},
+  "direct_ingredients": [
+    "item:undergarden:raw_gloomper_leg"
+  ],
+  "enabled": true,
+  "id": "undergarden:gloomper_leg"
+}

@@ -1,0 +1,9 @@
+{
+  "assigned_buffs": {},
+  "direct_ingredients": [
+    "item:createmetallurgy:graphite_nugget_mold",
+    "tag:forge:ingots/brass"
+  ],
+  "enabled": true,
+  "id": "create:brass_nugget"
+}

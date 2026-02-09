@@ -1,0 +1,9 @@
+{
+  "assigned_buffs": {},
+  "direct_ingredients": [
+    "item:croptopia:currant_seed",
+    "tag:forge:currants"
+  ],
+  "enabled": true,
+  "id": "croptopia:currant_seed"
+}

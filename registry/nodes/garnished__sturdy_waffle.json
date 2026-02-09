@@ -1,0 +1,9 @@
+{
+  "assigned_buffs": {},
+  "direct_ingredients": [
+    "item:create:sturdy_sheet",
+    "tag:forge:dough"
+  ],
+  "enabled": true,
+  "id": "garnished:sturdy_waffle"
+}

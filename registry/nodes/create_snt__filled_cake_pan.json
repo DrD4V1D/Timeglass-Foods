@@ -1,0 +1,9 @@
+{
+  "assigned_buffs": {},
+  "direct_ingredients": [
+    "item:create:dough",
+    "item:create_snt:cake_pan"
+  ],
+  "enabled": true,
+  "id": "create_snt:filled_cake_pan"
+}

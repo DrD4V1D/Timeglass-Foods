@@ -1,0 +1,10 @@
+{
+  "assigned_buffs": {},
+  "direct_ingredients": [
+    "item:croptopia:cooking_pot",
+    "item:minecraft:sugar",
+    "tag:forge:cherries"
+  ],
+  "enabled": true,
+  "id": "croptopia:cherry_jam"
+}

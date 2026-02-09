@@ -1,0 +1,8 @@
+{
+  "assigned_buffs": {},
+  "direct_ingredients": [
+    "item:undergarden:goo_ball"
+  ],
+  "enabled": true,
+  "id": "undergarden:goo_block"
+}

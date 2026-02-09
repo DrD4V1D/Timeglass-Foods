@@ -1,0 +1,8 @@
+{
+  "assigned_buffs": {},
+  "direct_ingredients": [
+    "tag:forge:bacon_pizza"
+  ],
+  "enabled": true,
+  "id": "createfood:bacon_pizza_slice"
+}

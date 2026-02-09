@@ -1,0 +1,12 @@
+{
+  "assigned_buffs": {},
+  "direct_ingredients": [
+    "item:croptopia:cooking_pot",
+    "item:croptopia:food_press",
+    "item:croptopia:garlic",
+    "item:croptopia:nutmeg",
+    "item:minecraft:porkchop"
+  ],
+  "enabled": true,
+  "id": "croptopia_additions:bratwurst"
+}

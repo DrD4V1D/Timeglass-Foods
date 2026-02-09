@@ -1,0 +1,10 @@
+{
+  "assigned_buffs": {},
+  "direct_ingredients": [
+    "item:minecraft:honey_bottle",
+    "item:minecraft:paper",
+    "item:minecraft:sugar"
+  ],
+  "enabled": true,
+  "id": "supplementaries:candy"
+}

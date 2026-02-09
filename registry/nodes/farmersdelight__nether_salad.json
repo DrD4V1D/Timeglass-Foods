@@ -1,0 +1,10 @@
+{
+  "assigned_buffs": {},
+  "direct_ingredients": [
+    "item:minecraft:bowl",
+    "item:minecraft:crimson_fungus",
+    "item:minecraft:warped_fungus"
+  ],
+  "enabled": true,
+  "id": "farmersdelight:nether_salad"
+}

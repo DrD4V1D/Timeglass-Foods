@@ -1,0 +1,10 @@
+{
+  "assigned_buffs": {},
+  "direct_ingredients": [
+    "item:minecraft:bowl",
+    "tag:forge:eggs",
+    "tag:forge:milk"
+  ],
+  "enabled": true,
+  "id": "incubation:scrambled_eggs"
+}

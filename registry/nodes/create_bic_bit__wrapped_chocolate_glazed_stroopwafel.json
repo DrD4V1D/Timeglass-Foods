@@ -1,0 +1,10 @@
+{
+  "assigned_buffs": {},
+  "direct_ingredients": [
+    "item:create_bic_bit:chocolate_glazed_stroopwafel",
+    "item:create_bic_bit:wrapped_stroopwafel",
+    "item:minecraft:paper"
+  ],
+  "enabled": true,
+  "id": "create_bic_bit:wrapped_chocolate_glazed_stroopwafel"
+}

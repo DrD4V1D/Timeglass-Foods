@@ -1,0 +1,8 @@
+{
+  "assigned_buffs": {},
+  "direct_ingredients": [
+    "item:blue_skies:grittle_flatfish"
+  ],
+  "enabled": true,
+  "id": "blue_skies:cooked_grittle_flatfish"
+}

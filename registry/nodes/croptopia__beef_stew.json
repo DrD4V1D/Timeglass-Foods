@@ -1,0 +1,11 @@
+{
+  "assigned_buffs": {},
+  "direct_ingredients": [
+    "item:minecraft:beef",
+    "item:minecraft:carrot",
+    "item:minecraft:potato",
+    "tag:forge:flour"
+  ],
+  "enabled": true,
+  "id": "croptopia:beef_stew"
+}

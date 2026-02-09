@@ -1,0 +1,9 @@
+{
+  "assigned_buffs": {},
+  "direct_ingredients": [
+    "item:minecraft:snowball",
+    "tag:garnished:nuts"
+  ],
+  "enabled": true,
+  "id": "garnished:cashew_sorbet_scoop"
+}

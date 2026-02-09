@@ -1,0 +1,9 @@
+{
+  "assigned_buffs": {},
+  "direct_ingredients": [
+    "item:minecraft:cooked_rabbit",
+    "tag:forge:rabbit_cuts"
+  ],
+  "enabled": true,
+  "id": "createfood:cooked_rabbit_cuts"
+}

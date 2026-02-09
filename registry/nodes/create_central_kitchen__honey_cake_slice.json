@@ -1,0 +1,8 @@
+{
+  "assigned_buffs": {},
+  "direct_ingredients": [
+    "item:createaddition:honey_cake"
+  ],
+  "enabled": true,
+  "id": "create_central_kitchen:honey_cake_slice"
+}

@@ -1,0 +1,8 @@
+{
+  "assigned_buffs": {},
+  "direct_ingredients": [
+    "tag:garnished:stone_types/ritualistic_stone"
+  ],
+  "enabled": true,
+  "id": "garnished:solemn_dust"
+}

@@ -1,0 +1,10 @@
+{
+  "assigned_buffs": {},
+  "direct_ingredients": [
+    "item:garnished:ender_jelly",
+    "item:minecraft:chorus_fruit",
+    "item:minecraft:glass_bottle"
+  ],
+  "enabled": true,
+  "id": "garnished:chorus_cocktail"
+}

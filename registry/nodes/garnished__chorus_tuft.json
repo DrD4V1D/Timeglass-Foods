@@ -1,0 +1,8 @@
+{
+  "assigned_buffs": {},
+  "direct_ingredients": [
+    "item:minecraft:chorus_fruit"
+  ],
+  "enabled": true,
+  "id": "garnished:chorus_tuft"
+}

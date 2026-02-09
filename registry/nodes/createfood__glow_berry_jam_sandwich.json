@@ -1,0 +1,10 @@
+{
+  "assigned_buffs": {},
+  "direct_ingredients": [
+    "tag:forge:bread_slice",
+    "tag:forge:bread_slice_glow_berry_jam",
+    "tag:forge:glow_berry_jam_bottle"
+  ],
+  "enabled": true,
+  "id": "createfood:glow_berry_jam_sandwich"
+}

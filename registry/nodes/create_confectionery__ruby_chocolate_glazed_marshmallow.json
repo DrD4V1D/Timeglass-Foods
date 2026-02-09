@@ -1,0 +1,8 @@
+{
+  "assigned_buffs": {},
+  "direct_ingredients": [
+    "item:create_confectionery:marshmallow"
+  ],
+  "enabled": true,
+  "id": "create_confectionery:ruby_chocolate_glazed_marshmallow"
+}

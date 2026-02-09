@@ -1,0 +1,8 @@
+{
+  "assigned_buffs": {},
+  "direct_ingredients": [
+    "item:gourmet:flatcake"
+  ],
+  "enabled": true,
+  "id": "gourmet:flatcake_stack"
+}

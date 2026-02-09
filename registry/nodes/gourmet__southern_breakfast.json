@@ -1,0 +1,11 @@
+{
+  "assigned_buffs": {},
+  "direct_ingredients": [
+    "item:gourmet:caramelized_bacon",
+    "item:gourmet:fried_chicken",
+    "item:gourmet:waffle_stack",
+    "tag:forge:cooked_eggs"
+  ],
+  "enabled": true,
+  "id": "gourmet:southern_breakfast"
+}

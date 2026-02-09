@@ -1,0 +1,13 @@
+{
+  "assigned_buffs": {},
+  "direct_ingredients": [
+    "item:farmersdelight:pumpkin_slice",
+    "item:minecraft:apple",
+    "item:minecraft:bowl",
+    "item:minecraft:melon_slice",
+    "tag:forge:berries",
+    "tag:forge:fruits"
+  ],
+  "enabled": true,
+  "id": "farmersdelight:fruit_salad"
+}

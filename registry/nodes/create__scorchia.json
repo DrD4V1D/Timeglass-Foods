@@ -1,0 +1,10 @@
+{
+  "assigned_buffs": {},
+  "direct_ingredients": [
+    "item:create:scoria",
+    "tag:create:stone_types/scorchia",
+    "tag:forge:dyes/black"
+  ],
+  "enabled": true,
+  "id": "create:scorchia"
+}

@@ -1,0 +1,9 @@
+{
+  "assigned_buffs": {},
+  "direct_ingredients": [
+    "item:croptopia:greenonion_seed",
+    "tag:forge:greenonions"
+  ],
+  "enabled": true,
+  "id": "croptopia:greenonion_seed"
+}

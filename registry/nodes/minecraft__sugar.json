@@ -1,0 +1,12 @@
+{
+  "assigned_buffs": {},
+  "direct_ingredients": [
+    "item:autumnity:sap_bottle",
+    "item:garnished:garnish_powder",
+    "item:garnished:sugar_cube",
+    "item:minecraft:sugar_cane",
+    "item:supplementaries:sugar_cube"
+  ],
+  "enabled": true,
+  "id": "minecraft:sugar"
+}

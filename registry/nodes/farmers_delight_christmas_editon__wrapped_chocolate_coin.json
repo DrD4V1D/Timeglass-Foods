@@ -1,0 +1,10 @@
+{
+  "assigned_buffs": {},
+  "direct_ingredients": [
+    "item:farmers_delight_christmas_editon:chocolate_coin",
+    "item:farmers_delight_christmas_editon:coin_wrapper",
+    "item:minecraft:gold_nugget"
+  ],
+  "enabled": true,
+  "id": "farmers_delight_christmas_editon:wrapped_chocolate_coin"
+}

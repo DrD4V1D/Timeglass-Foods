@@ -1,0 +1,9 @@
+{
+  "assigned_buffs": {},
+  "direct_ingredients": [
+    "tag:forge:chocolate_cupcake_base",
+    "tag:forge:glow_berry_cream_frosting"
+  ],
+  "enabled": true,
+  "id": "createfood:glow_berry_cream_frosted_chocolate_cupcake"
+}

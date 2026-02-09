@@ -1,0 +1,9 @@
+{
+  "assigned_buffs": {},
+  "direct_ingredients": [
+    "tag:forge:ground_beef",
+    "tag:forge:raw_meatball"
+  ],
+  "enabled": true,
+  "id": "createfood:meatball"
+}

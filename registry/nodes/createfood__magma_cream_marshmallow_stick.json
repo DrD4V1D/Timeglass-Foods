@@ -1,0 +1,9 @@
+{
+  "assigned_buffs": {},
+  "direct_ingredients": [
+    "item:minecraft:stick",
+    "tag:forge:magma_cream_marshmallow"
+  ],
+  "enabled": true,
+  "id": "createfood:magma_cream_marshmallow_stick"
+}

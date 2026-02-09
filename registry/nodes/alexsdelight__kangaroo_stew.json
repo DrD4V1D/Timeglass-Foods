@@ -1,0 +1,10 @@
+{
+  "assigned_buffs": {},
+  "direct_ingredients": [
+    "item:minecraft:beetroot",
+    "item:minecraft:carrot",
+    "tag:alexsdelight:cooked_kangaroo"
+  ],
+  "enabled": true,
+  "id": "alexsdelight:kangaroo_stew"
+}

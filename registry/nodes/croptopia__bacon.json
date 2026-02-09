@@ -1,0 +1,9 @@
+{
+  "assigned_buffs": {},
+  "direct_ingredients": [
+    "item:croptopia:knife",
+    "item:minecraft:porkchop"
+  ],
+  "enabled": true,
+  "id": "croptopia:bacon"
+}

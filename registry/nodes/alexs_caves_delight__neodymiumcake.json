@@ -1,0 +1,12 @@
+{
+  "assigned_buffs": {},
+  "direct_ingredients": [
+    "item:alexs_caves_delight:bluemagneticglaze",
+    "item:alexs_caves_delight:redmagneticglaze",
+    "item:alexscaves:ferrouslime_ball",
+    "item:farmersdelight:pie_crust",
+    "tag:forge:milk"
+  ],
+  "enabled": true,
+  "id": "alexs_caves_delight:neodymiumcake"
+}

@@ -1,0 +1,9 @@
+{
+  "assigned_buffs": {},
+  "direct_ingredients": [
+    "item:croptopia:grape",
+    "tag:forge:grapes"
+  ],
+  "enabled": true,
+  "id": "croptopia:raisins"
+}

@@ -1,0 +1,9 @@
+{
+  "assigned_buffs": {},
+  "direct_ingredients": [
+    "item:minecraft:stick",
+    "tag:forge:marshmallow"
+  ],
+  "enabled": true,
+  "id": "createfood:marshmallow_stick"
+}

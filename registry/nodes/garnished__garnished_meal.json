@@ -1,0 +1,12 @@
+{
+  "assigned_buffs": {},
+  "direct_ingredients": [
+    "item:garnished:garnish_compound",
+    "tag:garnished:berries",
+    "tag:garnished:chocolate_glazed_nuts",
+    "tag:garnished:garnished_nuts",
+    "tag:garnished:honeyed_nuts"
+  ],
+  "enabled": true,
+  "id": "garnished:garnished_meal"
+}

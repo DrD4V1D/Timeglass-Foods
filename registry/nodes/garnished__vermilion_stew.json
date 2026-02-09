@@ -1,0 +1,11 @@
+{
+  "assigned_buffs": {},
+  "direct_ingredients": [
+    "item:garnished:brittle_dust",
+    "item:garnished:dried_vermilion_kelp",
+    "item:minecraft:bowl",
+    "item:minecraft:fire_coral_fan"
+  ],
+  "enabled": true,
+  "id": "garnished:vermilion_stew"
+}

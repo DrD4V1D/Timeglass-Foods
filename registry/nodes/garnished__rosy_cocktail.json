@@ -1,0 +1,10 @@
+{
+  "assigned_buffs": {},
+  "direct_ingredients": [
+    "item:create:polished_rose_quartz",
+    "item:garnished:shattered_amber_remnant",
+    "item:minecraft:honey_bottle"
+  ],
+  "enabled": true,
+  "id": "garnished:rosy_cocktail"
+}

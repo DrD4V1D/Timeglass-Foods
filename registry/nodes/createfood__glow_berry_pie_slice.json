@@ -1,0 +1,8 @@
+{
+  "assigned_buffs": {},
+  "direct_ingredients": [
+    "tag:forge:glow_berry_pie"
+  ],
+  "enabled": true,
+  "id": "createfood:glow_berry_pie_slice"
+}

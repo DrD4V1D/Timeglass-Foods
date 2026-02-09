@@ -1,0 +1,9 @@
+{
+  "assigned_buffs": {},
+  "direct_ingredients": [
+    "item:croptopia:lettuce_seed",
+    "tag:forge:lettuce"
+  ],
+  "enabled": true,
+  "id": "croptopia:lettuce_seed"
+}

@@ -1,0 +1,12 @@
+{
+  "assigned_buffs": {},
+  "direct_ingredients": [
+    "item:minecraft:brown_mushroom",
+    "item:minecraft:carrot",
+    "tag:forge:pasta",
+    "tag:forge:salad_ingredients",
+    "tag:forge:vegetables"
+  ],
+  "enabled": true,
+  "id": "farmersdelight:vegetable_noodles"
+}

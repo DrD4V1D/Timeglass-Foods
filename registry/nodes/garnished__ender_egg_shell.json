@@ -1,0 +1,8 @@
+{
+  "assigned_buffs": {},
+  "direct_ingredients": [
+    "item:minecraft:dragon_egg"
+  ],
+  "enabled": true,
+  "id": "garnished:ender_egg_shell"
+}

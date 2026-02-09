@@ -1,0 +1,15 @@
+{
+  "assigned_buffs": {},
+  "direct_ingredients": [
+    "item:croptopia:frying_pan",
+    "item:croptopia:pepper",
+    "item:minecraft:bread",
+    "tag:forge:artichokes",
+    "tag:forge:cheeses",
+    "tag:forge:lemons",
+    "tag:forge:olive_oils",
+    "tag:forge:salts"
+  ],
+  "enabled": true,
+  "id": "croptopia:stuffed_artichoke"
+}

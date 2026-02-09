@@ -1,0 +1,13 @@
+{
+  "assigned_buffs": {},
+  "direct_ingredients": [
+    "item:ad_astra:venus_gold_ore",
+    "item:create:crushed_raw_gold",
+    "item:createmetallurgy:graphite_ingot_mold",
+    "item:minecraft:golden_horse_armor",
+    "item:undergarden:depthrock_gold_ore",
+    "tag:forge:dusts/gold"
+  ],
+  "enabled": true,
+  "id": "minecraft:gold_ingot"
+}

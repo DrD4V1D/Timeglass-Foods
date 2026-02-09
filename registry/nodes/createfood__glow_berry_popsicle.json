@@ -1,0 +1,10 @@
+{
+  "assigned_buffs": {},
+  "direct_ingredients": [
+    "item:minecraft:glow_berries",
+    "item:minecraft:ice",
+    "item:minecraft:stick"
+  ],
+  "enabled": true,
+  "id": "createfood:glow_berry_popsicle"
+}

@@ -1,0 +1,9 @@
+{
+  "assigned_buffs": {},
+  "direct_ingredients": [
+    "tag:forge:greenbeans",
+    "tag:forge:water_bottles"
+  ],
+  "enabled": true,
+  "id": "croptopia:steamed_green_beans"
+}

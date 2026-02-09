@@ -1,0 +1,11 @@
+{
+  "assigned_buffs": {},
+  "direct_ingredients": [
+    "item:create:scorchia",
+    "item:minecraft:magma_block",
+    "item:minecraft:soul_sand",
+    "tag:create:stone_types/scoria"
+  ],
+  "enabled": true,
+  "id": "create:scoria"
+}

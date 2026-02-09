@@ -1,0 +1,8 @@
+{
+  "assigned_buffs": {},
+  "direct_ingredients": [
+    "item:quark:apple_crate"
+  ],
+  "enabled": true,
+  "id": "minecraft:apple"
+}

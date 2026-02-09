@@ -1,0 +1,8 @@
+{
+  "assigned_buffs": {},
+  "direct_ingredients": [
+    "item:create:dough"
+  ],
+  "enabled": true,
+  "id": "gourmet:croissant_dough"
+}

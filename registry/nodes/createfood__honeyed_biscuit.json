@@ -1,0 +1,9 @@
+{
+  "assigned_buffs": {},
+  "direct_ingredients": [
+    "item:minecraft:honey_bottle",
+    "tag:forge:biscuit"
+  ],
+  "enabled": true,
+  "id": "createfood:honeyed_biscuit"
+}

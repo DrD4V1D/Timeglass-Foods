@@ -1,0 +1,10 @@
+{
+  "assigned_buffs": {},
+  "direct_ingredients": [
+    "item:autumnity:foul_berries",
+    "item:minecraft:spider_eye",
+    "tag:forge:crops/onion"
+  ],
+  "enabled": true,
+  "id": "autumnity:foul_soup"
+}

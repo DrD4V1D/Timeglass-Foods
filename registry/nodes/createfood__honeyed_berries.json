@@ -1,0 +1,9 @@
+{
+  "assigned_buffs": {},
+  "direct_ingredients": [
+    "item:minecraft:honey_bottle",
+    "item:minecraft:sweet_berries"
+  ],
+  "enabled": true,
+  "id": "createfood:honeyed_berries"
+}

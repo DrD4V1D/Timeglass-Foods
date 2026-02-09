@@ -1,0 +1,10 @@
+{
+  "assigned_buffs": {},
+  "direct_ingredients": [
+    "item:minecraft:sugar",
+    "tag:forge:eggs",
+    "tag:forge:fruits/currant"
+  ],
+  "enabled": true,
+  "id": "atmospheric:currant_muffin"
+}

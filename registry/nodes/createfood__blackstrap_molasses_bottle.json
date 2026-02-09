@@ -1,0 +1,9 @@
+{
+  "assigned_buffs": {},
+  "direct_ingredients": [
+    "item:minecraft:glass_bottle",
+    "tag:forge:blackstrap_molasses_bucket"
+  ],
+  "enabled": true,
+  "id": "createfood:blackstrap_molasses_bottle"
+}

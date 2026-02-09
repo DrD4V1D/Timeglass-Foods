@@ -1,0 +1,12 @@
+{
+  "assigned_buffs": {},
+  "direct_ingredients": [
+    "item:alexsdelight:bison_patty",
+    "item:minecraft:beetroot",
+    "tag:forge:bread",
+    "tag:forge:crops/tomato",
+    "tag:forge:salad_ingredients"
+  ],
+  "enabled": true,
+  "id": "alexsdelight:bison_burger"
+}

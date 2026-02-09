@@ -1,0 +1,12 @@
+{
+  "assigned_buffs": {},
+  "direct_ingredients": [
+    "item:create_tank_defenses:crushed_diorite",
+    "item:minecraft:gravel",
+    "item:minecraft:tuff",
+    "item:supplementaries:flint_block",
+    "tag:create:stone_types/tuff"
+  ],
+  "enabled": true,
+  "id": "minecraft:flint"
+}

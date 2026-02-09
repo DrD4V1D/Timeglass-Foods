@@ -1,0 +1,9 @@
+{
+  "assigned_buffs": {},
+  "direct_ingredients": [
+    "item:croptopia:barley_seed",
+    "tag:forge:barley"
+  ],
+  "enabled": true,
+  "id": "croptopia:barley_seed"
+}

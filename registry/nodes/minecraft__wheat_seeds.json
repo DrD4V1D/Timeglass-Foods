@@ -1,0 +1,12 @@
+{
+  "assigned_buffs": {},
+  "direct_ingredients": [
+    "item:minecraft:fern",
+    "item:minecraft:grass",
+    "item:minecraft:large_fern",
+    "item:minecraft:tall_grass",
+    "item:minecraft:wheat"
+  ],
+  "enabled": true,
+  "id": "minecraft:wheat_seeds"
+}

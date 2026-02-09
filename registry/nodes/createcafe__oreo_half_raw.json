@@ -1,0 +1,8 @@
+{
+  "assigned_buffs": {},
+  "direct_ingredients": [
+    "item:createcafe:oreo_dough"
+  ],
+  "enabled": true,
+  "id": "createcafe:oreo_half_raw"
+}

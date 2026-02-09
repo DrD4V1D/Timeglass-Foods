@@ -1,0 +1,9 @@
+{
+  "assigned_buffs": {},
+  "direct_ingredients": [
+    "item:croptopia:yam",
+    "tag:forge:yams"
+  ],
+  "enabled": true,
+  "id": "croptopia:baked_yam"
+}

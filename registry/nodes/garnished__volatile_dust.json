@@ -1,0 +1,9 @@
+{
+  "assigned_buffs": {},
+  "direct_ingredients": [
+    "tag:garnished:stone_types/abyssal_stone",
+    "tag:garnished:stone_types/unstable_stone"
+  ],
+  "enabled": true,
+  "id": "garnished:volatile_dust"
+}

@@ -1,0 +1,9 @@
+{
+  "assigned_buffs": {},
+  "direct_ingredients": [
+    "item:farmers_delight_christmas_editon:baked_gingerbread_star",
+    "item:farmers_delight_christmas_editon:light_gray_frosting"
+  ],
+  "enabled": true,
+  "id": "farmers_delight_christmas_editon:light_gray_gingerbread_star"
+}

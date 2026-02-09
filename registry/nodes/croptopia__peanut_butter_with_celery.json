@@ -1,0 +1,9 @@
+{
+  "assigned_buffs": {},
+  "direct_ingredients": [
+    "item:croptopia:peanut_butter",
+    "tag:forge:celery"
+  ],
+  "enabled": true,
+  "id": "croptopia:peanut_butter_with_celery"
+}

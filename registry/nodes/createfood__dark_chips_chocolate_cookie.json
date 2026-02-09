@@ -1,0 +1,10 @@
+{
+  "assigned_buffs": {},
+  "direct_ingredients": [
+    "tag:forge:chocolate_sweet_dough",
+    "tag:forge:dark_chocolate_chips",
+    "tag:forge:raw_dark_chips_chocolate_cookie"
+  ],
+  "enabled": true,
+  "id": "createfood:dark_chips_chocolate_cookie"
+}

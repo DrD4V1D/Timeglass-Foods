@@ -1,0 +1,11 @@
+{
+  "assigned_buffs": {},
+  "direct_ingredients": [
+    "item:create_bic_bit:dirty_paper",
+    "item:farmersdelight:tree_bark",
+    "item:minecraft:sugar_cane",
+    "tag:forge:sawdust"
+  ],
+  "enabled": true,
+  "id": "minecraft:paper"
+}

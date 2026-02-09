@@ -1,0 +1,11 @@
+{
+  "assigned_buffs": {},
+  "direct_ingredients": [
+    "item:croptopia:whipping_cream",
+    "item:minecraft:bread",
+    "item:minecraft:honey_bottle",
+    "tag:forge:lemons"
+  ],
+  "enabled": true,
+  "id": "croptopia:treacle_tart"
+}

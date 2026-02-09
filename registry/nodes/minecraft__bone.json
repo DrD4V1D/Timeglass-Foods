@@ -1,0 +1,10 @@
+{
+  "assigned_buffs": {},
+  "direct_ingredients": [
+    "item:create_aquatic_ambitions:suspicious_rock",
+    "item:farmersdelight:ham",
+    "item:farmersdelight:smoked_ham"
+  ],
+  "enabled": true,
+  "id": "minecraft:bone"
+}

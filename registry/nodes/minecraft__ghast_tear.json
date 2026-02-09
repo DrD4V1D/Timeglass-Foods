@@ -1,0 +1,9 @@
+{
+  "assigned_buffs": {},
+  "direct_ingredients": [
+    "item:elementaryores:ore_ghast_nether",
+    "item:minecraft:snowball"
+  ],
+  "enabled": true,
+  "id": "minecraft:ghast_tear"
+}

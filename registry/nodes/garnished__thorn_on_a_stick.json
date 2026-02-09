@@ -1,0 +1,11 @@
+{
+  "assigned_buffs": {},
+  "direct_ingredients": [
+    "item:garnished:antique_swathe",
+    "item:garnished:prickly_pear",
+    "item:minecraft:beetroot",
+    "item:minecraft:stick"
+  ],
+  "enabled": true,
+  "id": "garnished:thorn_on_a_stick"
+}

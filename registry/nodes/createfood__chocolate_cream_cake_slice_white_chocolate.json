@@ -1,0 +1,8 @@
+{
+  "assigned_buffs": {},
+  "direct_ingredients": [
+    "tag:forge:chocolate_cream_cake_white_chocolate"
+  ],
+  "enabled": true,
+  "id": "createfood:chocolate_cream_cake_slice_white_chocolate"
+}

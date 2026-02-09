@@ -1,0 +1,9 @@
+{
+  "assigned_buffs": {},
+  "direct_ingredients": [
+    "item:upgrade_aquatic:kelp_block",
+    "tag:garnished:kelp"
+  ],
+  "enabled": true,
+  "id": "minecraft:kelp"
+}

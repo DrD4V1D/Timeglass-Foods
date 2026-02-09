@@ -1,0 +1,8 @@
+{
+  "assigned_buffs": {},
+  "direct_ingredients": [
+    "item:minecraft:blaze_rod"
+  ],
+  "enabled": true,
+  "id": "minecraft:blaze_powder"
+}

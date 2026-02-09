@@ -1,0 +1,13 @@
+{
+  "assigned_buffs": {},
+  "direct_ingredients": [
+    "item:garnished:bok_choy",
+    "item:garnished:torrid_blend",
+    "item:garnished:venerable_dough",
+    "item:garnished:vex_wing",
+    "item:minecraft:sugar",
+    "tag:garnished:mastic_paste"
+  ],
+  "enabled": true,
+  "id": "garnished:anniversary_cake"
+}

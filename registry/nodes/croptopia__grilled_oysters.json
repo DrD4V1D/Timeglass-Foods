@@ -1,0 +1,13 @@
+{
+  "assigned_buffs": {},
+  "direct_ingredients": [
+    "item:croptopia:frying_pan",
+    "tag:forge:cheeses",
+    "tag:forge:garlic",
+    "tag:forge:lemons",
+    "tag:forge:oysters",
+    "tag:forge:salts"
+  ],
+  "enabled": true,
+  "id": "croptopia:grilled_oysters"
+}

@@ -1,0 +1,8 @@
+{
+  "assigned_buffs": {},
+  "direct_ingredients": [
+    "item:upgrade_aquatic:pike"
+  ],
+  "enabled": true,
+  "id": "abnormals_delight:pike_slice"
+}

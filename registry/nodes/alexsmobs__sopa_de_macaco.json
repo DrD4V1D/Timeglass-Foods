@@ -1,0 +1,11 @@
+{
+  "assigned_buffs": {},
+  "direct_ingredients": [
+    "item:alexsmobs:banana_peel",
+    "item:minecraft:bone",
+    "item:minecraft:bowl",
+    "item:minecraft:brown_mushroom"
+  ],
+  "enabled": true,
+  "id": "alexsmobs:sopa_de_macaco"
+}

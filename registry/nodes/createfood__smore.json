@@ -1,0 +1,14 @@
+{
+  "assigned_buffs": {},
+  "direct_ingredients": [
+    "tag:forge:graham_cracker",
+    "tag:forge:graham_cracker_chocolate",
+    "tag:forge:graham_cracker_chocolate_marshmallow",
+    "tag:forge:graham_cracker_marshmallow",
+    "tag:forge:hollow_chocolate",
+    "tag:forge:marshmallow",
+    "tag:forge:marshmallow_chocolate"
+  ],
+  "enabled": true,
+  "id": "createfood:smore"
+}

@@ -1,0 +1,9 @@
+{
+  "assigned_buffs": {},
+  "direct_ingredients": [
+    "tag:forge:melon_cream_frosting",
+    "tag:forge:sweet_roll_base"
+  ],
+  "enabled": true,
+  "id": "createfood:melon_cream_frosted_sweet_roll"
+}

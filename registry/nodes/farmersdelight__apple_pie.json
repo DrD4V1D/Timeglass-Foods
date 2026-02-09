@@ -1,0 +1,13 @@
+{
+  "assigned_buffs": {},
+  "direct_ingredients": [
+    "item:farmersdelight:apple_pie_slice",
+    "item:farmersdelight:pie_crust",
+    "item:minecraft:apple",
+    "item:minecraft:sugar",
+    "item:minecraft:wheat",
+    "tag:forge:raw_apple_pie"
+  ],
+  "enabled": true,
+  "id": "farmersdelight:apple_pie"
+}

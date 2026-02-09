@@ -1,0 +1,10 @@
+{
+  "assigned_buffs": {},
+  "direct_ingredients": [
+    "item:croptopia:cinnamon",
+    "item:minecraft:sugar",
+    "tag:forge:flour"
+  ],
+  "enabled": true,
+  "id": "croptopia:snicker_doodle"
+}

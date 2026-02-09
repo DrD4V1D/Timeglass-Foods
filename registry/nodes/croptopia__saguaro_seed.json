@@ -1,0 +1,9 @@
+{
+  "assigned_buffs": {},
+  "direct_ingredients": [
+    "item:croptopia:saguaro_seed",
+    "tag:forge:saguaros"
+  ],
+  "enabled": true,
+  "id": "croptopia:saguaro_seed"
+}

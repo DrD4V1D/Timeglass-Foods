@@ -1,0 +1,11 @@
+{
+  "assigned_buffs": {},
+  "direct_ingredients": [
+    "item:create:dough",
+    "item:farmersdelight:wheat_dough",
+    "item:minecraft:wheat",
+    "item:regions_unexplored:barley"
+  ],
+  "enabled": true,
+  "id": "minecraft:bread"
+}

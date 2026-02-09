@@ -1,0 +1,13 @@
+{
+  "assigned_buffs": {},
+  "direct_ingredients": [
+    "tag:forge:bellpeppers",
+    "tag:forge:chile_peppers",
+    "tag:forge:eggplants",
+    "tag:forge:garlic",
+    "tag:forge:olive_oils",
+    "tag:forge:salts"
+  ],
+  "enabled": true,
+  "id": "croptopia:ajvar"
+}

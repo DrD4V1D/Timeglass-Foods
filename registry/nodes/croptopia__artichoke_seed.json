@@ -1,0 +1,9 @@
+{
+  "assigned_buffs": {},
+  "direct_ingredients": [
+    "item:croptopia:artichoke_seed",
+    "tag:forge:artichokes"
+  ],
+  "enabled": true,
+  "id": "croptopia:artichoke_seed"
+}

@@ -1,0 +1,10 @@
+{
+  "assigned_buffs": {},
+  "direct_ingredients": [
+    "item:farmersdelight:rotten_tomato",
+    "item:farmersdelight:tomato",
+    "item:farmersdelight:wild_tomatoes"
+  ],
+  "enabled": true,
+  "id": "farmersdelight:tomato_seeds"
+}

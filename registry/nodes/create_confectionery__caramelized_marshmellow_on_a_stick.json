@@ -1,0 +1,8 @@
+{
+  "assigned_buffs": {},
+  "direct_ingredients": [
+    "item:create_confectionery:marshmallow_on_a_stick"
+  ],
+  "enabled": true,
+  "id": "create_confectionery:caramelized_marshmellow_on_a_stick"
+}

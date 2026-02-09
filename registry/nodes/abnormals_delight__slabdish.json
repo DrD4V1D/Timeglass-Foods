@@ -1,0 +1,11 @@
+{
+  "assigned_buffs": {},
+  "direct_ingredients": [
+    "item:environmental:dianthus",
+    "item:minecraft:bone_meal",
+    "tag:abnormals_delight:slabdish_ingredients",
+    "tag:forge:raw_fishes"
+  ],
+  "enabled": true,
+  "id": "abnormals_delight:slabdish"
+}

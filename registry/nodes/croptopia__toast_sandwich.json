@@ -1,0 +1,9 @@
+{
+  "assigned_buffs": {},
+  "direct_ingredients": [
+    "item:croptopia:buttered_toast",
+    "item:minecraft:bread"
+  ],
+  "enabled": true,
+  "id": "croptopia:toast_sandwich"
+}

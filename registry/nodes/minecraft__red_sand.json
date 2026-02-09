@@ -1,0 +1,10 @@
+{
+  "assigned_buffs": {},
+  "direct_ingredients": [
+    "item:byg:red_rock",
+    "item:minecraft:granite",
+    "item:minecraft:terracotta"
+  ],
+  "enabled": true,
+  "id": "minecraft:red_sand"
+}

@@ -1,0 +1,8 @@
+{
+  "assigned_buffs": {},
+  "direct_ingredients": [
+    "item:garnished:mastic_paste"
+  ],
+  "enabled": true,
+  "id": "garnished:mastic_block"
+}

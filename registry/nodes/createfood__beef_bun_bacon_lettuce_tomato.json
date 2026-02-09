@@ -1,0 +1,14 @@
+{
+  "assigned_buffs": {},
+  "direct_ingredients": [
+    "tag:forge:beef_bun_bacon_lettuce",
+    "tag:forge:beef_bun_lettuce_tomato",
+    "tag:forge:bun",
+    "tag:forge:cooked_beef",
+    "tag:forge:cooked_pork",
+    "tag:forge:salad_ingredients",
+    "tag:forge:tomato"
+  ],
+  "enabled": true,
+  "id": "createfood:beef_bun_bacon_lettuce_tomato"
+}

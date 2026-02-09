@@ -1,0 +1,11 @@
+{
+  "assigned_buffs": {},
+  "direct_ingredients": [
+    "item:croptopia:cooking_pot",
+    "item:croptopia:food_press",
+    "item:minecraft:beef",
+    "item:minecraft:porkchop"
+  ],
+  "enabled": true,
+  "id": "croptopia_additions:weiner"
+}

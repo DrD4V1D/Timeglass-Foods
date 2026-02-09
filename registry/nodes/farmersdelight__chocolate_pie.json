@@ -1,0 +1,13 @@
+{
+  "assigned_buffs": {},
+  "direct_ingredients": [
+    "item:farmersdelight:chocolate_pie_slice",
+    "item:farmersdelight:pie_crust",
+    "item:minecraft:cocoa_beans",
+    "item:minecraft:sugar",
+    "tag:forge:milk",
+    "tag:forge:raw_chocolate_pie"
+  ],
+  "enabled": true,
+  "id": "farmersdelight:chocolate_pie"
+}

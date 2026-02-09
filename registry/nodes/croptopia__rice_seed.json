@@ -1,0 +1,9 @@
+{
+  "assigned_buffs": {},
+  "direct_ingredients": [
+    "item:croptopia:rice_seed",
+    "tag:forge:rice"
+  ],
+  "enabled": true,
+  "id": "croptopia:rice_seed"
+}

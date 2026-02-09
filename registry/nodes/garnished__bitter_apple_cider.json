@@ -1,0 +1,9 @@
+{
+  "assigned_buffs": {},
+  "direct_ingredients": [
+    "item:garnished:apple_cider",
+    "item:garnished:cashew_fruit"
+  ],
+  "enabled": true,
+  "id": "garnished:bitter_apple_cider"
+}

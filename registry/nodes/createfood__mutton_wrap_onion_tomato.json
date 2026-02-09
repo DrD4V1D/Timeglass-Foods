@@ -1,0 +1,11 @@
+{
+  "assigned_buffs": {},
+  "direct_ingredients": [
+    "tag:forge:gyro_meat_slice",
+    "tag:forge:onion",
+    "tag:forge:pita_bread",
+    "tag:forge:tomato"
+  ],
+  "enabled": true,
+  "id": "createfood:mutton_wrap_onion_tomato"
+}

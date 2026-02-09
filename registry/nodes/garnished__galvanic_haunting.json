@@ -1,0 +1,11 @@
+{
+  "assigned_buffs": {},
+  "direct_ingredients": [
+    "item:garnished:lustrous_pearl",
+    "item:garnished:voltaic_sea_grass",
+    "item:minecraft:bowl",
+    "item:minecraft:tube_coral_fan"
+  ],
+  "enabled": true,
+  "id": "garnished:galvanic_haunting"
+}

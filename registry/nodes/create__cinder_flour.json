@@ -1,0 +1,11 @@
+{
+  "assigned_buffs": {},
+  "direct_ingredients": [
+    "item:create_compressed:cinder_flour_pile",
+    "item:exnihilosequentia:crushed_netherrack",
+    "item:garnished:torrid_blend",
+    "item:minecraft:netherrack"
+  ],
+  "enabled": true,
+  "id": "create:cinder_flour"
+}

@@ -1,0 +1,15 @@
+{
+  "assigned_buffs": {},
+  "direct_ingredients": [
+    "item:croptopia:frying_pan",
+    "item:croptopia:pepper",
+    "item:minecraft:beef",
+    "item:minecraft:brown_mushroom",
+    "item:minecraft:egg",
+    "tag:forge:flour",
+    "tag:forge:mustard",
+    "tag:forge:onions"
+  ],
+  "enabled": true,
+  "id": "croptopia:beef_wellington"
+}

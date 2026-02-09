@@ -1,0 +1,8 @@
+{
+  "assigned_buffs": {},
+  "direct_ingredients": [
+    "tag:forge:raw_mini_chocolate_pie_graham_cracker"
+  ],
+  "enabled": true,
+  "id": "createfood:mini_chocolate_pie_graham_cracker"
+}

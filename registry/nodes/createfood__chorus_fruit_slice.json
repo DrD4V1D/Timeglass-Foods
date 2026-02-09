@@ -1,0 +1,9 @@
+{
+  "assigned_buffs": {},
+  "direct_ingredients": [
+    "item:minecraft:chorus_fruit",
+    "item:minecraft:popped_chorus_fruit"
+  ],
+  "enabled": true,
+  "id": "createfood:chorus_fruit_slice"
+}

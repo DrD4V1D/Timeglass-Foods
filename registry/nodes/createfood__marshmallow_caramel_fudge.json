@@ -1,0 +1,11 @@
+{
+  "assigned_buffs": {},
+  "direct_ingredients": [
+    "tag:forge:butter",
+    "tag:forge:caramel_chips",
+    "tag:forge:condensed_milk",
+    "tag:forge:marshmallow"
+  ],
+  "enabled": true,
+  "id": "createfood:marshmallow_caramel_fudge"
+}

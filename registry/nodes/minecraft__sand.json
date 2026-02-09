@@ -1,0 +1,10 @@
+{
+  "assigned_buffs": {},
+  "direct_ingredients": [
+    "item:minecraft:gravel",
+    "item:minecraft:sandstone",
+    "tag:garnished:stone_types/carnotite"
+  ],
+  "enabled": true,
+  "id": "minecraft:sand"
+}

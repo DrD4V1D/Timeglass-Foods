@@ -1,0 +1,14 @@
+{
+  "assigned_buffs": {},
+  "direct_ingredients": [
+    "tag:forge:bun",
+    "tag:forge:cheese_and_beef_bun_onion_lettuce_tomato",
+    "tag:forge:cheeses",
+    "tag:forge:cooked_beef",
+    "tag:forge:onion",
+    "tag:forge:salad_ingredients",
+    "tag:forge:tomato"
+  ],
+  "enabled": true,
+  "id": "createfood:cheeseburger_onion_lettuce_tomato"
+}

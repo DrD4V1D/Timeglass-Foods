@@ -1,0 +1,9 @@
+{
+  "assigned_buffs": {},
+  "direct_ingredients": [
+    "tag:forge:chocolate_cream_frosting",
+    "tag:forge:cupcake_base"
+  ],
+  "enabled": true,
+  "id": "createfood:chocolate_cream_frosted_cupcake"
+}

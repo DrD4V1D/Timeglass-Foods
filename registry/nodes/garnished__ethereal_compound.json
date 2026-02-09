@@ -1,0 +1,10 @@
+{
+  "assigned_buffs": {},
+  "direct_ingredients": [
+    "item:garnished:ender_jelly",
+    "item:garnished:ethereal_compound_block",
+    "item:garnished:void_dust"
+  ],
+  "enabled": true,
+  "id": "garnished:ethereal_compound"
+}

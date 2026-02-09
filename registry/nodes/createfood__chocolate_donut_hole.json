@@ -1,0 +1,8 @@
+{
+  "assigned_buffs": {},
+  "direct_ingredients": [
+    "tag:forge:chocolate_pastry_base"
+  ],
+  "enabled": true,
+  "id": "createfood:chocolate_donut_hole"
+}

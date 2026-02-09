@@ -1,0 +1,13 @@
+{
+  "assigned_buffs": {},
+  "direct_ingredients": [
+    "item:croptopia:frying_pan",
+    "tag:forge:cheeses",
+    "tag:forge:doughs",
+    "tag:forge:pepperoni",
+    "tag:forge:pineapples",
+    "tag:forge:tomatoes"
+  ],
+  "enabled": true,
+  "id": "croptopia:pineapple_pepperoni_pizza"
+}

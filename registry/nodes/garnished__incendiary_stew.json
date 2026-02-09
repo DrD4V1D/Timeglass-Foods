@@ -1,0 +1,11 @@
+{
+  "assigned_buffs": {},
+  "direct_ingredients": [
+    "item:garnished:voltaic_sea_grass",
+    "item:minecraft:bowl",
+    "item:minecraft:ink_sac",
+    "item:minecraft:tnt"
+  ],
+  "enabled": true,
+  "id": "garnished:incendiary_stew"
+}

@@ -1,0 +1,8 @@
+{
+  "assigned_buffs": {},
+  "direct_ingredients": [
+    "tag:forge:crops/rice"
+  ],
+  "enabled": true,
+  "id": "farmersdelight:cooked_rice"
+}

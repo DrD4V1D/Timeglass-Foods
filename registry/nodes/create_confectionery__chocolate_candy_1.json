@@ -1,0 +1,8 @@
+{
+  "assigned_buffs": {},
+  "direct_ingredients": [
+    "item:create_confectionery:bar_of_white_chocolate"
+  ],
+  "enabled": true,
+  "id": "create_confectionery:chocolate_candy_1"
+}

@@ -1,0 +1,12 @@
+{
+  "assigned_buffs": {},
+  "direct_ingredients": [
+    "item:minecraft:bowl",
+    "tag:forge:cooked_eggs",
+    "tag:forge:fried_egg_plate",
+    "tag:forge:hash_brown_plate",
+    "tag:forge:hash_browns"
+  ],
+  "enabled": true,
+  "id": "createfood:hash_brown_fried_egg_plate"
+}

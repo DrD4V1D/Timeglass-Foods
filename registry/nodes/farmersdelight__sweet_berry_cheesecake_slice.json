@@ -1,0 +1,8 @@
+{
+  "assigned_buffs": {},
+  "direct_ingredients": [
+    "item:farmersdelight:sweet_berry_cheesecake"
+  ],
+  "enabled": true,
+  "id": "farmersdelight:sweet_berry_cheesecake_slice"
+}

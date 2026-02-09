@@ -1,0 +1,10 @@
+{
+  "assigned_buffs": {},
+  "direct_ingredients": [
+    "item:minecraft:sweet_berries",
+    "tag:forge:chorus_fruit",
+    "tag:forge:chorus_fruit_cream_frosted_mini_waffle"
+  ],
+  "enabled": true,
+  "id": "createfood:chorus_fruit_cream_frosted_mini_waffle_chorus_fruit"
+}

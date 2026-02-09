@@ -1,0 +1,8 @@
+{
+  "assigned_buffs": {},
+  "direct_ingredients": [
+    "item:minecraft:chicken"
+  ],
+  "enabled": true,
+  "id": "gourmet:raw_drumstick"
+}

@@ -1,0 +1,10 @@
+{
+  "assigned_buffs": {},
+  "direct_ingredients": [
+    "tag:forge:butter",
+    "tag:forge:raw_macaroni",
+    "tag:forge:water_buckets"
+  ],
+  "enabled": true,
+  "id": "createfood:macaroni"
+}

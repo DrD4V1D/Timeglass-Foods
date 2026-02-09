@@ -1,0 +1,8 @@
+{
+  "assigned_buffs": {},
+  "direct_ingredients": [
+    "tag:forge:raw_toffee_chip_muffin"
+  ],
+  "enabled": true,
+  "id": "createfood:toffee_chip_muffin"
+}

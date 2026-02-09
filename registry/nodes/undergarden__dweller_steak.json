@@ -1,0 +1,8 @@
+{
+  "assigned_buffs": {},
+  "direct_ingredients": [
+    "item:undergarden:raw_dweller_meat"
+  ],
+  "enabled": true,
+  "id": "undergarden:dweller_steak"
+}

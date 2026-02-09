@@ -1,0 +1,9 @@
+{
+  "assigned_buffs": {},
+  "direct_ingredients": [
+    "item:upgrade_aquatic:boiled_pickerelweed_block",
+    "item:upgrade_aquatic:pickerelweed"
+  ],
+  "enabled": true,
+  "id": "upgrade_aquatic:boiled_pickerelweed"
+}

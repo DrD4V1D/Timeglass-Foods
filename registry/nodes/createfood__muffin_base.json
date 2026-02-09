@@ -1,0 +1,8 @@
+{
+  "assigned_buffs": {},
+  "direct_ingredients": [
+    "tag:forge:raw_muffin"
+  ],
+  "enabled": true,
+  "id": "createfood:muffin_base"
+}

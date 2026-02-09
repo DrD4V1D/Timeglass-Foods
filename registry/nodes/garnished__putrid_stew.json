@@ -1,0 +1,11 @@
+{
+  "assigned_buffs": {},
+  "direct_ingredients": [
+    "item:minecraft:bone",
+    "item:minecraft:bowl",
+    "item:minecraft:rotten_flesh",
+    "item:minecraft:slime_ball"
+  ],
+  "enabled": true,
+  "id": "garnished:putrid_stew"
+}

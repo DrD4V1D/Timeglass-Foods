@@ -1,0 +1,12 @@
+{
+  "assigned_buffs": {},
+  "direct_ingredients": [
+    "item:croptopia:frying_pan",
+    "item:minecraft:bread",
+    "tag:forge:lettuce",
+    "tag:forge:onions",
+    "tag:forge:tofu"
+  ],
+  "enabled": true,
+  "id": "croptopia:tofuburger"
+}

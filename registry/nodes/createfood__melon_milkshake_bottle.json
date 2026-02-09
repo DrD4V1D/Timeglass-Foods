@@ -1,0 +1,9 @@
+{
+  "assigned_buffs": {},
+  "direct_ingredients": [
+    "item:minecraft:glass_bottle",
+    "tag:forge:melon_milkshake_bucket"
+  ],
+  "enabled": true,
+  "id": "createfood:melon_milkshake_bottle"
+}

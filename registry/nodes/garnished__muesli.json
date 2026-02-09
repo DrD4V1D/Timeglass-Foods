@@ -1,0 +1,8 @@
+{
+  "assigned_buffs": {},
+  "direct_ingredients": [
+    "item:minecraft:bowl"
+  ],
+  "enabled": true,
+  "id": "garnished:muesli"
+}

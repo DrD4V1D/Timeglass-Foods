@@ -1,0 +1,8 @@
+{
+  "assigned_buffs": {},
+  "direct_ingredients": [
+    "item:autumnity:turkey"
+  ],
+  "enabled": true,
+  "id": "autumnity:cooked_turkey"
+}

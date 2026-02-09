@@ -1,0 +1,8 @@
+{
+  "assigned_buffs": {},
+  "direct_ingredients": [
+    "item:minecraft:paper"
+  ],
+  "enabled": true,
+  "id": "garnished:hardened_wrap"
+}

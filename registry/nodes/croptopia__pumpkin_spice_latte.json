@@ -1,0 +1,12 @@
+{
+  "assigned_buffs": {},
+  "direct_ingredients": [
+    "item:croptopia:coffee",
+    "item:minecraft:pumpkin",
+    "item:minecraft:sugar",
+    "tag:forge:milks",
+    "tag:forge:paprika"
+  ],
+  "enabled": true,
+  "id": "croptopia:pumpkin_spice_latte"
+}

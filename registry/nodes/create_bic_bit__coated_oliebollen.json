@@ -1,0 +1,9 @@
+{
+  "assigned_buffs": {},
+  "direct_ingredients": [
+    "item:create_bic_bit:oliebollen",
+    "item:minecraft:sugar"
+  ],
+  "enabled": true,
+  "id": "create_bic_bit:coated_oliebollen"
+}

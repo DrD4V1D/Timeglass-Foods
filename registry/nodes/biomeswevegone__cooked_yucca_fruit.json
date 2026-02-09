@@ -1,0 +1,8 @@
+{
+  "assigned_buffs": {},
+  "direct_ingredients": [
+    "item:biomeswevegone:yucca_fruit"
+  ],
+  "enabled": true,
+  "id": "biomeswevegone:cooked_yucca_fruit"
+}

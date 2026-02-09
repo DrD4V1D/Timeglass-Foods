@@ -1,0 +1,9 @@
+{
+  "assigned_buffs": {},
+  "direct_ingredients": [
+    "item:croptopia:broccoli_seed",
+    "tag:forge:broccoli"
+  ],
+  "enabled": true,
+  "id": "croptopia:broccoli_seed"
+}

@@ -1,0 +1,10 @@
+{
+  "assigned_buffs": {},
+  "direct_ingredients": [
+    "item:undergarden:glitterkelp",
+    "item:undergarden:gloomgourd",
+    "tag:undergarden:mushrooms"
+  ],
+  "enabled": true,
+  "id": "undergarden:gloomgourd_pie"
+}

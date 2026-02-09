@@ -1,0 +1,11 @@
+{
+  "assigned_buffs": {},
+  "direct_ingredients": [
+    "tag:forge:butter",
+    "tag:forge:condensed_milk",
+    "tag:forge:espresso_powder",
+    "tag:forge:toffee_chips"
+  ],
+  "enabled": true,
+  "id": "createfood:coffee_toffee_fudge"
+}

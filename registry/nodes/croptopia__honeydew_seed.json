@@ -1,0 +1,9 @@
+{
+  "assigned_buffs": {},
+  "direct_ingredients": [
+    "item:croptopia:honeydew_seed",
+    "tag:forge:honeydew"
+  ],
+  "enabled": true,
+  "id": "croptopia:honeydew_seed"
+}

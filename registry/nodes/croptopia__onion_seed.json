@@ -1,0 +1,9 @@
+{
+  "assigned_buffs": {},
+  "direct_ingredients": [
+    "item:croptopia:onion_seed",
+    "tag:forge:onions"
+  ],
+  "enabled": true,
+  "id": "croptopia:onion_seed"
+}

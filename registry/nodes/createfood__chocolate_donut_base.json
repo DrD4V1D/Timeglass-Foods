@@ -1,0 +1,9 @@
+{
+  "assigned_buffs": {},
+  "direct_ingredients": [
+    "tag:forge:chocolate_pastry_base",
+    "tag:forge:vegetable_oil_bucket"
+  ],
+  "enabled": true,
+  "id": "createfood:chocolate_donut_base"
+}

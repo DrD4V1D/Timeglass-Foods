@@ -1,0 +1,9 @@
+{
+  "assigned_buffs": {},
+  "direct_ingredients": [
+    "fluid:minecraft:lava",
+    "item:minecraft:glass_bottle"
+  ],
+  "enabled": true,
+  "id": "hexerei:lava_bottle"
+}

@@ -1,0 +1,11 @@
+{
+  "assigned_buffs": {},
+  "direct_ingredients": [
+    "item:croptopia:frying_pan",
+    "item:minecraft:bread",
+    "tag:croptopia:beef_replacements",
+    "tag:forge:cheeses"
+  ],
+  "enabled": true,
+  "id": "croptopia:cheeseburger"
+}

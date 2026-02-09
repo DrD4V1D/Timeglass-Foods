@@ -1,0 +1,9 @@
+{
+  "assigned_buffs": {},
+  "direct_ingredients": [
+    "item:abnormals_delight:perch_slice",
+    "item:upgrade_aquatic:cooked_perch"
+  ],
+  "enabled": true,
+  "id": "abnormals_delight:cooked_perch_slice"
+}

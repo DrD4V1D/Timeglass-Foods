@@ -1,0 +1,21 @@
+{
+  "assigned_buffs": {},
+  "direct_ingredients": [
+    "item:blue_skies:ventium_milk_bucket",
+    "item:createaddition:cake_base_baked",
+    "item:farmersdelight:cake_slice",
+    "item:minecraft:egg",
+    "item:minecraft:milk_bucket",
+    "item:minecraft:sugar",
+    "item:minecraft:sweet_berries",
+    "item:minecraft:wheat",
+    "tag:forge:buckets/milk",
+    "tag:forge:dough",
+    "tag:forge:eggs",
+    "tag:forge:flour/wheat",
+    "tag:forge:frosted_cake",
+    "tag:forge:milk"
+  ],
+  "enabled": true,
+  "id": "minecraft:cake"
+}

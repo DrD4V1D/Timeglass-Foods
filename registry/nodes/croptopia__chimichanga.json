@@ -1,0 +1,10 @@
+{
+  "assigned_buffs": {},
+  "direct_ingredients": [
+    "item:croptopia:burrito",
+    "item:croptopia:cooking_pot",
+    "tag:forge:flour"
+  ],
+  "enabled": true,
+  "id": "croptopia:chimichanga"
+}

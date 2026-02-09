@@ -1,0 +1,9 @@
+{
+  "assigned_buffs": {},
+  "direct_ingredients": [
+    "item:minecraft:bamboo",
+    "item:minecraft:string"
+  ],
+  "enabled": true,
+  "id": "garnished:bamboo_clod"
+}

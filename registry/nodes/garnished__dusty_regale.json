@@ -1,0 +1,12 @@
+{
+  "assigned_buffs": {},
+  "direct_ingredients": [
+    "item:garnished:nut_flour",
+    "item:minecraft:bowl",
+    "item:minecraft:red_sand",
+    "item:minecraft:sand",
+    "item:minecraft:terracotta"
+  ],
+  "enabled": true,
+  "id": "garnished:dusty_regale"
+}

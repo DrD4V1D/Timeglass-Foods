@@ -1,0 +1,11 @@
+{
+  "assigned_buffs": {},
+  "direct_ingredients": [
+    "item:garnished:chestnut",
+    "item:garnished:garnish_compound",
+    "item:garnished:hazelnut",
+    "item:minecraft:sugar"
+  ],
+  "enabled": true,
+  "id": "garnished:cackling_pie"
+}

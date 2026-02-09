@@ -1,0 +1,9 @@
+{
+  "assigned_buffs": {},
+  "direct_ingredients": [
+    "item:farmersdelight:tomato_sauce",
+    "item:minecraft:bucket"
+  ],
+  "enabled": true,
+  "id": "create_central_kitchen:tomato_sauce_bucket"
+}

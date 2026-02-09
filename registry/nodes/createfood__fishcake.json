@@ -1,0 +1,11 @@
+{
+  "assigned_buffs": {},
+  "direct_ingredients": [
+    "item:minecraft:dried_kelp",
+    "tag:forge:bread_crumbs",
+    "tag:forge:raw_fishcake",
+    "tag:forge:raw_fishes"
+  ],
+  "enabled": true,
+  "id": "createfood:fishcake"
+}

@@ -1,0 +1,8 @@
+{
+  "assigned_buffs": {},
+  "direct_ingredients": [
+    "item:create_confectionery:gingerdough"
+  ],
+  "enabled": true,
+  "id": "create_confectionery:gingerbread_man"
+}

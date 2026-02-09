@@ -1,0 +1,9 @@
+{
+  "assigned_buffs": {},
+  "direct_ingredients": [
+    "tag:forge:cream_frosting",
+    "tag:forge:hollow_white_chocolate"
+  ],
+  "enabled": true,
+  "id": "createfood:cream_white_chocolate"
+}

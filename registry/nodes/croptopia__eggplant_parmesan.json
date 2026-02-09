@@ -1,0 +1,14 @@
+{
+  "assigned_buffs": {},
+  "direct_ingredients": [
+    "item:croptopia:pepper",
+    "item:minecraft:bread",
+    "item:minecraft:egg",
+    "tag:forge:basil",
+    "tag:forge:cheeses",
+    "tag:forge:eggplants",
+    "tag:forge:olive_oils"
+  ],
+  "enabled": true,
+  "id": "croptopia:eggplant_parmesan"
+}

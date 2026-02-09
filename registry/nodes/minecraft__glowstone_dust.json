@@ -1,0 +1,11 @@
+{
+  "assigned_buffs": {},
+  "direct_ingredients": [
+    "item:create:cinder_flour",
+    "item:minecraft:glowstone",
+    "item:minecraft:prismarine_crystals",
+    "tag:garnished:stone_types/carnotite"
+  ],
+  "enabled": true,
+  "id": "minecraft:glowstone_dust"
+}

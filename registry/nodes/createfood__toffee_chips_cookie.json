@@ -1,0 +1,10 @@
+{
+  "assigned_buffs": {},
+  "direct_ingredients": [
+    "tag:forge:raw_toffee_chips_cookie",
+    "tag:forge:sweet_dough",
+    "tag:forge:toffee_chips"
+  ],
+  "enabled": true,
+  "id": "createfood:toffee_chips_cookie"
+}

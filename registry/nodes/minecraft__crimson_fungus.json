@@ -1,0 +1,8 @@
+{
+  "assigned_buffs": {},
+  "direct_ingredients": [
+    "item:minecraft:red_mushroom"
+  ],
+  "enabled": true,
+  "id": "minecraft:crimson_fungus"
+}

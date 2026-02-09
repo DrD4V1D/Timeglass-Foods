@@ -1,0 +1,9 @@
+{
+  "assigned_buffs": {},
+  "direct_ingredients": [
+    "tag:forge:chorus_fruit",
+    "tag:forge:chorus_fruit_cream_frosted_chocolate_sweet_roll"
+  ],
+  "enabled": true,
+  "id": "createfood:chorus_fruit_cream_frosted_chocolate_sweet_roll_chorus_fruit"
+}

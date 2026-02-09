@@ -1,0 +1,9 @@
+{
+  "assigned_buffs": {},
+  "direct_ingredients": [
+    "item:croptopia:asparagus_seed",
+    "tag:forge:asparagus"
+  ],
+  "enabled": true,
+  "id": "croptopia:asparagus_seed"
+}

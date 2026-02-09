@@ -1,0 +1,9 @@
+{
+  "assigned_buffs": {},
+  "direct_ingredients": [
+    "item:croptopia:kiwi_seed",
+    "tag:forge:kiwis"
+  ],
+  "enabled": true,
+  "id": "croptopia:kiwi_seed"
+}

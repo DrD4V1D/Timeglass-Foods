@@ -1,0 +1,11 @@
+{
+  "assigned_buffs": {},
+  "direct_ingredients": [
+    "item:create:cinder_flour",
+    "item:garnished:molten_remnant",
+    "item:garnished:torrid_blend",
+    "item:minecraft:bone"
+  ],
+  "enabled": true,
+  "id": "garnished:malodorous_mixture"
+}

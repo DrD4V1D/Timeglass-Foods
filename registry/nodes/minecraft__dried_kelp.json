@@ -1,0 +1,9 @@
+{
+  "assigned_buffs": {},
+  "direct_ingredients": [
+    "item:undergarden:glitterkelp",
+    "tag:garnished:dried_kelp"
+  ],
+  "enabled": true,
+  "id": "minecraft:dried_kelp"
+}

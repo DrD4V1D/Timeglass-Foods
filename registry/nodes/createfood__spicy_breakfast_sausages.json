@@ -1,0 +1,10 @@
+{
+  "assigned_buffs": {},
+  "direct_ingredients": [
+    "tag:forge:breakfast_sausages",
+    "tag:forge:chili_pepper",
+    "tag:forge:paprika"
+  ],
+  "enabled": true,
+  "id": "createfood:spicy_breakfast_sausages"
+}

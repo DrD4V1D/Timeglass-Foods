@@ -1,0 +1,9 @@
+{
+  "assigned_buffs": {},
+  "direct_ingredients": [
+    "item:farmersdelight:wild_beetroots",
+    "item:minecraft:beetroot"
+  ],
+  "enabled": true,
+  "id": "minecraft:beetroot_seeds"
+}

@@ -1,0 +1,11 @@
+{
+  "assigned_buffs": {},
+  "direct_ingredients": [
+    "item:croptopia:food_press",
+    "item:minecraft:glass_bottle",
+    "item:minecraft:honey_bottle",
+    "tag:forge:water_bottles"
+  ],
+  "enabled": true,
+  "id": "croptopia:mead"
+}

@@ -1,0 +1,9 @@
+{
+  "assigned_buffs": {},
+  "direct_ingredients": [
+    "item:create_confectionery:hot_chocolate_bottle",
+    "item:create_confectionery:marshmallow"
+  ],
+  "enabled": true,
+  "id": "create_confectionery:soothing_hot_chocolate"
+}

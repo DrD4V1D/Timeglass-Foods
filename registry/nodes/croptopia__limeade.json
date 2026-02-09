@@ -1,0 +1,11 @@
+{
+  "assigned_buffs": {},
+  "direct_ingredients": [
+    "item:croptopia:food_press",
+    "item:minecraft:glass_bottle",
+    "tag:forge:lemons",
+    "tag:forge:limes"
+  ],
+  "enabled": true,
+  "id": "croptopia:limeade"
+}

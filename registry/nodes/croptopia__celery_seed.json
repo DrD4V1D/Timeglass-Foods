@@ -1,0 +1,9 @@
+{
+  "assigned_buffs": {},
+  "direct_ingredients": [
+    "item:croptopia:celery_seed",
+    "tag:forge:celery"
+  ],
+  "enabled": true,
+  "id": "croptopia:celery_seed"
+}

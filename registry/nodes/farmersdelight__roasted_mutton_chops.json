@@ -1,0 +1,12 @@
+{
+  "assigned_buffs": {},
+  "direct_ingredients": [
+    "item:farmersdelight:cooked_mutton_chops",
+    "item:farmersdelight:cooked_rice",
+    "item:minecraft:beetroot",
+    "item:minecraft:bowl",
+    "tag:forge:crops/tomato"
+  ],
+  "enabled": true,
+  "id": "farmersdelight:roasted_mutton_chops"
+}

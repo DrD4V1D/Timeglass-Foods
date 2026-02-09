@@ -1,0 +1,8 @@
+{
+  "assigned_buffs": {},
+  "direct_ingredients": [
+    "tag:forge:minced_dragon"
+  ],
+  "enabled": true,
+  "id": "createfood:dragon_patty"
+}

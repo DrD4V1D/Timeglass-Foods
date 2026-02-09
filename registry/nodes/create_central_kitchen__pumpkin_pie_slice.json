@@ -1,0 +1,8 @@
+{
+  "assigned_buffs": {},
+  "direct_ingredients": [
+    "item:minecraft:pumpkin_pie"
+  ],
+  "enabled": true,
+  "id": "create_central_kitchen:pumpkin_pie_slice"
+}

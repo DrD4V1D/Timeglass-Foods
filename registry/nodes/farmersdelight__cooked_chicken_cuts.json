@@ -1,0 +1,9 @@
+{
+  "assigned_buffs": {},
+  "direct_ingredients": [
+    "item:farmersdelight:chicken_cuts",
+    "item:minecraft:cooked_chicken"
+  ],
+  "enabled": true,
+  "id": "farmersdelight:cooked_chicken_cuts"
+}

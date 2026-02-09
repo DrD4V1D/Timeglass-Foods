@@ -1,0 +1,9 @@
+{
+  "assigned_buffs": {},
+  "direct_ingredients": [
+    "tag:forge:hollow_chocolate",
+    "tag:forge:marshmallow"
+  ],
+  "enabled": true,
+  "id": "createfood:marshmallow_chocolate"
+}

@@ -1,0 +1,8 @@
+{
+  "assigned_buffs": {},
+  "direct_ingredients": [
+    "item:neapolitan:banana_cake"
+  ],
+  "enabled": true,
+  "id": "abnormals_delight:banana_cake_slice"
+}

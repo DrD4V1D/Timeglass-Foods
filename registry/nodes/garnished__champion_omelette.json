@@ -1,0 +1,8 @@
+{
+  "assigned_buffs": {},
+  "direct_ingredients": [
+    "item:garnished:ender_egg_shell"
+  ],
+  "enabled": true,
+  "id": "garnished:champion_omelette"
+}

@@ -1,0 +1,12 @@
+{
+  "assigned_buffs": {},
+  "direct_ingredients": [
+    "tag:forge:beetroot",
+    "tag:forge:bread_slice",
+    "tag:forge:bread_slice_beetroot",
+    "tag:forge:bread_slice_lettuce",
+    "tag:forge:salad_ingredients"
+  ],
+  "enabled": true,
+  "id": "createfood:bread_slice_beetroot_lettuce"
+}

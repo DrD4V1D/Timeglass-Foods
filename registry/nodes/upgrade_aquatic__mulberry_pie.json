@@ -1,0 +1,13 @@
+{
+  "assigned_buffs": {},
+  "direct_ingredients": [
+    "item:create_central_kitchen:mulberry_pie_slice",
+    "item:farmersdelight:pie_crust",
+    "item:minecraft:sugar",
+    "item:minecraft:wheat",
+    "item:upgrade_aquatic:mulberry",
+    "tag:forge:eggs"
+  ],
+  "enabled": true,
+  "id": "upgrade_aquatic:mulberry_pie"
+}

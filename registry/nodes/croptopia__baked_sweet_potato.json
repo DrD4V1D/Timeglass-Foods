@@ -1,0 +1,9 @@
+{
+  "assigned_buffs": {},
+  "direct_ingredients": [
+    "item:croptopia:sweetpotato",
+    "tag:forge:sweetpotatos"
+  ],
+  "enabled": true,
+  "id": "croptopia:baked_sweet_potato"
+}

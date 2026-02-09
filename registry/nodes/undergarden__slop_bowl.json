@@ -1,0 +1,11 @@
+{
+  "assigned_buffs": {},
+  "direct_ingredients": [
+    "item:minecraft:bowl",
+    "item:undergarden:blue_mogmoss",
+    "item:undergarden:mogmoss",
+    "item:undergarden:underbeans"
+  ],
+  "enabled": true,
+  "id": "undergarden:slop_bowl"
+}

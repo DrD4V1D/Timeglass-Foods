@@ -1,0 +1,13 @@
+{
+  "assigned_buffs": {},
+  "direct_ingredients": [
+    "tag:forge:bread_slice",
+    "tag:forge:bread_slice_bacon",
+    "tag:forge:bread_slice_bacon_lettuce",
+    "tag:forge:bread_slice_lettuce",
+    "tag:forge:cooked_pork",
+    "tag:forge:salad_ingredients"
+  ],
+  "enabled": true,
+  "id": "createfood:bacon_sandwich_lettuce"
+}

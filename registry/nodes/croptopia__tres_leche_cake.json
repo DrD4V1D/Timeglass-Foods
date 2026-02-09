@@ -1,0 +1,14 @@
+{
+  "assigned_buffs": {},
+  "direct_ingredients": [
+    "item:croptopia:whipping_cream",
+    "item:minecraft:egg",
+    "item:minecraft:sugar",
+    "tag:forge:flour",
+    "tag:forge:milks",
+    "tag:forge:rums",
+    "tag:forge:vanilla"
+  ],
+  "enabled": true,
+  "id": "croptopia:tres_leche_cake"
+}

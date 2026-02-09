@@ -1,0 +1,10 @@
+{
+  "assigned_buffs": {},
+  "direct_ingredients": [
+    "tag:forge:chocolate_graham_cracker",
+    "tag:forge:chocolate_ice_cream_bowl",
+    "tag:forge:chocolate_ice_cream_stick"
+  ],
+  "enabled": true,
+  "id": "createfood:chocolate_graham_cracker_chocolate_ice_cream"
+}

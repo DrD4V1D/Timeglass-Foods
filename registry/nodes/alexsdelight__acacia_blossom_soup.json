@@ -1,0 +1,10 @@
+{
+  "assigned_buffs": {},
+  "direct_ingredients": [
+    "item:alexsmobs:acacia_blossom",
+    "item:farmersdelight:onion",
+    "item:farmersdelight:raw_pasta"
+  ],
+  "enabled": true,
+  "id": "alexsdelight:acacia_blossom_soup"
+}

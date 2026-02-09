@@ -1,0 +1,10 @@
+{
+  "assigned_buffs": {},
+  "direct_ingredients": [
+    "item:garnished:mulch",
+    "item:minecraft:bowl",
+    "tag:minecraft:dirt"
+  ],
+  "enabled": true,
+  "id": "garnished:mud_pie"
+}

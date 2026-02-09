@@ -1,0 +1,11 @@
+{
+  "assigned_buffs": {},
+  "direct_ingredients": [
+    "item:alexs_caves_delight:titanicglaze",
+    "item:farmersdelight:pie_crust",
+    "item:minecraft:magma_block",
+    "tag:forge:milk"
+  ],
+  "enabled": true,
+  "id": "alexs_caves_delight:pieceoftectoniccake"
+}

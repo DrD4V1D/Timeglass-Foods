@@ -1,0 +1,11 @@
+{
+  "assigned_buffs": {},
+  "direct_ingredients": [
+    "item:croptopia:food_press",
+    "item:minecraft:light_blue_dye",
+    "item:minecraft:pink_dye",
+    "item:minecraft:sugar"
+  ],
+  "enabled": true,
+  "id": "croptopia_additions:cotton_candy"
+}

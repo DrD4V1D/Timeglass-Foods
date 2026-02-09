@@ -1,0 +1,8 @@
+{
+  "assigned_buffs": {},
+  "direct_ingredients": [
+    "item:minecraft:cake"
+  ],
+  "enabled": true,
+  "id": "farmersdelight:cake_slice"
+}

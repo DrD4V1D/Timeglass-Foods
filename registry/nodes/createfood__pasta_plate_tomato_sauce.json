@@ -1,0 +1,11 @@
+{
+  "assigned_buffs": {},
+  "direct_ingredients": [
+    "item:farmersdelight:tomato_sauce",
+    "tag:forge:cooked_pasta",
+    "tag:forge:pasta_plate",
+    "tag:forge:raw_pasta"
+  ],
+  "enabled": true,
+  "id": "createfood:pasta_plate_tomato_sauce"
+}

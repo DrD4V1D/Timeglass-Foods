@@ -1,0 +1,9 @@
+{
+  "assigned_buffs": {},
+  "direct_ingredients": [
+    "item:minecraft:glass_bottle",
+    "tag:forge:white_chocolate_bottle"
+  ],
+  "enabled": true,
+  "id": "createfood:hot_white_chocolate_bottle"
+}

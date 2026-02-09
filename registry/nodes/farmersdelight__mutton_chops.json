@@ -1,0 +1,8 @@
+{
+  "assigned_buffs": {},
+  "direct_ingredients": [
+    "item:minecraft:mutton"
+  ],
+  "enabled": true,
+  "id": "farmersdelight:mutton_chops"
+}

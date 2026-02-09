@@ -1,0 +1,10 @@
+{
+  "assigned_buffs": {},
+  "direct_ingredients": [
+    "item:croptopia:frying_pan",
+    "item:minecraft:egg",
+    "tag:forge:cheeses"
+  ],
+  "enabled": true,
+  "id": "croptopia:scrambled_eggs"
+}

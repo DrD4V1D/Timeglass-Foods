@@ -1,0 +1,9 @@
+{
+  "assigned_buffs": {},
+  "direct_ingredients": [
+    "item:gourmet:dumpling_wrapper",
+    "item:minecraft:carrot"
+  ],
+  "enabled": true,
+  "id": "gourmet:carrot_slices"
+}

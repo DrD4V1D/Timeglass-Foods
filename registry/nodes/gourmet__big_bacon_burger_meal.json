@@ -1,0 +1,10 @@
+{
+  "assigned_buffs": {},
+  "direct_ingredients": [
+    "item:gourmet:bacon_burger",
+    "item:gourmet:cooked_fries",
+    "item:minecraft:cookie"
+  ],
+  "enabled": true,
+  "id": "gourmet:big_bacon_burger_meal"
+}

@@ -1,0 +1,9 @@
+{
+  "assigned_buffs": {},
+  "direct_ingredients": [
+    "item:create:bar_of_chocolate",
+    "tag:forge:bars/chocolate"
+  ],
+  "enabled": true,
+  "id": "create_confectionery:white_chocolate_candy_1"
+}

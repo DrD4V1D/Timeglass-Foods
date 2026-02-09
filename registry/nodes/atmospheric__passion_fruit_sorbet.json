@@ -1,0 +1,12 @@
+{
+  "assigned_buffs": {},
+  "direct_ingredients": [
+    "item:minecraft:bowl",
+    "item:minecraft:ice",
+    "item:minecraft:sugar",
+    "item:neapolitan:ice_cubes",
+    "tag:forge:fruits/passion_fruit"
+  ],
+  "enabled": true,
+  "id": "atmospheric:passion_fruit_sorbet"
+}

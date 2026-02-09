@@ -1,0 +1,8 @@
+{
+  "assigned_buffs": {},
+  "direct_ingredients": [
+    "item:atmospheric:yucca_fruit"
+  ],
+  "enabled": true,
+  "id": "atmospheric:roasted_yucca_fruit"
+}

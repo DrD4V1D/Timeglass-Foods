@@ -1,0 +1,11 @@
+{
+  "assigned_buffs": {},
+  "direct_ingredients": [
+    "item:croptopia:pepper",
+    "tag:forge:asparagus",
+    "tag:forge:cheeses",
+    "tag:forge:olive_oils"
+  ],
+  "enabled": true,
+  "id": "croptopia:cheesy_asparagus"
+}

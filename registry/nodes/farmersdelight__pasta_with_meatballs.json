@@ -1,0 +1,15 @@
+{
+  "assigned_buffs": {},
+  "direct_ingredients": [
+    "item:farmersdelight:minced_beef",
+    "item:farmersdelight:tomato_sauce",
+    "item:minecraft:bowl",
+    "tag:forge:cooked_pasta",
+    "tag:forge:pasta",
+    "tag:forge:pasta_plate_meatballs",
+    "tag:forge:pasta_plate_tomato_sauce",
+    "tag:forge:small_meatballs"
+  ],
+  "enabled": true,
+  "id": "farmersdelight:pasta_with_meatballs"
+}

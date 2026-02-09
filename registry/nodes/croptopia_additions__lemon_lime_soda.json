@@ -1,0 +1,13 @@
+{
+  "assigned_buffs": {},
+  "direct_ingredients": [
+    "item:croptopia:food_press",
+    "item:croptopia_additions:carbonation_machine",
+    "item:minecraft:glass_bottle",
+    "item:minecraft:sugar",
+    "tag:forge:lemons",
+    "tag:forge:limes"
+  ],
+  "enabled": true,
+  "id": "croptopia_additions:lemon_lime_soda"
+}

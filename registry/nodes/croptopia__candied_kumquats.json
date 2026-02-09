@@ -1,0 +1,10 @@
+{
+  "assigned_buffs": {},
+  "direct_ingredients": [
+    "item:minecraft:honey_bottle",
+    "tag:forge:kumquats",
+    "tag:forge:vanilla"
+  ],
+  "enabled": true,
+  "id": "croptopia:candied_kumquats"
+}

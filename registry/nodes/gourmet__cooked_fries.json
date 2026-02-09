@@ -1,0 +1,8 @@
+{
+  "assigned_buffs": {},
+  "direct_ingredients": [
+    "item:gourmet:raw_potato_fry"
+  ],
+  "enabled": true,
+  "id": "gourmet:cooked_fries"
+}

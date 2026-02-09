@@ -1,0 +1,11 @@
+{
+  "assigned_buffs": {},
+  "direct_ingredients": [
+    "item:croptopia:ginger",
+    "item:croptopia:paprika",
+    "item:croptopia:pepper",
+    "item:croptopia:turmeric"
+  ],
+  "enabled": true,
+  "id": "croptopia_additions:curry_powder"
+}

@@ -1,0 +1,10 @@
+{
+  "assigned_buffs": {},
+  "direct_ingredients": [
+    "item:biomeswevegone:cooked_oddion_bulb",
+    "item:minecraft:egg",
+    "item:minecraft:wheat"
+  ],
+  "enabled": true,
+  "id": "biomeswevegone:blooming_oddion"
+}

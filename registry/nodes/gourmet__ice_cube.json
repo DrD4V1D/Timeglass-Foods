@@ -1,0 +1,8 @@
+{
+  "assigned_buffs": {},
+  "direct_ingredients": [
+    "item:minecraft:ice"
+  ],
+  "enabled": true,
+  "id": "gourmet:ice_cube"
+}

@@ -1,0 +1,8 @@
+{
+  "assigned_buffs": {},
+  "direct_ingredients": [
+    "item:atmospheric:barrel_cactus_batch"
+  ],
+  "enabled": true,
+  "id": "atmospheric:barrel_cactus"
+}

@@ -1,0 +1,8 @@
+{
+  "assigned_buffs": {},
+  "direct_ingredients": [
+    "tag:forge:berry_cream_cake_glow_berry"
+  ],
+  "enabled": true,
+  "id": "createfood:berry_cream_cake_slice_glow_berry"
+}

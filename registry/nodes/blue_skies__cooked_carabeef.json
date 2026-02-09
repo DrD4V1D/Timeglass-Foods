@@ -1,0 +1,8 @@
+{
+  "assigned_buffs": {},
+  "direct_ingredients": [
+    "item:blue_skies:carabeef"
+  ],
+  "enabled": true,
+  "id": "blue_skies:cooked_carabeef"
+}

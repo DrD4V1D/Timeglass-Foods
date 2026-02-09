@@ -1,0 +1,9 @@
+{
+  "assigned_buffs": {},
+  "direct_ingredients": [
+    "item:croptopia:pineapple_seed",
+    "tag:forge:pineapples"
+  ],
+  "enabled": true,
+  "id": "croptopia:pineapple_seed"
+}

@@ -1,0 +1,8 @@
+{
+  "assigned_buffs": {},
+  "direct_ingredients": [
+    "tag:forge:eggs"
+  ],
+  "enabled": true,
+  "id": "incubation:fried_egg"
+}

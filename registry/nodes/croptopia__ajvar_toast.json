@@ -1,0 +1,9 @@
+{
+  "assigned_buffs": {},
+  "direct_ingredients": [
+    "item:croptopia:ajvar",
+    "item:croptopia:toast"
+  ],
+  "enabled": true,
+  "id": "croptopia:ajvar_toast"
+}

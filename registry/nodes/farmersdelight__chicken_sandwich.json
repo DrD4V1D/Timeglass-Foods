@@ -1,0 +1,12 @@
+{
+  "assigned_buffs": {},
+  "direct_ingredients": [
+    "item:minecraft:carrot",
+    "tag:forge:bread",
+    "tag:forge:bread_lettuce_carrot",
+    "tag:forge:cooked_chicken",
+    "tag:forge:salad_ingredients"
+  ],
+  "enabled": true,
+  "id": "farmersdelight:chicken_sandwich"
+}

@@ -1,0 +1,9 @@
+{
+  "assigned_buffs": {},
+  "direct_ingredients": [
+    "fluid:hexerei:tallow_fluid",
+    "item:minecraft:glass_bottle"
+  ],
+  "enabled": true,
+  "id": "hexerei:tallow_bottle"
+}

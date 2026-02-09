@@ -1,0 +1,8 @@
+{
+  "assigned_buffs": {},
+  "direct_ingredients": [
+    "item:upgrade_aquatic:lionfish"
+  ],
+  "enabled": true,
+  "id": "upgrade_aquatic:cooked_lionfish"
+}

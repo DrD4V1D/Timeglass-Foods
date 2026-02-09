@@ -1,0 +1,8 @@
+{
+  "assigned_buffs": {},
+  "direct_ingredients": [
+    "item:minecraft:sugar"
+  ],
+  "enabled": true,
+  "id": "garnished:frost"
+}

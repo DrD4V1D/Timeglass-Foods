@@ -1,0 +1,11 @@
+{
+  "assigned_buffs": {},
+  "direct_ingredients": [
+    "item:garnished:ungarnished_peanut",
+    "item:garnished:yam_o_glow_puffs",
+    "item:minecraft:bowl",
+    "item:minecraft:hanging_roots"
+  ],
+  "enabled": true,
+  "id": "garnished:shining_dish"
+}

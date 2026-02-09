@@ -1,0 +1,9 @@
+{
+  "assigned_buffs": {},
+  "direct_ingredients": [
+    "item:minecraft:gunpowder",
+    "item:yungscavebiomes:ancient_sand"
+  ],
+  "enabled": true,
+  "id": "minecraft:tnt"
+}

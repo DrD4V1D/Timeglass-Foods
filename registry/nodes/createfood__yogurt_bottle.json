@@ -1,0 +1,11 @@
+{
+  "assigned_buffs": {},
+  "direct_ingredients": [
+    "item:minecraft:glass_bottle",
+    "tag:forge:milks",
+    "tag:forge:sour_cream_bottle",
+    "tag:forge:yogurt_bucket"
+  ],
+  "enabled": true,
+  "id": "createfood:yogurt_bottle"
+}

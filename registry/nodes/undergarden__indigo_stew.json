@@ -1,0 +1,9 @@
+{
+  "assigned_buffs": {},
+  "direct_ingredients": [
+    "item:minecraft:bowl",
+    "item:undergarden:indigo_mushroom"
+  ],
+  "enabled": true,
+  "id": "undergarden:indigo_stew"
+}

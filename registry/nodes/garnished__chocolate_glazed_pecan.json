@@ -1,0 +1,8 @@
+{
+  "assigned_buffs": {},
+  "direct_ingredients": [
+    "item:garnished:pecan"
+  ],
+  "enabled": true,
+  "id": "garnished:chocolate_glazed_pecan"
+}

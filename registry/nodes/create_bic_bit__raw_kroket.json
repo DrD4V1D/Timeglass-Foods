@@ -1,0 +1,10 @@
+{
+  "assigned_buffs": {},
+  "direct_ingredients": [
+    "item:create:wheat_flour",
+    "tag:forge:raw_meat",
+    "tag:forge:raw_meat_delight"
+  ],
+  "enabled": true,
+  "id": "create_bic_bit:raw_kroket"
+}

@@ -1,0 +1,9 @@
+{
+  "assigned_buffs": {},
+  "direct_ingredients": [
+    "item:minecraft:glass_bottle",
+    "item:minecraft:milk_bucket"
+  ],
+  "enabled": true,
+  "id": "farmersdelight:milk_bottle"
+}

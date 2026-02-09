@@ -1,0 +1,8 @@
+{
+  "assigned_buffs": {},
+  "direct_ingredients": [
+    "item:minecraft:warped_fungus"
+  ],
+  "enabled": true,
+  "id": "garnished:crushed_warped_fungus"
+}

@@ -1,0 +1,8 @@
+{
+  "assigned_buffs": {},
+  "direct_ingredients": [
+    "item:gourmet:carrot_cake_base"
+  ],
+  "enabled": true,
+  "id": "gourmet:carrot_cake"
+}

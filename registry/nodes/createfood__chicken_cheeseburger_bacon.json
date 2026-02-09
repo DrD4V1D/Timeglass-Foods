@@ -1,0 +1,12 @@
+{
+  "assigned_buffs": {},
+  "direct_ingredients": [
+    "tag:forge:bun",
+    "tag:forge:cheeses",
+    "tag:forge:chicken_bun_cheese_bacon",
+    "tag:forge:chicken_patty",
+    "tag:forge:cooked_pork"
+  ],
+  "enabled": true,
+  "id": "createfood:chicken_cheeseburger_bacon"
+}

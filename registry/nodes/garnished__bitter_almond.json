@@ -1,0 +1,11 @@
+{
+  "assigned_buffs": {},
+  "direct_ingredients": [
+    "item:garnished:almond",
+    "item:garnished:garnish_powder",
+    "item:minecraft:flint",
+    "tag:minecraft:flowers"
+  ],
+  "enabled": true,
+  "id": "garnished:bitter_almond"
+}

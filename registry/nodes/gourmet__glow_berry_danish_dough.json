@@ -1,0 +1,9 @@
+{
+  "assigned_buffs": {},
+  "direct_ingredients": [
+    "item:gourmet:cheese_danish_dough",
+    "item:minecraft:glow_berries"
+  ],
+  "enabled": true,
+  "id": "gourmet:glow_berry_danish_dough"
+}

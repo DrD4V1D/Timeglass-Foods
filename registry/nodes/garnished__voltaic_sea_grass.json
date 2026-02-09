@@ -1,0 +1,8 @@
+{
+  "assigned_buffs": {},
+  "direct_ingredients": [
+    "item:minecraft:seagrass"
+  ],
+  "enabled": true,
+  "id": "garnished:voltaic_sea_grass"
+}

@@ -1,0 +1,11 @@
+{
+  "assigned_buffs": {},
+  "direct_ingredients": [
+    "item:garnished:garnish_compound",
+    "item:garnished:macadamia",
+    "item:garnished:mastic_block",
+    "item:garnished:soul_roots"
+  ],
+  "enabled": true,
+  "id": "garnished:murky_jelly"
+}

@@ -1,0 +1,11 @@
+{
+  "assigned_buffs": {},
+  "direct_ingredients": [
+    "item:minecraft:baked_potato",
+    "tag:delightful:patties",
+    "tag:forge:cooked_beef",
+    "tag:forge:milk"
+  ],
+  "enabled": true,
+  "id": "farmersdelight:stuffed_potato"
+}

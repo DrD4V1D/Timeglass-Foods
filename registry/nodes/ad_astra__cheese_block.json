@@ -1,0 +1,8 @@
+{
+  "assigned_buffs": {},
+  "direct_ingredients": [
+    "item:ad_astra:cheese"
+  ],
+  "enabled": true,
+  "id": "ad_astra:cheese_block"
+}

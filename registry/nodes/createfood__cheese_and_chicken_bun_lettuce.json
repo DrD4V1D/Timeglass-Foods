@@ -1,0 +1,13 @@
+{
+  "assigned_buffs": {},
+  "direct_ingredients": [
+    "tag:forge:bun",
+    "tag:forge:cheese_and_chicken_bun",
+    "tag:forge:cheeses",
+    "tag:forge:chicken_bun_lettuce",
+    "tag:forge:chicken_patty",
+    "tag:forge:salad_ingredients"
+  ],
+  "enabled": true,
+  "id": "createfood:cheese_and_chicken_bun_lettuce"
+}

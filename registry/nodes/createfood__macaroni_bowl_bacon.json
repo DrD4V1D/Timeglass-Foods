@@ -1,0 +1,9 @@
+{
+  "assigned_buffs": {},
+  "direct_ingredients": [
+    "tag:forge:cooked_pork",
+    "tag:forge:macaroni_bowl"
+  ],
+  "enabled": true,
+  "id": "createfood:macaroni_bowl_bacon"
+}

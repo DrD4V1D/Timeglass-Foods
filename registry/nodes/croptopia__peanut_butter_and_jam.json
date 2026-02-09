@@ -1,0 +1,10 @@
+{
+  "assigned_buffs": {},
+  "direct_ingredients": [
+    "item:croptopia:peanut_butter",
+    "item:minecraft:bread",
+    "tag:forge:jams"
+  ],
+  "enabled": true,
+  "id": "croptopia:peanut_butter_and_jam"
+}

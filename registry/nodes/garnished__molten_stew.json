@@ -1,0 +1,12 @@
+{
+  "assigned_buffs": {},
+  "direct_ingredients": [
+    "item:garnished:molten_remnant",
+    "item:garnished:torrid_blend",
+    "item:minecraft:blaze_powder",
+    "item:minecraft:bowl",
+    "item:minecraft:magma_cream"
+  ],
+  "enabled": true,
+  "id": "garnished:molten_stew"
+}

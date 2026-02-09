@@ -1,0 +1,9 @@
+{
+  "assigned_buffs": {},
+  "direct_ingredients": [
+    "tag:forge:eggs",
+    "tag:forge:fruits/passion_fruit"
+  ],
+  "enabled": true,
+  "id": "atmospheric:passion_fruit_tart"
+}

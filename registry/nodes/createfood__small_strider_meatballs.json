@@ -1,0 +1,8 @@
+{
+  "assigned_buffs": {},
+  "direct_ingredients": [
+    "tag:forge:strider_meatball"
+  ],
+  "enabled": true,
+  "id": "createfood:small_strider_meatballs"
+}

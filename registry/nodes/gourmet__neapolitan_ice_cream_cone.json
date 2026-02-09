@@ -1,0 +1,11 @@
+{
+  "assigned_buffs": {},
+  "direct_ingredients": [
+    "item:gourmet:chocolate_ice_cream_scoop",
+    "item:gourmet:ice_cream_scoop",
+    "item:gourmet:sweet_berry_ice_cream_scoop",
+    "item:gourmet:waffle"
+  ],
+  "enabled": true,
+  "id": "gourmet:neapolitan_ice_cream_cone"
+}

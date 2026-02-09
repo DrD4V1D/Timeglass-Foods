@@ -1,0 +1,9 @@
+{
+  "assigned_buffs": {},
+  "direct_ingredients": [
+    "item:create:cinder_flour",
+    "item:garnished:pecan"
+  ],
+  "enabled": true,
+  "id": "garnished:cinder_pecan"
+}

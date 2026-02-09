@@ -1,0 +1,9 @@
+{
+  "assigned_buffs": {},
+  "direct_ingredients": [
+    "tag:forge:caramel",
+    "tag:forge:popcorn"
+  ],
+  "enabled": true,
+  "id": "createfood:caramel_popcorn"
+}

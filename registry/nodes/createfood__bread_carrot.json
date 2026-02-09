@@ -1,0 +1,9 @@
+{
+  "assigned_buffs": {},
+  "direct_ingredients": [
+    "item:minecraft:bread",
+    "tag:forge:carrot"
+  ],
+  "enabled": true,
+  "id": "createfood:bread_carrot"
+}

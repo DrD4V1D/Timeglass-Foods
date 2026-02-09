@@ -1,0 +1,9 @@
+{
+  "assigned_buffs": {},
+  "direct_ingredients": [
+    "tag:forge:marshmallow",
+    "tag:forge:mini_chocolate_pie_graham_cracker"
+  ],
+  "enabled": true,
+  "id": "createfood:mini_smores_pie"
+}

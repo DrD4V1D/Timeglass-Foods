@@ -1,0 +1,16 @@
+{
+  "assigned_buffs": {},
+  "direct_ingredients": [
+    "item:croptopia:frying_pan",
+    "item:croptopia:pepper",
+    "item:minecraft:potato",
+    "tag:croptopia:beef_mutton",
+    "tag:forge:corn",
+    "tag:forge:garlic",
+    "tag:forge:onions",
+    "tag:forge:salts",
+    "tag:forge:tomatoes"
+  ],
+  "enabled": true,
+  "id": "croptopia:shepherds_pie"
+}

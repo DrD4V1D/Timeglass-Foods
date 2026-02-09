@@ -1,0 +1,9 @@
+{
+  "assigned_buffs": {},
+  "direct_ingredients": [
+    "item:abnormals_delight:duck_fillet",
+    "item:environmental:cooked_duck"
+  ],
+  "enabled": true,
+  "id": "abnormals_delight:cooked_duck_fillet"
+}

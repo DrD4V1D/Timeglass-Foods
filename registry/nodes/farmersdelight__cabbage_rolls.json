@@ -1,0 +1,9 @@
+{
+  "assigned_buffs": {},
+  "direct_ingredients": [
+    "tag:farmersdelight:cabbage_roll_ingredients",
+    "tag:forge:crops/cabbage"
+  ],
+  "enabled": true,
+  "id": "farmersdelight:cabbage_rolls"
+}

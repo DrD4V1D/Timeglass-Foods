@@ -1,0 +1,24 @@
+{
+  "assigned_buffs": {},
+  "direct_ingredients": [
+    "item:atmospheric:tall_yucca_flower",
+    "item:atmospheric:yucca_flower",
+    "item:blue_skies:crystal_flower",
+    "item:byg:white_anemone",
+    "item:farmersdelight:wild_carrots",
+    "item:minecraft:azure_bluet",
+    "item:minecraft:blue_orchid",
+    "item:minecraft:bone_meal",
+    "item:minecraft:oxeye_daisy",
+    "item:minecraft:white_tulip",
+    "item:regions_unexplored:aster",
+    "item:regions_unexplored:daisy",
+    "item:regions_unexplored:light_gray_snowbelle",
+    "item:regions_unexplored:tassel",
+    "item:regions_unexplored:white_trillium",
+    "item:regions_unexplored:wilting_trillium",
+    "tag:botania:petals/light_gray"
+  ],
+  "enabled": true,
+  "id": "minecraft:light_gray_dye"
+}

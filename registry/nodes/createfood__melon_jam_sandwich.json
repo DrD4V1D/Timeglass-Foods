@@ -1,0 +1,10 @@
+{
+  "assigned_buffs": {},
+  "direct_ingredients": [
+    "tag:forge:bread_slice",
+    "tag:forge:bread_slice_melon_jam",
+    "tag:forge:melon_jam_bottle"
+  ],
+  "enabled": true,
+  "id": "createfood:melon_jam_sandwich"
+}

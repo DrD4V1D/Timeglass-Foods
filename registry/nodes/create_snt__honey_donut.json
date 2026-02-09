@@ -1,0 +1,8 @@
+{
+  "assigned_buffs": {},
+  "direct_ingredients": [
+    "item:create_snt:donut"
+  ],
+  "enabled": true,
+  "id": "create_snt:honey_donut"
+}

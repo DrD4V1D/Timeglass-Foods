@@ -1,0 +1,8 @@
+{
+  "assigned_buffs": {},
+  "direct_ingredients": [
+    "item:gourmet:dumpling_wrapper"
+  ],
+  "enabled": true,
+  "id": "gourmet:dumpling"
+}

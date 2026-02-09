@@ -1,0 +1,12 @@
+{
+  "assigned_buffs": {},
+  "direct_ingredients": [
+    "item:croptopia:cooking_pot",
+    "item:minecraft:egg",
+    "item:minecraft:sugar",
+    "tag:forge:milks",
+    "tag:forge:vanilla"
+  ],
+  "enabled": true,
+  "id": "croptopia:vanilla_ice_cream"
+}

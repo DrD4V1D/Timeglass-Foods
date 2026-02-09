@@ -1,0 +1,10 @@
+{
+  "assigned_buffs": {},
+  "direct_ingredients": [
+    "item:minecraft:red_dye",
+    "item:minecraft:stick",
+    "tag:forge:cobblestone"
+  ],
+  "enabled": true,
+  "id": "create_snt:red_rock_candy"
+}

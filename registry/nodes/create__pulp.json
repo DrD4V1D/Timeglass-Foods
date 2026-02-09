@@ -1,0 +1,9 @@
+{
+  "assigned_buffs": {},
+  "direct_ingredients": [
+    "item:create_compressed:pulp_block",
+    "tag:create:pulpifiable"
+  ],
+  "enabled": true,
+  "id": "create:pulp"
+}

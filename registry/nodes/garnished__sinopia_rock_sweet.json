@@ -1,0 +1,10 @@
+{
+  "assigned_buffs": {},
+  "direct_ingredients": [
+    "item:garnished:prickly_pear",
+    "item:garnished:shattered_amber_remnant",
+    "item:minecraft:slime_ball"
+  ],
+  "enabled": true,
+  "id": "garnished:sinopia_rock_sweet"
+}

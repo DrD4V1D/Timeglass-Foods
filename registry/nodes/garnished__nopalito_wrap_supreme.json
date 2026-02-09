@@ -1,0 +1,13 @@
+{
+  "assigned_buffs": {},
+  "direct_ingredients": [
+    "item:garnished:almond_cheese",
+    "item:garnished:bristled_tortilla",
+    "item:garnished:cooked_tenebrous_meat",
+    "item:garnished:prickly_pear",
+    "item:garnished:solemn_dust",
+    "item:garnished:torrid_blend"
+  ],
+  "enabled": true,
+  "id": "garnished:nopalito_wrap_supreme"
+}

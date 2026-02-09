@@ -1,0 +1,9 @@
+{
+  "assigned_buffs": {},
+  "direct_ingredients": [
+    "tag:forge:chorus_fruit_ice_cream_stick",
+    "tag:forge:waffle_cone"
+  ],
+  "enabled": true,
+  "id": "createfood:chorus_fruit_ice_cream_cone"
+}

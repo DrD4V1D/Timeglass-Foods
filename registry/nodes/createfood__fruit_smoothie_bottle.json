@@ -1,0 +1,12 @@
+{
+  "assigned_buffs": {},
+  "direct_ingredients": [
+    "item:minecraft:glass_bottle",
+    "tag:forge:fruit_smoothie_bucket",
+    "tag:forge:fruits",
+    "tag:forge:ice_blocks",
+    "tag:forge:yogurt_bottle"
+  ],
+  "enabled": true,
+  "id": "createfood:fruit_smoothie_bottle"
+}

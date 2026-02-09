@@ -1,0 +1,9 @@
+{
+  "assigned_buffs": {},
+  "direct_ingredients": [
+    "item:croptopia:tomatillo_seed",
+    "tag:forge:tomatillos"
+  ],
+  "enabled": true,
+  "id": "croptopia:tomatillo_seed"
+}

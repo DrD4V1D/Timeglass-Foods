@@ -1,0 +1,12 @@
+{
+  "assigned_buffs": {},
+  "direct_ingredients": [
+    "item:garnished:pistachio",
+    "item:garnished:salt_compound",
+    "item:minecraft:carrot",
+    "tag:garnished:berries",
+    "tag:minecraft:leaves"
+  ],
+  "enabled": true,
+  "id": "garnished:salad"
+}

@@ -1,0 +1,9 @@
+{
+  "assigned_buffs": {},
+  "direct_ingredients": [
+    "item:minecraft:sugar",
+    "tag:forge:corn"
+  ],
+  "enabled": true,
+  "id": "croptopia:candy_corn"
+}

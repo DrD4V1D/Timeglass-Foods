@@ -1,0 +1,9 @@
+{
+  "assigned_buffs": {},
+  "direct_ingredients": [
+    "tag:forge:pastry_base",
+    "tag:forge:white_chocolate_bottle"
+  ],
+  "enabled": true,
+  "id": "createfood:white_chocolate_pastry"
+}

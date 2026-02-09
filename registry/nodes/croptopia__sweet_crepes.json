@@ -1,0 +1,13 @@
+{
+  "assigned_buffs": {},
+  "direct_ingredients": [
+    "item:croptopia:frying_pan",
+    "item:minecraft:egg",
+    "item:minecraft:sugar",
+    "tag:forge:flour",
+    "tag:forge:jams",
+    "tag:forge:milks"
+  ],
+  "enabled": true,
+  "id": "croptopia:sweet_crepes"
+}
