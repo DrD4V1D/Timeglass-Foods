@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """
-Timeglass Foods - Recipe & Registry Sync (skeleton)
+Timeglass Foods - Recipe & Registry Sync
 This script will:
 - Scan mod jars and datapacks for recipe JSON
 - Extract direct (non-recursive) ingredient tokens per output item
@@ -149,7 +149,7 @@ def main(argv: list[str] | None = None) -> int:
             print(f"[INFO] Generated foods.json + stats.json in: {generated_dir}")
             print(f"[INFO] edible_output_count: {len(edible_outputs)}")
     if args.verbose:
-        print("[INFO] Pipeline completed (skeleton run)")
+        print("[INFO] Pipeline completed")
     return 0
 # ------------------------------------------------------------------------------
 # JSON utilities
