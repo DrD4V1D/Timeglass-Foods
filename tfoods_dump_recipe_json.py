@@ -126,7 +126,6 @@ def main(argv: list[str] | None = None) -> int:
     if args.verbose:
         print(f"[INFO] direct_map outputs: {len(direct_map)}")
 
-    # Optional: write direct_map for inspection / downstream use
     if args.direct_map_out is not None:
         if args.dry_run:
             if args.verbose:
@@ -141,14 +140,21 @@ def main(argv: list[str] | None = None) -> int:
     edible_items = load_edible_items(args.edibles)
 
     # 4. Sync registry nodes (preserve assigned buffs)
+    expected_nodes = compute_expected_nodes(direct_map)
+    if args.dry_run:
+        sync_stats = {"skipped": True, "reason": "dry_run", "expected_node_count": len(expected_nodes)}
+        if args.verbose:
+            print("[DRY-RUN] Would sync registry nodes")
+    else:
+        sync_stats = sync_registry_nodes(
+            registry_dir=args.registry,
+            expected_nodes=expected_nodes,
+            direct_map=direct_map,
+            edible=edible_items,
+        )
+
     if args.verbose:
-        print("[INFO] Registry sync is not implemented yet; skipping step 4.")
-    # stats = sync_registry_nodes(
-    #     registry_dir=args.registry,
-    #     expected_nodes=...,
-    #     direct_map=direct_map,
-    #     edible=edible_items,
-    # )
+        print(f"[INFO] Registry sync stats: {sync_stats}")
 
     # 5. Write generated outputs
     outputs_set = set(direct_map.keys())
@@ -158,6 +164,7 @@ def main(argv: list[str] | None = None) -> int:
         "direct_map_output_count": len(outputs_set),
         "edible_item_count": len(edible_items),
         "edible_output_count": len(edible_outputs),
+        "registry_sync": sync_stats,
     }
 
     if args.dry_run:
@@ -768,21 +775,49 @@ def load_edible_items(edibles_path: Path) -> Set[str]:
 
 def node_filename(item_id: str) -> str:
     """
-    Convert an item ID into a filesystem-safe filename.
+    Convert a node ID into a filesystem-safe filename.
 
-    Example:
-      minecraft:bread -> minecraft__bread.json
+    Supports:
+    - item IDs: "minecraft:bread"
+    - tag IDs:  "tag:forge:dough"
     """
-    pass
+    safe = item_id.strip()
+    safe = safe.replace("/", "--")
+    safe = safe.replace(":", "__")
+    return f"{safe}.json"
+
 
 
 def load_node(path: Path) -> dict:
     """
     Load a registry node JSON from disk.
 
-    Must preserve unknown fields and manual assignments.
+    Must be schema-forgiving:
+    - preserve unknown fields
+    - ensure required keys exist
+    - never drop assigned_buffs
     """
-    pass
+    if not path.exists():
+        # Caller should create a template via new_node_template(id)
+        # but this makes load_node safe if used directly.
+        return {}
+
+    obj = read_json(path)
+    if not isinstance(obj, dict):
+        raise ValueError(f"Node file must contain a JSON object: {path}")
+
+    # Ensure required keys exist (do not overwrite existing values)
+    obj.setdefault("enabled", True)
+    obj.setdefault("direct_ingredients", [])
+    obj.setdefault("assigned_buffs", {})
+
+    # Basic type normalization (conservative)
+    if not isinstance(obj["direct_ingredients"], list):
+        obj["direct_ingredients"] = []
+    if not isinstance(obj["assigned_buffs"], dict):
+        obj["assigned_buffs"] = {}
+
+    return obj
 
 
 def new_node_template(item_id: str) -> dict:
@@ -790,15 +825,22 @@ def new_node_template(item_id: str) -> dict:
     Create a new registry node with minimal required structure.
 
     assigned_buffs must always exist and start empty.
+    direct_ingredients defaults to empty and will be filled for recipe outputs.
     """
-    pass
-
+    return {
+        "id": item_id,
+        "enabled": True,
+        "direct_ingredients": [],
+        "assigned_buffs": {},
+    }
 
 def save_node(path: Path, node: dict) -> None:
     """
-    Persist a registry node to disk deterministically.
+    Persist a registry node deterministically.
+
+    Uses write_json() so we get stable formatting and atomic-ish writes.
     """
-    pass
+    write_json(path, node)
 
 
 # ------------------------------------------------------------------------------
@@ -811,11 +853,34 @@ def compute_expected_nodes(
     """
     Compute the set of node IDs that should exist.
 
-    This may include:
-    - all recipe outputs
-    - referenced item ingredients
+    Includes:
+    - all recipe outputs (item IDs)
+    - referenced item ingredients as nodes: "minecraft:wheat"
+    - referenced tag ingredients as nodes: "tag:forge:dough"
+
+    Notes:
+    - Tag nodes use the canonical token form "tag:<namespace>:<path>".
+    - We do not expand tags here. This is just node existence.
     """
-    pass
+    expected: Set[str] = set(direct_map.keys())
+
+    for tokens in direct_map.values():
+        for tok in tokens:
+            if not isinstance(tok, str):
+                continue
+
+            if tok.startswith("item:"):
+                item_id = tok[len("item:") :].strip()
+                if item_id and ":" in item_id:
+                    expected.add(item_id)
+
+            elif tok.startswith("tag:"):
+                tag_id = tok.strip()
+                # tag nodes are stored as full token id: "tag:forge:dough"
+                if ":" in tag_id[len("tag:") :]:
+                    expected.add(tag_id)
+
+    return expected
 
 
 def update_node_structural_fields(
@@ -823,14 +888,41 @@ def update_node_structural_fields(
     *,
     item_id: str,
     direct_map: Dict[str, List[str]],
-    edible: Set[str],
+    edible: Set[str],  # not used yet, but kept for future cached facts if you want
 ) -> dict:
     """
     Update structural fields on a node.
 
-    This function MUST NOT modify assigned_buffs.
+    Rules:
+    - MUST NOT modify assigned_buffs
+    - Set node["id"] = item_id
+    - Set enabled True (because this node is expected)
+    - If item_id is a recipe output (exists in direct_map keys), overwrite direct_ingredients
+      from direct_map[item_id]
+    - Otherwise leave direct_ingredients unchanged (so manual wiring is preserved)
     """
-    pass
+    # Preserve manual buffs exactly
+    assigned_buffs = node.get("assigned_buffs", {})
+    if not isinstance(assigned_buffs, dict):
+        assigned_buffs = {}
+
+    # Ensure required fields exist
+    node.setdefault("direct_ingredients", [])
+    if not isinstance(node["direct_ingredients"], list):
+        node["direct_ingredients"] = []
+
+    node["id"] = item_id
+    node["enabled"] = True
+
+    # Only overwrite direct_ingredients for recipe outputs
+    if item_id in direct_map:
+        di = direct_map.get(item_id) or []
+        node["direct_ingredients"] = di if isinstance(di, list) else []
+
+    # Restore manual buffs (guarantee)
+    node["assigned_buffs"] = assigned_buffs
+    return node
+
 
 
 def sync_registry_nodes(
@@ -843,15 +935,95 @@ def sync_registry_nodes(
     """
     Synchronize registry nodes with expected state.
 
-    - Creates new nodes
+    - Creates missing nodes
     - Updates existing nodes
-    - Disables missing nodes
-    - Never deletes files
+    - Disables nodes no longer expected (enabled=False)
     - Never overwrites assigned_buffs
+    - Does not delete files
 
     Returns stats about the operation.
     """
-    pass
+    nodes_dir = registry_dir / "nodes"
+    nodes_dir.mkdir(parents=True, exist_ok=True)
+
+    # Index existing nodes by reading their "id" field (filename is not authoritative)
+    existing_by_id: Dict[str, Path] = {}
+    for path in sorted(nodes_dir.glob("*.json")):
+        try:
+            obj = load_node(path)
+        except Exception:
+            # If a node file is corrupted, we skip indexing it rather than crashing.
+            # You can handle/report these later if needed.
+            continue
+
+        node_id = obj.get("id")
+        if isinstance(node_id, str) and node_id.strip():
+            existing_by_id[node_id.strip()] = path
+
+    created = 0
+    updated = 0
+    unchanged = 0
+    disabled = 0
+
+    # Create/update expected nodes
+    for node_id in sorted(expected_nodes):
+        path = existing_by_id.get(node_id)
+        if path is None:
+            path = nodes_dir / node_filename(node_id)
+            node = new_node_template(node_id)
+            created += 1
+        else:
+            node = load_node(path)
+
+        before = json.dumps(node, sort_keys=True)
+
+        node = update_node_structural_fields(
+            node,
+            item_id=node_id,
+            direct_map=direct_map,
+            edible=edible,
+        )
+
+        after = json.dumps(node, sort_keys=True)
+
+        if after != before:
+            save_node(path, node)
+            if path not in existing_by_id.values():
+                # already counted as created above
+                pass
+            else:
+                updated += 1
+        else:
+            unchanged += 1
+
+    # Disable nodes that are no longer expected
+    expected_set = set(expected_nodes)
+    for node_id, path in existing_by_id.items():
+        if node_id in expected_set:
+            continue
+
+        node = load_node(path)
+
+        # Preserve assigned buffs; only flip enabled
+        assigned_buffs = node.get("assigned_buffs", {})
+        if not isinstance(assigned_buffs, dict):
+            assigned_buffs = {}
+
+        if node.get("enabled", True) is not False:
+            node["enabled"] = False
+            node["assigned_buffs"] = assigned_buffs
+            save_node(path, node)
+            disabled += 1
+
+    return {
+        "expected_node_count": len(expected_nodes),
+        "created": created,
+        "updated": updated,
+        "unchanged": unchanged,
+        "disabled": disabled,
+        "node_files_indexed": len(existing_by_id),
+    }
+
 
 
 # ------------------------------------------------------------------------------
